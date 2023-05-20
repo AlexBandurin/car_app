@@ -17,6 +17,7 @@ df = pd.read_csv('car_data_sorted_Full.csv')
 df_info = pd.read_csv('df_info.csv')
 clicks = 0
 price_old = 0
+Flag = False
 
 file_name = "xgb_model.pkl"
 bst = pickle.load(open(file_name, "rb"))
@@ -260,34 +261,34 @@ def get_price(year, make, model):
 def get_price(clicks, year, make, model, odometer, cylinders, condition, color, title, fuel, transmission, drive):
         global frame
         global price_old
-        if 'button' == ctx.triggered_id and (isinstance(make,str) and isinstance(model,str) and isinstance(cylinders,str) 
-        and isinstance(color,str) > 0 and isinstance(title,str) > 0 and isinstance(fuel,str) and isinstance(drive,str) > 0 and isinstance(odometer,int)
-        and isinstance(year,int) and isinstance(condition,int) and isinstance(transmission, int)):
-            if  (len(make) > 0 and len(model) > 0 and len(cylinders) > 0 and len(color) > 0 and len(title) > 0 and len(fuel) > 0 and len(drive) > 0 ):
-
-                #frame = pd.DataFrame(np.zeros([1,df_info.shape[1]]), columns = df_info.columns)
-                frame['Make_'+ make] = 1 #
-                frame['Model_'+ model] = 1 #
-                frame['Drive_'+ drive] = 1 #
-                frame['Fuel_'+ fuel] = 1 #
-                frame['Title_'+ title] = 1
-                frame['Color_'+ color] = 1 #
-                frame['Cylinders_'+ cylinders] = 1 #
-                frame['Year'] = year 
-                frame['Odometer'] = odometer 
-                frame['Condition'] = condition
-                frame['Transmission_Automatic'] = transmission
-                #len(odometer) > 0 and 
-                #len(transmission) > 0 and 
-                #len(condition) > 0 and 
-                price = int(bst.predict(frame.values)[0])
-                price_old = price
-                #return str(type(fuel))
-                return "Your Vehicle Price is:    $" + str('{:,}'.format(price))
-        elif clicks > 0:
+        global Flag
+        if 'button' == ctx.triggered_id:
+            if (isinstance(make,str) and isinstance(model,str) and isinstance(cylinders,str) and isinstance(color,str) > 0 and 
+            isinstance(title,str) > 0 and isinstance(fuel,str) and isinstance(drive,str) > 0 and isinstance(odometer,int) and 
+            isinstance(year,int) and isinstance(condition,int) and isinstance(transmission, int) and len(make) > 0 
+            and len(model) > 0 and len(cylinders) > 0 and len(color) > 0 and len(title) > 0 and len(fuel) > 0 and len(drive) > 0):
+                    Flag = True
+                    #frame = pd.DataFrame(np.zeros([1,df_info.shape[1]]), columns = df_info.columns)
+                    frame['Make_'+ make] = 1 #
+                    frame['Model_'+ model] = 1 #
+                    frame['Drive_'+ drive] = 1 #
+                    frame['Fuel_'+ fuel] = 1 #
+                    frame['Title_'+ title] = 1
+                    frame['Color_'+ color] = 1 #
+                    frame['Cylinders_'+ cylinders] = 1 #
+                    frame['Year'] = year 
+                    frame['Odometer'] = odometer 
+                    frame['Condition'] = condition
+                    frame['Transmission_Automatic'] = transmission
+                    #len(odometer) > 0 and 
+                    #len(transmission) > 0 and 
+                    #len(condition) > 0 and 
+                    price = int(bst.predict(frame.values)[0])
+                    price_old = price
+                    #return str(type(fuel))
+                    return "Your Vehicle Price is:    $" + str('{:,}'.format(price))
+        if Flag:
             return "Your Vehicle Price is:    $" + str('{:,}'.format(price_old))
-        else:
-            return ''
             
 if __name__ == '__main__':
     app.run_server(debug=False)
