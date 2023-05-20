@@ -82,10 +82,10 @@ app.layout = html.Div(children=[html.H1('Used Car Price Prediction',
                                 html.Div([
                                     html.Div([
                                         html.P('Please Select Vehicle Year')
-                                        ], style={'display':'inline-block', 'margin-right': '105px'}),  
+                                        ], style={'display':'inline-block', 'margin-right': '150px'}),  
                                     html.Div([
                                         html.P('Please Select Vehicle Make')
-                                        ], style={'display':'inline-block', 'margin-right': '100px'}),
+                                        ], style={'display':'inline-block', 'margin-right': '145px'}),
                                     html.Div([
                                         html.P('Please Select Vehicle Model')
                                         ], style={'display':'inline-block'})  
@@ -96,13 +96,13 @@ app.layout = html.Div(children=[html.H1('Used Car Price Prediction',
                                             id = 'dropdown_year',
                                             options=dropdown_year,
                                             value= '')
-                                        ], style={'width': '150px','display': 'inline-block', 'margin-right': '120px'}),
+                                        ], style={'width': '150px','display': 'inline-block', 'margin-right': '170px'}),
                                     html.Div([                             
                                         dcc.Dropdown(
                                             id = 'dropdown_make',
                                             options=dropdown_make,
                                             value='')
-                                        ], style={'width': '150px','display': 'inline-block', 'margin-right': '120px'}),
+                                        ], style={'width': '150px','display': 'inline-block', 'margin-right': '170px'}),
                                     html.Div([       
                                             dcc.Dropdown(
                                             id = 'dropdown_model',
@@ -113,8 +113,8 @@ app.layout = html.Div(children=[html.H1('Used Car Price Prediction',
                                 html.Br(), 
                                 html.H1('Vehicle Condition',
                                         style={'textAlign': 'left','font-size': 25}), 
-                                html.Br(), 
                                 html.P('Please Input Vehicle Mileage'),
+                                html.Br(), 
                                 dcc.Input(
                                     id='input_odometer',
                                     type='number',
@@ -134,39 +134,44 @@ app.layout = html.Div(children=[html.H1('Used Car Price Prediction',
                                 html.Div([
                                     html.Div([
                                         html.P('Please Select Vehicle Color')
-                                        ], style={'display':'inline-block', 'margin-right': '95px'}),  
+                                        ], style={'display':'inline-block', 'margin-right': '145px'}),  
                                     html.Div([
                                         html.P('Please Select Cylinder Count')
-                                        ], style={'display':'inline-block', 'margin-right': '95px'}), 
+                                        ], style={'display':'inline-block', 'margin-right': '135px'}), 
                                     html.Div([
                                         html.P('Please Select Vehicle Drivetrain')
-                                        ], style={'display':'inline-block', 'margin-right': '95px'}),  
+                                        ], style={'display':'inline-block'})
+                                        ]),
+                                html.Div([     
+                                    html.Div([                          
+                                        dcc.Dropdown(
+                                            id = 'dropdown_color',
+                                            options=dropdown_color,
+                                            value= ' ')
+                                        ], style={'width': '150px','display': 'inline-block', 'margin-right': '170px'}),
+                                    html.Div([       
+                                        dcc.Dropdown(
+                                            id = 'dropdown_cylinders',
+                                            options=dropdown_cylinders,
+                                            value= '')
+                                        ], style={'width': '150px','display': 'inline-block','margin-right': '170px'}), 
+                                    html.Div([       
+                                        dcc.Dropdown(
+                                            id = 'dropdown_drive',
+                                            options=dropdown_drive,
+                                            value= '')
+                                        ], style={'width': '150px','display': 'inline-block'})
+                                        ]),    
+                                html.Br(),
+                                html.Div([  
                                     html.Div([
                                         html.P('Please Select Vehicle Transmission')
                                         ], style={'display':'inline-block', 'margin-right': '95px'}),
                                     html.Div([
                                         html.P('Please Select Vehicle Fuel Type')
                                         ], style={'display':'inline-block'})  
-                                        ]),
-                                 html.Div([     
-                                    html.Div([                          
-                                        dcc.Dropdown(
-                                            id = 'dropdown_color',
-                                            options=dropdown_color,
-                                            value= ' ')
-                                        ], style={'width': '150px','display': 'inline-block', 'margin-right': '120px'}),
-                                    html.Div([       
-                                        dcc.Dropdown(
-                                            id = 'dropdown_cylinders',
-                                            options=dropdown_cylinders,
-                                            value= '')
-                                        ], style={'width': '150px','display': 'inline-block','margin-right': '130px'}), 
-                                    html.Div([       
-                                        dcc.Dropdown(
-                                            id = 'dropdown_drive',
-                                            options=dropdown_drive,
-                                            value= '')
-                                        ], style={'width': '150px','display': 'inline-block','margin-right': '150px'}),         
+                                        ]),              
+                                html.Div([     
                                     html.Div([       
                                         dcc.Dropdown(
                                             id = 'dropdown_transmission',
@@ -178,7 +183,7 @@ app.layout = html.Div(children=[html.H1('Used Car Price Prediction',
                                             id = 'dropdown_fuel',
                                             options=dropdown_fuel,
                                             value= '')
-                                        ], style={'width': '150px','display': 'inline-block',})
+                                        ], style={'width': '150px','display': 'inline-block'})
                                         ]),    
                                 html.Br(),
                                 html.H1('Title Status',
@@ -258,26 +263,27 @@ def get_price(clicks, year, make, model, odometer, cylinders, condition, color, 
         if 'button' == ctx.triggered_id and (isinstance(make,str) and isinstance(model,str) and isinstance(cylinders,str) 
         and isinstance(color,str) > 0 and isinstance(title,str) > 0 and isinstance(fuel,str) and isinstance(drive,str) > 0 and isinstance(odometer,int)
         and isinstance(year,int) and isinstance(condition,int) and isinstance(transmission, int)):
+            if  (len(make) > 0 and len(model) > 0 and len(cylinders) > 0 and len(color) > 0 and len(title) > 0 and len(fuel) > 0 and len(drive) > 0 ):
 
-            #frame = pd.DataFrame(np.zeros([1,df_info.shape[1]]), columns = df_info.columns)
-            frame['Make_'+ make] = 1 #
-            frame['Model_'+ model] = 1 #
-            frame['Drive_'+ drive] = 1 #
-            frame['Fuel_'+ fuel] = 1 #
-            frame['Title_'+ title] = 1
-            frame['Color_'+ color] = 1 #
-            frame['Cylinders_'+ cylinders] = 1 #
-            frame['Year'] = year 
-            frame['Odometer'] = odometer 
-            frame['Condition'] = condition
-            frame['Transmission_Automatic'] = transmission
-            #len(odometer) > 0 and 
-            #len(transmission) > 0 and 
-            #len(condition) > 0 and 
-            price = int(bst.predict(frame.values)[0])
-            #price_old = price
-            #return str(type(fuel))
-            return "Your Vehicle Price is:    $" + str('{:,}'.format(price))
+                #frame = pd.DataFrame(np.zeros([1,df_info.shape[1]]), columns = df_info.columns)
+                frame['Make_'+ make] = 1 #
+                frame['Model_'+ model] = 1 #
+                frame['Drive_'+ drive] = 1 #
+                frame['Fuel_'+ fuel] = 1 #
+                frame['Title_'+ title] = 1
+                frame['Color_'+ color] = 1 #
+                frame['Cylinders_'+ cylinders] = 1 #
+                frame['Year'] = year 
+                frame['Odometer'] = odometer 
+                frame['Condition'] = condition
+                frame['Transmission_Automatic'] = transmission
+                #len(odometer) > 0 and 
+                #len(transmission) > 0 and 
+                #len(condition) > 0 and 
+                price = int(bst.predict(frame.values)[0])
+                price_old = price
+                #return str(type(fuel))
+                return "Your Vehicle Price is:    $" + str('{:,}'.format(price))
         elif clicks > 0:
             return "Your Vehicle Price is:    $" + str('{:,}'.format(price_old))
         else:
