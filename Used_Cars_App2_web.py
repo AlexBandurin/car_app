@@ -153,7 +153,7 @@ app.layout = html.Div(children=[html.H1('Used Car Price Prediction',
                                         dcc.Dropdown(
                                             id = 'dropdown_color',
                                             options=dropdown_color,
-                                            value= '')
+                                            value= ' ')
                                         ], style={'width': '150px','display': 'inline-block', 'margin-right': '120px'}),
                                     html.Div([       
                                         dcc.Dropdown(
@@ -255,8 +255,10 @@ def get_price(year, make, model):
 def get_price(clicks, year, make, model, odometer, cylinders, condition, color, title, fuel, transmission, drive):
         global frame
         global price_old
-        if 'button' == ctx.triggered_id and (len(make) > 0 and len(model) > 0  and len(drive) > 0 and len(fuel) > 0 and
-        len(title) > 0  and len(color) > 0  and len(cylinders) > 0):
+        if 'button' == ctx.triggered_id and (isinstance(make,str) and isinstance(model,str) and isinstance(cylinders,str) 
+        and isinstance(color,str) > 0 and isinstance(title,str) > 0 and isinstance(fuel,str) and isinstance(drive,str) > 0 and isinstance(odometer,int)
+        and isinstance(year,int) and isinstance(condition,int) and isinstance(transmission, int)):
+
             #frame = pd.DataFrame(np.zeros([1,df_info.shape[1]]), columns = df_info.columns)
             frame['Make_'+ make] = 1 #
             frame['Model_'+ model] = 1 #
@@ -269,9 +271,12 @@ def get_price(clicks, year, make, model, odometer, cylinders, condition, color, 
             frame['Odometer'] = odometer 
             frame['Condition'] = condition
             frame['Transmission_Automatic'] = transmission
-            
+            #len(odometer) > 0 and 
+            #len(transmission) > 0 and 
+            #len(condition) > 0 and 
             price = int(bst.predict(frame.values)[0])
-            price_old = price
+            #price_old = price
+            #return str(type(fuel))
             return "Your Vehicle Price is:    $" + str('{:,}'.format(price))
         elif clicks > 0:
             return "Your Vehicle Price is:    $" + str('{:,}'.format(price_old))
