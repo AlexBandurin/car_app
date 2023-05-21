@@ -17,12 +17,12 @@ df = pd.read_csv('car_data_sorted_Full.csv')
 df_info = pd.read_csv('df_info.csv')
 clicks = 0
 price_old = 0
-#Flag = False
+Flag = False
 
 file_name = "xgb_model.pkl"
 bst = pickle.load(open(file_name, "rb"))
 
-condition_vals = {'New': 5, 'Like New': 4, 'Excellent': 3, 'Good': 2, 'Fair': 1, 'Salvage': 0}
+#condition_vals = {'New': 5, 'Like New': 4, 'Excellent': 3, 'Good': 2, 'Fair': 1, 'Salvage': 0}
 transmission_vals = {'Automatic': 1, 'Manual': 0}
 frame = pd.DataFrame(np.zeros([1,df_info.shape[1]]), columns = df_info.columns)
 
@@ -39,9 +39,10 @@ model_vals = df.Model.value_counts().index
 dropdown_model = []
 for model in model_vals:
     dropdown_model.append({'label': model, 'value': model})
+condition_vals = ['New','Like New','Excellent', 'Good', 'Fair', 'Salvage']
 dropdown_condition = []
 for condition in condition_vals:
-    dropdown_condition.append({'label': condition, 'value': condition_vals.get(condition)})
+    dropdown_condition.append({'label': condition, 'value': condition})
 color_vals = df.Color.value_counts().index
 dropdown_color = []
 for color in color_vals:
@@ -75,7 +76,7 @@ server = app.server
 
 app.layout = html.Div(children=[html.H1('Used Car Price Prediction',
                                         style={'textAlign': 'center', 'color': '#503D36','font-size': 50}), 
-                                    html.H1('Please fill all fields before calculating',
+                                    html.H1('Please fill all fields before calculating, starting with "Vehicle Type"',
                                         style={'textAlign': 'left','font-size': 23}), 
                                 html.Br(),
                                 html.H1('Vehicle Type',
@@ -96,19 +97,19 @@ app.layout = html.Div(children=[html.H1('Used Car Price Prediction',
                                         dcc.Dropdown(
                                             id = 'dropdown_year',
                                             options=dropdown_year,
-                                            value= '')
+                                            placeholder= 'Select Year')
                                         ], style={'width': '150px','display': 'inline-block', 'margin-right': '170px'}),
                                     html.Div([                             
                                         dcc.Dropdown(
                                             id = 'dropdown_make',
                                             options=dropdown_make,
-                                            value='')
+                                            placeholder='Select Make')
                                         ], style={'width': '150px','display': 'inline-block', 'margin-right': '170px'}),
                                     html.Div([       
                                             dcc.Dropdown(
                                             id = 'dropdown_model',
                                             options=dropdown_model,
-                                            value='')
+                                            placeholder='Select Model')
                                         ], style={'width': '150px','display': 'inline-block',})
                                         ]),    
                                 html.Br(), 
@@ -119,7 +120,7 @@ app.layout = html.Div(children=[html.H1('Used Car Price Prediction',
                                 dcc.Input(
                                     id='input_odometer',
                                     type='number',
-                                    placeholder = '',
+                                    placeholder = 'Enter Mileage',
                                     style={'width': 142, 'height': 32, 'font-size': '15px'}),     
                                 html.Br(),     
                                 html.Br(), 
@@ -127,7 +128,7 @@ app.layout = html.Div(children=[html.H1('Used Car Price Prediction',
                                 dcc.Dropdown(
                                     id = 'dropdown_condition',
                                     options=dropdown_condition,
-                                    value= 3, 
+                                    value= 'Excellent', 
                                     style={'width': '150px'}),                 
                                 html.Br(),
                                 html.H1('Vehicle Specs',
@@ -148,19 +149,19 @@ app.layout = html.Div(children=[html.H1('Used Car Price Prediction',
                                         dcc.Dropdown(
                                             id = 'dropdown_color',
                                             options=dropdown_color,
-                                            value= ' ')
+                                            placeholder= 'Select Color')
                                         ], style={'width': '150px','display': 'inline-block', 'margin-right': '170px'}),
                                     html.Div([       
                                         dcc.Dropdown(
                                             id = 'dropdown_cylinders',
                                             options=dropdown_cylinders,
-                                            value= '')
+                                            placeholder= 'Select Cylinders')
                                         ], style={'width': '150px','display': 'inline-block','margin-right': '170px'}), 
                                     html.Div([       
                                         dcc.Dropdown(
                                             id = 'dropdown_drive',
                                             options=dropdown_drive,
-                                            value= '')
+                                            placeholder= 'Select Drivetrain')
                                         ], style={'width': '150px','display': 'inline-block'})
                                         ]),    
                                 html.Br(),
@@ -177,13 +178,13 @@ app.layout = html.Div(children=[html.H1('Used Car Price Prediction',
                                         dcc.Dropdown(
                                             id = 'dropdown_transmission',
                                             options=dropdown_transmission,
-                                            value= '')
+                                            placeholder= 'Select Transmission')
                                         ], style={'width': '150px','display': 'inline-block','margin-right': '170px'}),     
                                     html.Div([       
                                         dcc.Dropdown(
                                             id = 'dropdown_fuel',
                                             options=dropdown_fuel,
-                                            value= '')
+                                            placeholder= 'Select Fuel Type')
                                         ], style={'width': '150px','display': 'inline-block'})
                                         ]),    
                                 html.Br(),
@@ -215,32 +216,53 @@ app.layout = html.Div(children=[html.H1('Used Car Price Prediction',
 @app.callback(
             [Output(component_id='dropdown_model', component_property='options'),
             Output(component_id='dropdown_color', component_property='options'),
+            Output(component_id='dropdown_color', component_property='value'),
             Output(component_id='dropdown_drive', component_property='options'),
+            Output(component_id='dropdown_drive', component_property='value'),
             Output(component_id='dropdown_fuel', component_property='options'),
-            Output(component_id='dropdown_cylinders', component_property='options')],
-            [Input(component_id='dropdown_year', component_property='value'),
-            Input(component_id='dropdown_make', component_property='value'),
+            Output(component_id='dropdown_fuel', component_property='value'),
+            Output(component_id='dropdown_cylinders', component_property='options'),
+            Output(component_id='dropdown_cylinders', component_property='value'),
+            Output(component_id='dropdown_transmission', component_property='options'),
+            Output(component_id='dropdown_transmission', component_property='value')],
+            [Input(component_id='dropdown_make', component_property='value'),
             Input(component_id='dropdown_model', component_property='value')])
 
-def get_price(year, make, model):
+def get_price(make, model):
+        filtered_df = df[(df.Make == make) & (df.Model == model)] 
         model_vals = df[df.Make == make].Model.value_counts().index
         dropdown_model = []
         for model_ in model_vals:
             dropdown_model.append({'label': model_, 'value': model_})
-        color_vals = df[(df.Make == make) & (df.Model == model)].Color.value_counts().index
+
+        color_vals = filtered_df.Color.value_counts().index
         dropdown_color = []
         for color_ in color_vals:
             dropdown_color.append({'label': color_, 'value': color_})
-        drive_vals = df[df.Make == make].Drive.value_counts().index
+
+        drive_vals = filtered_df.Drive.value_counts().index
         dropdown_drive = []
         for drive_ in drive_vals:
             dropdown_drive.append({'label': drive_, 'value': drive_})
-        fuel_vals = df[df.Make == make].Fuel.value_counts().index
+
+        fuel_vals = filtered_df.Fuel.value_counts().index
         dropdown_fuel = []
         for fuel_ in fuel_vals:
             dropdown_fuel.append({'label': fuel_, 'value': fuel_})
+        
+        cylinder_vals = sorted(filtered_df.Cylinders.unique().tolist())
+        cylinder_vals = [str(i) for i in cylinder_vals]
+        dropdown_cylinders = []
+        for cylinder_ in cylinder_vals:
+            dropdown_cylinders.append({'label': cylinder_, 'value': cylinder_})
 
-        return dropdown_model, dropdown_color, dropdown_drive, dropdown_fuel, dropdown_cylinders
+        transmission_vals = sorted(filtered_df.Transmission_Automatic.unique().tolist())
+        transmission_decode = {1:'Automatic', 0: 'Manual'}
+        dropdown_transmission = []
+        for transmission_ in transmission_vals:
+            dropdown_transmission.append({'label': transmission_decode.get(transmission_), 'value': transmission_})
+
+        return dropdown_model, dropdown_color, ' ', dropdown_drive, ' ', dropdown_fuel, ' ', dropdown_cylinders, ' ', dropdown_transmission, ' '
 
 @app.callback(
             Output(component_id='result', component_property='children'),
@@ -261,23 +283,25 @@ def get_price(year, make, model):
 def get_price(clicks, year, make, model, odometer, cylinders, condition, color, title, fuel, transmission, drive):
         global frame
         global price_old
-        #global Flag
-        if 'button' == ctx.triggered_id and (isinstance(make,str) and isinstance(model,str) and isinstance(cylinders,str) 
-        and isinstance(color,str) > 0 and isinstance(title,str) > 0 and isinstance(fuel,str) and isinstance(drive,str) > 0 
-        and isinstance(odometer,int) and isinstance(year,int) and isinstance(condition,int) and isinstance(transmission, int) 
-        and len(make) > 0 and len(model) > 0 and len(cylinders) > 0 and len(color) > 0 and len(title) > 0 and len(fuel) > 0 and len(drive) > 0):
-                    #Flag = True
+        global Flag
+        if 'button' == ctx.triggered_id:
+            if (isinstance(make,str) and isinstance(model,str) and isinstance(cylinders,str) 
+            and isinstance(color,str) > 0 and isinstance(title,str) > 0 and isinstance(fuel,str) and isinstance(drive,str) > 0 
+            and isinstance(odometer,int) and isinstance(year,int) and isinstance(condition,str) and isinstance(transmission, int)
+            and len(make) > 0 and len(model) > 0 and len(cylinders) > 0 and len(color) > 0 and len(title) > 0 and len(fuel) > 0 
+            and len(drive) > 0 and len(condition) > 0):
+                    Flag = True
                     #frame = pd.DataFrame(np.zeros([1,df_info.shape[1]]), columns = df_info.columns)
-                    frame['Make_'+ make] = 1 #
-                    frame['Model_'+ model] = 1 #
-                    frame['Drive_'+ drive] = 1 #
-                    frame['Fuel_'+ fuel] = 1 #
+                    frame['Make_'+ make] = 1 
+                    frame['Model_'+ model] = 1 
+                    frame['Drive_'+ drive] = 1 
+                    frame['Fuel_'+ fuel] = 1 
                     frame['Title_'+ title] = 1
-                    frame['Color_'+ color] = 1 #
-                    frame['Cylinders_'+ cylinders] = 1 #
+                    frame['Color_'+ color] = 1 
+                    frame['Cylinders_'+ cylinders] = 1 
+                    frame['Condition_' + condition] = 1
                     frame['Year'] = year 
                     frame['Odometer'] = odometer 
-                    frame['Condition'] = condition
                     frame['Transmission_Automatic'] = transmission
                     #len(odometer) > 0 and 
                     #len(transmission) > 0 and 
@@ -286,9 +310,13 @@ def get_price(clicks, year, make, model, odometer, cylinders, condition, color, 
                     price_old = price
                     #return str(type(fuel))
                     return "Your Vehicle Price is:    $" + str('{:,}'.format(price))
+            else: 
+                Flag = False
+                return 'Please Fill All Fields'
         else:
-            return ''
-            #return "Your Vehicle Price is:    $" + str('{:,}'.format(price_old))
-            
+            if (Flag == True) and (clicks > 0):
+                return "Your Vehicle Price is:    $" + str('{:,}'.format(price_old))
+            else:
+                return ' '
 if __name__ == '__main__':
     app.run_server(debug=False)
