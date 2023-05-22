@@ -64,7 +64,11 @@ cylinder_index = sorted(df.Cylinders.value_counts().index.tolist())
 cylinders_vals = [str(i) for i in cylinder_index]
 dropdown_cylinders = []
 for cylinders in cylinders_vals:
-    dropdown_cylinders.append({'label': cylinders, 'value': cylinders})
+    if cylinders == '0':
+        dropdown_cylinders.append({'label': 'N/A', 'value': 'N/A'})
+    else:
+        dropdown_cylinders.append({'label': cylinders, 'value': cylinders})
+
 drive_vals = df.Drive.value_counts().index
 #drive_vals = df[df.Make == selected_make].Drive.value_counts().index
 dropdown_drive = []
@@ -79,7 +83,7 @@ server = app.server
 
 app.layout = html.Div(children=[html.H1('Used Car Price Prediction',
                                         style={'textAlign': 'center', 'color': '#503D36','font-size': 50}), 
-                                    html.H1('Please fill all fields before calculating, starting with "Vehicle Type',
+                                    html.H1('Please fill all fields before calculating, starting with "Vehicle Type"',
                                         style={'textAlign': 'left','font-size': 23}), 
                                     html.H1('Note: Refresh page after each calculation for best results',
                                         style={'textAlign': 'left','font-size': 23}),     
@@ -271,8 +275,11 @@ def get_price(make, model):
         cylinder_vals = sorted(filtered_df.Cylinders.unique().tolist())
         cylinder_vals = [str(i) for i in cylinder_vals]
         dropdown_cylinders = []
-        for cylinder_ in cylinder_vals:
-            dropdown_cylinders.append({'label': cylinder_, 'value': cylinder_})
+        for cylinders in cylinders_vals:
+            if cylinders == '0':
+                dropdown_cylinders.append({'label': 'N/A', 'value': 'N/A'})
+            else:
+                dropdown_cylinders.append({'label': cylinders, 'value': cylinders})
 
         transmission_vals = sorted(filtered_df.Transmission_Automatic.unique().tolist())
         transmission_decode = {1:'Automatic', 0: 'Manual'}
