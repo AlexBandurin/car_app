@@ -8,7 +8,9 @@ from dash import dcc
 #import dash_core_components as dcc
 from dash.dependencies import Input, Output
 import plotly.express as px
+#import xgboost as xgb
 import pickle
+
 
 #import copy
 
@@ -19,8 +21,9 @@ clicks = 0
 price_old = 0
 Flag = False
 
-file_name = "xgb_model.pkl"
-bst = pickle.load(open(file_name, "rb"))
+#bst = xgb.Booster()
+#bst.load_model("xgb_model.txt")
+bst = pickle.load(open('xgb_model.pkl', "rb"))
 
 #condition_vals = {'New': 5, 'Like New': 4, 'Excellent': 3, 'Good': 2, 'Fair': 1, 'Salvage': 0}
 transmission_vals = {'Automatic': 1, 'Manual': 0}
@@ -76,8 +79,10 @@ server = app.server
 
 app.layout = html.Div(children=[html.H1('Used Car Price Prediction',
                                         style={'textAlign': 'center', 'color': '#503D36','font-size': 50}), 
-                                    html.H1('Please fill all fields before calculating, starting with "Vehicle Type"',
+                                    html.H1('Please fill all fields before calculating, starting with "Vehicle Type',
                                         style={'textAlign': 'left','font-size': 23}), 
+                                    html.H1('Note: Refresh page after each calculation for best results',
+                                        style={'textAlign': 'left','font-size': 23}),     
                                 html.Br(),
                                 html.H1('Vehicle Type',
                                         style={'textAlign': 'left','font-size': 25}), 
@@ -215,12 +220,16 @@ app.layout = html.Div(children=[html.H1('Used Car Price Prediction',
                                 ])
 @app.callback(
             [Output(component_id='dropdown_model', component_property='options'),
+            Output(component_id='dropdown_condition', component_property='options'),
+            Output(component_id='dropdown_condition', component_property='value'),
             Output(component_id='dropdown_color', component_property='options'),
             Output(component_id='dropdown_color', component_property='value'),
             Output(component_id='dropdown_drive', component_property='options'),
             Output(component_id='dropdown_drive', component_property='value'),
             Output(component_id='dropdown_fuel', component_property='options'),
             Output(component_id='dropdown_fuel', component_property='value'),
+            Output(component_id='dropdown_title', component_property='options'),
+            Output(component_id='dropdown_title', component_property='value'),           
             Output(component_id='dropdown_cylinders', component_property='options'),
             Output(component_id='dropdown_cylinders', component_property='value'),
             Output(component_id='dropdown_transmission', component_property='options'),
@@ -234,6 +243,10 @@ def get_price(make, model):
         dropdown_model = []
         for model_ in model_vals:
             dropdown_model.append({'label': model_, 'value': model_})
+        condition_vals = filtered_df.Condition.value_counts().index
+        dropdown_condition = []
+        for condition_ in condition_vals:
+            dropdown_condition.append({'label': condition_, 'value': condition_})
 
         color_vals = filtered_df.Color.value_counts().index
         dropdown_color = []
@@ -250,6 +263,11 @@ def get_price(make, model):
         for fuel_ in fuel_vals:
             dropdown_fuel.append({'label': fuel_, 'value': fuel_})
         
+        title_vals = filtered_df.Title.value_counts().index
+        dropdown_title = []
+        for title_ in title_vals:
+            dropdown_title.append({'label': title_, 'value': title_})
+        
         cylinder_vals = sorted(filtered_df.Cylinders.unique().tolist())
         cylinder_vals = [str(i) for i in cylinder_vals]
         dropdown_cylinders = []
@@ -262,7 +280,7 @@ def get_price(make, model):
         for transmission_ in transmission_vals:
             dropdown_transmission.append({'label': transmission_decode.get(transmission_), 'value': transmission_})
 
-        return dropdown_model, dropdown_color, ' ', dropdown_drive, ' ', dropdown_fuel, ' ', dropdown_cylinders, ' ', dropdown_transmission, ' '
+        return dropdown_model, dropdown_condition, '',  dropdown_color, '', dropdown_drive, '', dropdown_fuel, '',dropdown_title, '', dropdown_cylinders, '', dropdown_transmission, ''
 
 @app.callback(
             Output(component_id='result', component_property='children'),
@@ -284,6 +302,7 @@ def get_price(clicks, year, make, model, odometer, cylinders, condition, color, 
         global frame
         global price_old
         global Flag
+        global bst
         if 'button' == ctx.triggered_id:
             if (isinstance(make,str) and isinstance(model,str) and isinstance(cylinders,str) 
             and isinstance(color,str) > 0 and isinstance(title,str) > 0 and isinstance(fuel,str) and isinstance(drive,str) > 0 

@@ -68,6 +68,7 @@ White,Like New,4,Fwd,Gas,Ford,Fiesta,73000,8700,Clean,1,2017
 Custom,Excellent,8,Rwd,Gas,Lexus,Ls,105600,11500,Clean,1,1999
 Silver,Good,4,Fwd,Gas,Nissan,Sentra,122300,5000,Clean,1,2012
 White,Excellent,8,Rwd,Gas,Toyota,Tundra,68586,17500,Clean,1,2007
+White,Like New,4,Fwd,Gas,Toyota,Camry,6700,32000,Clean,1,2023
 Black,Excellent,8,Rwd,Gas,Ford,F150,175000,8500,Clean,1,2006
 Silver,Fair,6,Rwd,Gas,Bmw,328I,151000,2500,Clean,1,2009
 Grey,Excellent,6,Rwd,Gas,Toyota,Tundra,70519,19950,Clean,1,2013
@@ -103,13 +104,16 @@ Grey,Excellent,6,Rwd,Gas,Toyota,Tacoma,120000,13900,Clean,1,2008
 Black,Excellent,4,4Wd,Gas,Hyundai,Sonata,90000,7900,Salvage,1,2016
 White,Fair,6,Fwd,Gas,Chrysler,Pacifica,129000,4400,Clean,1,2005
 Custom,Fair,4,Rwd,Gas,Honda,Civic,132128,2200,Clean,0,2003
+White,New,4,4Wd,Gas,Ford,Maverick,124,44999,Clean,1,2023
 Blue,Excellent,4,Fwd,Hybrid,Toyota,Prius,117000,7995,Clean,1,2008
 Red,Good,6,Fwd,Gas,Lexus,Es,102214,8999,Clean,1,2007
 Blue,Good,4,Rwd,Gas,Honda,S2000,138000,9000,Clean,1,2003
 Grey,Excellent,4,Fwd,Gas,Toyota,Camry,77489,10500,Salvage,1,2014
+White,Excellent,8,Rwd,Gas,Bmw,M5,61000,36999,Clean,0,2015
 White,Excellent,6,Rwd,Gas,Honda,Civic,204000,6200,Clean,0,2006
 White,Excellent,6,Rwd,Gas,Gmc,Sierra,64000,22900,Clean,1,2016
 Silver,Good,4,4Wd,Gas,Nissan,Altima,135000,6800,Clean,1,2015
+Silver,Good,8,Rwd,Gas,Bmw,M5,220000,14000,Clean,0,2001
 White,Excellent,4,Fwd,Gas,Nissan,Rogue,59000,12200,Salvage,1,2017
 Red,Excellent,4,Rwd,Gas,Mercedes,C300,86452,16300,Clean,1,2016
 Silver,Excellent,4,Rwd,Gas,Honda,S2000,136000,22000,Clean,0,2005
@@ -166,7 +170,6 @@ White,Excellent,0,Fwd,Electric,Ford,Mustang,11500,57900,Clean,1,2022
 White,Good,4,Fwd,Gas,Toyota,Corolla,200000,3800,Clean,1,2010
 Blue,Like New,6,Fwd,Gas,Dodge,Grand,118000,5500,Clean,1,2010
 Grey,Good,4,Fwd,Gas,Toyota,Highlander,197085,4299,Clean,1,2004
-Brown,Good,4,Fwd,Gas,Volkswagen,Vanagon,120000,17500,Clean,0,1982
 White,Like New,4,Fwd,Hybrid,Toyota,Prius,137260,13900,Clean,1,2015
 Grey,Like New,8,Rwd,Gas,Mercedes,S550,140000,10900,Salvage,1,2011
 Blue,Excellent,6,4Wd,Gas,Jeep,Cherokee,154545,9500,Clean,0,1999
@@ -291,7 +294,6 @@ White,Like New,4,Fwd,Gas,Toyota,Scion,81319,7900,Salvage,1,2014
 Blue,Salvage,4,Fwd,Gas,Honda,Accord,127000,10000,Salvage,1,2015
 Red,Good,6,4Wd,Gas,Jeep,Wrangler,262000,12000,Clean,1,2007
 White,Excellent,8,Rwd,Gas,Chevrolet,Express,109580,10900,Clean,1,2008
-Brown,Excellent,8,Fwd,Gas,Ford,F250,143399,10000,Clean,0,1982
 White,Good,4,Fwd,Gas,Ford,F150,198120,3800,Clean,1,2007
 White,Good,4,Fwd,Gas,Nissan,Nv200,155013,10000,Clean,1,2016
 Grey,Excellent,4,Fwd,Gas,Toyota,Highlander,142000,4800,Clean,1,2007
@@ -354,6 +356,7 @@ Red,Like New,8,Rwd,Gas,Chevrolet,Camaro,32000,29900,Salvage,1,2020
 Grey,Like New,8,Fwd,Gas,Dodge,Challenger,45200,19900,Salvage,1,2019
 Black,Good,6,Fwd,Gas,Toyota,Sienna,118500,18500,Clean,1,2015
 Yellow,Excellent,6,4Wd,Gas,Jeep,Wrangler,31997,22900,Clean,0,2006
+Silver,Like New,4,Fwd,Gas,Chevrolet,Trax,43850,10900,Salvage,1,2020
 White,Like New,8,4Wd,Gas,Dodge,Ram,41150,36850,Salvage,1,2020
 Silver,Good,6,Rwd,Gas,Lexus,Is,124190,20000,Clean,1,2014
 Brown,Like New,8,Rwd,Gas,Toyota,Sequoia,245000,4500,Clean,1,2003
@@ -567,6 +570,7 @@ Yellow,Fair,4,Fwd,Hybrid,Toyota,Prius,161902,7249,Clean,1,2011
 Black,Excellent,4,Fwd,Gas,Chevrolet,Cruze,81000,8500,Clean,1,2013
 Red,Excellent,6,Rwd,Gas,Bmw,335I,117000,17000,Clean,1,2012
 White,Excellent,4,Fwd,Hybrid,Toyota,Prius,97500,14000,Clean,1,2015
+Black,New,8,Rwd,Gas,Ford,F150,1500,52500,Clean,1,2023
 Red,Good,4,Rwd,Gas,Mazda,Miata,49230,11000,Clean,0,2003
 White,Excellent,4,4Wd,Diesel,Chevrolet,Colorado,84000,41000,Clean,1,2018
 Black,Fair,8,Rwd,Diesel,Ford,F350,263000,8900,Clean,1,2000
@@ -592,6 +596,7 @@ Grey,Excellent,6,Rwd,Gas,Nissan,Xterra,200000,4600,Clean,1,2009
 Silver,Like New,4,Fwd,Gas,Toyota,Camry,31992,23999,Clean,1,2020
 White,Excellent,4,Rwd,Diesel,Ford,F250,200000,12500,Clean,1,2002
 Black,Excellent,4,Fwd,Gas,Toyota,Scion,260000,2200,Clean,1,2005
+Black,Fair,6,Fwd,Gas,Dodge,Magnum,230000,1500,Clean,1,2005
 Silver,Like New,4,Fwd,Gas,Kia,Optima,83428,9900,Clean,1,2014
 Black,Excellent,8,Rwd,Gas,Chevrolet,Suburban,196781,9500,Clean,1,2004
 Silver,Good,4,Rwd,Gas,Chevrolet,Trailblazer,174575,2500,Salvage,1,2004
@@ -633,6 +638,7 @@ Black,Excellent,4,4Wd,Gas,Subaru,Forester,164000,8300,Clean,1,2009
 White,Like New,4,Fwd,Hybrid,Toyota,Prius,129000,13500,Clean,1,2013
 Silver,Like New,4,Fwd,Hybrid,Toyota,Prius,91000,9500,Clean,1,2007
 Grey,Excellent,4,Fwd,Gas,Hyundai,Elantra,142090,6900,Clean,1,2013
+White,Good,6,Rwd,Gas,Dodge,Magnum,243722,3200,Clean,1,2005
 White,Like New,8,Rwd,Gas,Dodge,Ram,226000,7500,Clean,1,2005
 Brown,Fair,4,4Wd,Gas,Subaru,Outback,171000,5300,Clean,0,2008
 Black,Fair,6,Rwd,Gas,Mercedes,C300,151000,2600,Clean,1,2010
@@ -722,6 +728,7 @@ White,Good,5,Fwd,Gas,Volkswagen,Eurovan,87000,32000,Clean,1,1997
 Silver,Fair,4,Fwd,Gas,Toyota,Camry,61350,5500,Clean,1,1991
 Black,Excellent,8,4Wd,Gas,Ford,F150,52400,27000,Clean,1,2013
 Silver,Excellent,4,Fwd,Gas,Nissan,Sentra,100126,9900,Clean,1,2017
+Black,New,6,Rwd,Gas,Bmw,X5,800,999,Clean,1,2023
 White,New,4,Fwd,Gas,Hyundai,Sonata,160234,2995,Clean,1,2005
 Blue,New,4,Rwd,Hybrid,Toyota,Prius,139000,7800,Clean,1,2006
 White,Excellent,8,Rwd,Gas,Chevrolet,Silverado,172500,12800,Clean,1,2000
@@ -760,6 +767,8 @@ White,Good,6,4Wd,Gas,Jeep,Wrangler,135000,16500,Salvage,1,2009
 White,Good,4,Fwd,Gas,Acura,Rdx,164000,8500,Clean,1,2011
 Blue,Good,6,Fwd,Gas,Chevrolet,Equinox,149488,3995,Clean,1,2005
 Silver,Like New,4,Fwd,Gas,Toyota,Camry,39000,21300,Clean,1,2016
+Green,Excellent,8,Fwd,Gas,Jaguar,Xk8,117700,11500,Clean,1,1998
+White,Excellent,8,Rwd,Gas,Maserati,Quattroporte,38800,25400,Clean,1,2012
 Grey,Good,8,Fwd,Gas,Ford,F150,200000,3950,Clean,1,2003
 White,Excellent,6,4Wd,Gas,Toyota,4Runner,270000,12500,Clean,0,1997
 Grey,Like New,8,Rwd,Gas,Dodge,Ram,22000,34500,Salvage,1,2022
@@ -801,7 +810,6 @@ Silver,Excellent,6,Rwd,Gas,Ford,F150,160000,19500,Clean,1,2018
 White,Excellent,4,Fwd,Gas,Bmw,528I,69000,12900,Clean,1,2012
 Black,Excellent,4,4Wd,Gas,Toyota,Rav4,99000,17900,Clean,1,2018
 White,Excellent,4,Rwd,Gas,Honda,Civic,42000,17900,Clean,1,2020
-Brown,Excellent,4,Rwd,Gas,Volkswagen,Vanagon,120000,17500,Clean,0,1982
 Silver,Good,8,4Wd,Gas,Ford,F150,169213,4500,Missing,1,2010
 Blue,Like New,4,Rwd,Gas,Honda,Fit,36000,18999,Clean,1,2019
 Black,Good,8,Rwd,Gas,Dodge,Ram,201000,6000,Clean,1,2005
@@ -862,6 +870,7 @@ Blue,Excellent,6,Fwd,Gas,Honda,Odyssey,150000,4200,Clean,1,2007
 White,Excellent,4,4Wd,Gas,Toyota,Tacoma,179000,10900,Clean,0,1999
 Grey,Good,4,Fwd,Hybrid,Toyota,Prius,183201,10995,Clean,1,2010
 White,Good,6,Fwd,Gas,Ram,Promaster,98000,25000,Clean,1,2018
+Blue,Excellent,10,Rwd,Gas,Bmw,M5,90000,16500,Clean,1,2006
 White,Excellent,0,Rwd,Electric,Tesla,Model S,120000,26890,Clean,1,2014
 Black,Excellent,6,Fwd,Gas,Infiniti,G35,76000,10500,Clean,1,2003
 Grey,Excellent,6,Rwd,Gas,Nissan,Frontier,189590,8500,Clean,1,2008
@@ -876,6 +885,7 @@ Grey,Good,4,Fwd,Gas,Volkswagen,Golf,47000,16000,Clean,1,2016
 White,Like New,4,Fwd,Gas,Honda,Accord,62000,16900,Clean,1,2015
 Grey,Excellent,6,4Wd,Gas,Jeep,Grand,189800,19975,Clean,1,2002
 White,Excellent,6,Rwd,Gas,Chevrolet,Camaro,89000,15000,Clean,1,2012
+Black,Like New,6,Fwd,Gas,Maserati,Quattroporte,27114,29500,Rebuilt,1,2017
 Custom,Excellent,4,Fwd,Gas,Nissan,Altima,180000,4000,Clean,1,2004
 White,Good,4,Fwd,Gas,Nissan,Sentra,194980,3250,Clean,1,2005
 White,Like New,4,Fwd,Hybrid,Toyota,Prius,55100,19300,Clean,1,2011
@@ -883,6 +893,7 @@ Grey,Good,4,Fwd,Gas,Nissan,Altima,184000,4200,Clean,1,2004
 Silver,Excellent,8,4Wd,Gas,Lexus,Gx470,167308,11250,Clean,1,2004
 Grey,Good,8,Rwd,Gas,Dodge,Ram,91100,9995,Clean,1,2005
 Grey,Like New,8,4Wd,Gas,Porsche,Cayenne,79000,25900,Clean,1,2012
+White,Excellent,6,Fwd,Gas,Toyota,Tacoma,1000,31900,Rebuilt,1,2023
 White,Fair,4,Fwd,Gas,Mini Cooper,S,100865,10000,Clean,0,2011
 White,Excellent,4,Fwd,Hybrid,Honda,Civic,141453,4500,Clean,1,2008
 Black,Good,4,4Wd,Gas,Bmw,335I,115000,10500,Salvage,1,2011
@@ -966,6 +977,7 @@ Blue,Good,6,4Wd,Gas,Honda,Pilot,125522,9000,Clean,1,2011
 White,Good,10,Fwd,Gas,Ford,E450,52585,30000,Clean,1,2013
 Black,Excellent,6,Rwd,Gas,Mercedes,C300,94000,9499,Clean,1,2009
 Grey,Excellent,6,Rwd,Gas,Jeep,Grand,110000,16000,Clean,1,2015
+White,Like New,6,4Wd,Gas,Ford,F150,1500,52500,Clean,1,2023
 Blue,Fair,6,Fwd,Gas,Chevrolet,Impala,156715,2000,Clean,1,2008
 Black,Excellent,8,4Wd,Gas,Dodge,Ram,58700,21900,Clean,1,2011
 Silver,Like New,8,Rwd,Gas,Chevrolet,Camaro,16700,33000,Clean,1,2010
@@ -973,6 +985,7 @@ Brown,Good,8,Rwd,Gas,Land Rover,Discovery,180855,5500,Clean,1,2002
 Black,Excellent,4,Fwd,Gas,Kia,Soul,117900,8692,Clean,1,2016
 Black,Excellent,4,Rwd,Gas,Cadillac,Ats,86500,12799,Clean,1,2013
 White,Excellent,8,Fwd,Gas,Cadillac,Deville,74897,8500,Clean,1,1989
+White,Like New,8,Rwd,Gas,Ford,F150,1500,52500,Clean,1,2023
 Grey,Like New,6,Fwd,Gas,Dodge,Grand,67200,9500,Clean,1,2013
 Black,Fair,8,Rwd,Gas,Chevrolet,Avalanche,143000,3950,Clean,1,2004
 White,Good,6,4Wd,Gas,Bmw,X3,163080,3200,Clean,1,2004
@@ -1333,6 +1346,7 @@ White,Excellent,6,Rwd,Gas,Ford,F250,0,5600,Salvage,1,2002
 Red,Excellent,4,Fwd,Gas,Hyundai,Accent,56000,9900,Clean,1,2012
 Grey,Excellent,0,Fwd,Electric,Chevrolet,Volt,93000,10500,Salvage,1,2014
 Grey,Excellent,6,4Wd,Gas,Jeep,Wrangler,92008,24500,Clean,1,2014
+Grey,Excellent,8,Rwd,Gas,Bmw,M5,29000,50000,Clean,1,2013
 Grey,Excellent,4,Fwd,Gas,Toyota,Matrix,74365,7500,Clean,1,2007
 Grey,Excellent,4,Fwd,Gas,Toyota,Rav4,55000,17900,Salvage,1,2018
 Black,Like New,6,Rwd,Gas,Jeep,Grand,59000,29800,Clean,1,2018
@@ -1385,6 +1399,7 @@ White,Excellent,4,Rwd,Gas,Toyota,Tacoma,116146,20000,Salvage,1,2013
 Silver,Excellent,4,Fwd,Hybrid,Toyota,Prius,63250,16900,Clean,1,2013
 White,Good,6,Rwd,Gas,Bmw,Z4,87115,30000,Clean,1,2015
 White,Like New,8,4Wd,Diesel,Ford,F550,190000,56900,Clean,1,2017
+Black,Excellent,6,4Wd,Gas,Maserati,Quattroporte,45600,26500,Clean,1,2014
 Grey,Good,4,Fwd,Gas,Jeep,Renegade,199000,6500,Clean,1,2016
 White,Excellent,8,Rwd,Gas,Ford,F150,107000,10000,Clean,1,2005
 White,Good,4,4Wd,Gas,Subaru,Wrx,104000,25000,Clean,0,2016
@@ -1460,6 +1475,7 @@ White,Excellent,6,4Wd,Gas,Ford,F150,105024,13700,Clean,1,2014
 Blue,Excellent,6,4Wd,Hybrid,Toyota,Highlander,162000,10900,Clean,1,2008
 Silver,Excellent,6,Fwd,Gas,Toyota,Camry,147519,4000,Clean,1,2006
 Silver,Salvage,4,4Wd,Gas,Subaru,Forester,42700,16500,Salvage,1,2016
+Grey,Like New,8,4Wd,Diesel,Gmc,Sierra,3006,56000,Salvage,1,2023
 Silver,Excellent,4,Fwd,Gas,Honda,Civic,55613,13200,Salvage,1,2013
 Custom,Good,6,Rwd,Gas,Ford,Ranger,250000,5500,Clean,1,2001
 Silver,Like New,8,Rwd,Gas,Ford,Mustang,7800,38000,Clean,0,2007
@@ -1511,6 +1527,7 @@ White,Excellent,6,Rwd,Gas,Bmw,328I,89000,17900,Clean,1,2008
 Black,Excellent,6,Rwd,Gas,Bmw,325I,113000,5600,Clean,1,2006
 Brown,Excellent,8,4Wd,Gas,Chevrolet,Tahoe,172000,6500,Clean,1,2003
 Black,Good,6,Rwd,Gas,Bmw,3,125877,5500,Clean,1,2005
+Custom,Excellent,8,Rwd,Gas,Bmw,M5,93723,29000,Salvage,1,2015
 White,Excellent,6,4Wd,Gas,Honda,Pilot,109000,15000,Clean,1,2014
 Silver,Excellent,6,Fwd,Gas,Toyota,Sienna,112821,10900,Clean,1,2010
 White,Good,8,Rwd,Gas,Ford,E350,288859,5000,Clean,1,2002
@@ -1533,7 +1550,6 @@ Blue,Good,8,Rwd,Gas,Chevrolet,Silverado,177562,2300,Clean,1,1992
 Custom,Excellent,8,Rwd,Gas,Mercedes,S550,64000,34900,Clean,1,2015
 Red,Good,4,Fwd,Gas,Mazda,3,85276,4250,Clean,0,2008
 White,Good,6,Fwd,Gas,Mazda,Cx,178000,9500,Clean,1,2013
-White,Good,8,Rwd,Gas,Ford,F350,51621,7950,Clean,0,1982
 Black,Excellent,6,Rwd,Gas,Bmw,330I,155000,7200,Clean,1,2002
 Black,Like New,8,4Wd,Gas,Cadillac,Escalade,90500,15999,Clean,1,2007
 Grey,Good,4,Fwd,Hybrid,Toyota,Prius,198260,3900,Salvage,1,2007
@@ -1660,7 +1676,6 @@ Green,Excellent,4,Fwd,Hybrid,Toyota,Prius,132193,9000,Clean,1,2015
 Grey,Good,4,4Wd,Gas,Ford,Focus,91000,33000,Clean,0,2016
 Silver,Good,8,Rwd,Gas,Ford,E350,218500,7500,Clean,1,2007
 White,Excellent,8,Rwd,Gas,Chevrolet,Corvette,187000,8900,Clean,1,1987
-White,Fair,8,Rwd,Gas,Gmc,Sierra,185000,6800,Clean,1,1982
 Blue,Good,8,4Wd,Gas,Ford,Bronco,183000,3500,Clean,0,1986
 White,Excellent,6,4Wd,Gas,Bmw,X3,74188,8000,Clean,1,2008
 White,Excellent,4,Fwd,Gas,Chevrolet,Malibu,172000,3000,Salvage,1,2012
@@ -1810,6 +1825,7 @@ Blue,Excellent,4,Fwd,Gas,Toyota,Camry,63160,18350,Clean,1,2017
 Blue,Salvage,6,4Wd,Gas,Volkswagen,Touareg,135000,3700,Salvage,1,2006
 Red,Like New,4,Fwd,Gas,Volkswagen,Beetle,42780,6000,Clean,0,2001
 Silver,Good,4,Fwd,Gas,Honda,Odyssey,101200,10000,Clean,1,2010
+White,Excellent,10,Rwd,Gas,Bmw,M5,27000,45000,Clean,1,2009
 Silver,Excellent,4,Fwd,Gas,Chevrolet,Sonic,132645,7700,Clean,1,2016
 Black,Fair,8,4Wd,Gas,Gmc,Yukon,208000,2445,Salvage,1,2002
 White,Excellent,4,Fwd,Gas,Toyota,Camry,177000,7800,Clean,1,2011
@@ -1839,6 +1855,7 @@ Custom,Excellent,6,Fwd,Gas,Honda,Pilot,169000,10885,Clean,1,2013
 Black,Good,4,Fwd,Gas,Toyota,Camry,195000,6000,Clean,1,2012
 White,Excellent,8,Rwd,Gas,Ford,E150,104000,14999,Clean,1,2003
 Grey,Good,4,Fwd,Hybrid,Ford,Escape,297000,3000,Clean,1,2008
+White,Excellent,8,Rwd,Gas,Bmw,M5,118000,17000,Clean,0,2007
 Red,Good,6,Fwd,Gas,Nissan,Pathfinder,87000,12000,Clean,1,2014
 White,Excellent,4,Rwd,Gas,Toyota,Tacoma,147000,12500,Salvage,1,2009
 Black,Excellent,0,Fwd,Electric,Chevrolet,Volt,210000,7500,Clean,1,2013
@@ -1864,6 +1881,7 @@ Silver,Salvage,4,Fwd,Hybrid,Toyota,Prius,98000,9500,Salvage,1,2009
 Silver,Good,4,Fwd,Gas,Ford,Focus,109000,4000,Clean,1,2013
 Blue,Like New,8,Rwd,Diesel,Ford,F250,267000,14800,Clean,1,2000
 Black,Fair,6,4Wd,Gas,Toyota,Land,166000,14500,Clean,1,1997
+White,New,4,Fwd,Hybrid,Ford,Maverick,200,34500,Clean,1,2023
 Blue,Good,4,Fwd,Gas,Honda,Civic,160000,3500,Clean,1,2007
 Silver,Like New,6,Rwd,Gas,Toyota,Tacoma,33700,33750,Clean,1,2018
 White,Excellent,6,Fwd,Gas,Bmw,328I,105000,6400,Clean,1,2007
@@ -2017,6 +2035,7 @@ Silver,Excellent,4,Fwd,Gas,Toyota,Camry,152000,4000,Salvage,1,2006
 White,Excellent,4,Fwd,Gas,Nissan,Versa,117000,6500,Clean,1,2014
 Black,Fair,4,Rwd,Gas,Mazda,Miata,114109,3500,Lien,0,2001
 Grey,Like New,6,4Wd,Diesel,Jeep,Grand,41000,30000,Clean,1,2014
+Black,Excellent,8,Rwd,Gas,Maserati,Quattroporte,54000,24900,Rebuilt,1,2015
 Custom,Excellent,6,Rwd,Gas,Cadillac,Srx,121000,4200,Salvage,1,2004
 Blue,Good,4,Fwd,Gas,Honda,Fit,174000,6600,Clean,1,2010
 Black,Excellent,6,4Wd,Gas,Ford,F150,36000,28999,Salvage,1,2018
@@ -2047,6 +2066,7 @@ White,Salvage,4,Fwd,Gas,Scion,Xb,140000,3500,Salvage,1,2010
 Blue,Good,8,Rwd,Gas,Chevrolet,Corvette,68484,10500,Clean,1,1989
 White,Like New,4,Fwd,Gas,Volkswagen,Cc,30030,9750,Salvage,1,2015
 Brown,Good,4,Rwd,Gas,Volkswagen,Vanagon,327000,15000,Clean,1,1990
+Black,Good,10,Rwd,Gas,Bmw,M5,105000,8500,Clean,1,2006
 White,Like New,0,Rwd,Electric,Tesla,Model 3,32000,39000,Clean,1,2019
 Grey,Excellent,6,4Wd,Gas,Chevrolet,Silverado,112000,26500,Clean,1,2017
 Green,Salvage,4,Rwd,Gas,Toyota,Mr2,92000,6500,Salvage,0,1992
@@ -2106,6 +2126,7 @@ Black,Excellent,6,Fwd,Gas,Ford,Edge,115000,18500,Clean,1,2015
 White,Good,4,Rwd,Gas,Volkswagen,Vanagon,344000,15000,Clean,0,1987
 White,Like New,8,Rwd,Gas,Dodge,Ram,61590,30000,Clean,1,2017
 Red,Good,6,Rwd,Gas,Chevrolet,Astro,261000,2800,Clean,1,1999
+White,Good,4,Fwd,Hybrid,Ford,Maverick,26225,26500,Salvage,1,2022
 White,Excellent,4,Fwd,Gas,Scion,Xb,129000,4800,Lien,1,2009
 Silver,Excellent,6,4Wd,Gas,Ford,Ranger,100561,12800,Rebuilt,0,2011
 Grey,Like New,4,Fwd,Gas,Toyota,Rav4,39000,29900,Clean,1,2021
@@ -2199,7 +2220,6 @@ White,Salvage,4,Fwd,Gas,Toyota,Tacoma,25000,1800,Parts Only,0,2000
 Silver,Good,4,Fwd,Gas,Nissan,Versa,188900,3500,Clean,1,2010
 White,Excellent,8,Rwd,Gas,Dodge,Ram,105000,26350,Clean,1,2017
 Red,Excellent,6,Rwd,Gas,Bmw,335I,150515,10990,Clean,1,2013
-Grey,Good,6,Rwd,Diesel,Dodge,Ram,146264,26000,Clean,1,1981
 Grey,Excellent,4,4Wd,Gas,Audi,A4,123321,9690,Clean,1,2013
 Blue,Excellent,6,Rwd,Gas,Lexus,Es350,98011,10490,Salvage,1,2011
 Grey,Excellent,6,Rwd,Gas,Toyota,Tacoma,90000,24000,Clean,1,2016
@@ -2306,6 +2326,7 @@ White,Good,10,Rwd,Gas,Ford,E450,150000,7000,Clean,1,2002
 Silver,Good,6,Fwd,Gas,Dodge,Grand,82120,35999,Clean,1,2020
 White,Good,6,Fwd,Gas,Toyota,Sienna,89700,31999,Clean,1,2016
 Silver,Excellent,4,Fwd,Gas,Chrysler,Pt,100900,4995,Clean,1,2010
+Green,Excellent,8,Rwd,Gas,Jaguar,Xk8,117700,11000,Clean,1,1998
 Grey,Excellent,8,4Wd,Gas,Porsche,Cayenne,126500,23000,Clean,1,2009
 Black,Excellent,8,Rwd,Gas,Chevrolet,Corvette,92250,9995,Clean,1,1987
 Blue,Good,4,Fwd,Gas,Audi,A3,138000,3600,Clean,1,2006
@@ -2531,7 +2552,6 @@ White,Fair,4,Fwd,Gas,Toyota,Corolla,200000,1750,Clean,1,1989
 Grey,Good,4,Fwd,Gas,Chevrolet,Impala,125100,10000,Clean,0,2014
 White,Excellent,8,Rwd,Gas,Chevrolet,Corvette,60000,44000,Clean,1,2018
 White,Excellent,4,Fwd,Gas,Honda,Civic,148506,7500,Clean,1,2012
-Black,Good,8,Rwd,Gas,Chevrolet,Silverado,100000,11900,Clean,1,1980
 Black,Excellent,6,Rwd,Gas,Cadillac,Cts,52000,15500,Rebuilt,1,2019
 Silver,Salvage,4,Fwd,Gas,Hyundai,Elantra,124000,6400,Salvage,1,2013
 Grey,Excellent,4,Fwd,Gas,Toyota,Prius,176,8000,Clean,1,2011
@@ -2651,6 +2671,7 @@ Grey,Excellent,4,Fwd,Gas,Nissan,Altima,112000,9300,Clean,1,2015
 White,Excellent,6,Fwd,Gas,Nissan,Altima,128500,5400,Clean,1,2011
 Grey,Excellent,4,Fwd,Gas,Toyota,Prius,251000,5500,Clean,1,2008
 White,Excellent,8,4Wd,Gas,Chevrolet,Express,1,8500,Clean,1,1998
+White,Excellent,6,Rwd,Gas,Bmw,M5,145284,39000,Clean,0,1991
 Black,Like New,4,4Wd,Gas,Subaru,Wrx,62372,23900,Salvage,0,2019
 Silver,Good,4,Fwd,Gas,Toyota,Camry,108500,10500,Clean,1,2014
 Silver,Good,4,Fwd,Gas,Chevrolet,Cruze,120000,4000,Clean,1,2013
@@ -2750,6 +2771,7 @@ Grey,Excellent,6,Rwd,Gas,Dodge,Challenger,118000,13000,Clean,1,2015
 Silver,Good,6,Rwd,Gas,Mercedes,C230,129182,5800,Clean,1,2007
 Black,Like New,4,Fwd,Gas,Toyota,Corolla,107000,6900,Salvage,1,2013
 Black,Like New,6,Fwd,Gas,Ford,Flex,108939,9995,Clean,1,2011
+White,New,0,Rwd,Electric,Tesla,Model 3,7420,46000,Clean,1,2023
 Silver,Excellent,4,Fwd,Gas,Honda,Civic,55816,13300,Salvage,1,2013
 White,Good,10,Rwd,Gas,Ford,E350,80000,20000,Clean,1,2008
 White,Like New,4,Fwd,Gas,Hyundai,Sonata,48000,12700,Salvage,1,2019
@@ -2792,6 +2814,7 @@ Silver,Good,6,Rwd,Gas,Toyota,4Runner,236100,6500,Clean,1,2000
 White,Good,6,Rwd,Gas,Bmw,325I,257000,19000,Clean,0,1990
 Grey,Good,4,Fwd,Gas,Ford,Fiesta,58450,9900,Clean,1,2017
 Black,Excellent,4,Fwd,Hybrid,Toyota,Prius,45000,19500,Salvage,1,2019
+Black,Excellent,8,Rwd,Gas,Dodge,Magnum,42500,15000,Clean,1,2007
 White,Like New,8,4Wd,Gas,Chevrolet,Suburban,36000,17900,Clean,1,2011
 Brown,Good,6,Fwd,Gas,Toyota,Highlander,125000,8500,Clean,1,2005
 White,Excellent,4,4Wd,Gas,Subaru,Impreza,99000,17999,Clean,0,2009
@@ -2803,6 +2826,7 @@ Grey,Excellent,4,Fwd,Hybrid,Toyota,Prius,69000,15000,Clean,1,2015
 White,Fair,6,Rwd,Gas,Chevrolet,Astro,191000,6500,Clean,1,2000
 Red,Good,6,4Wd,Gas,Jeep,Wrangler,66374,17900,Clean,0,2008
 Black,Good,6,Rwd,Gas,Dodge,Avenger,146345,3200,Clean,1,2008
+White,Excellent,6,Rwd,Gas,Toyota,Tacoma,1000,31900,Rebuilt,1,2023
 White,Good,8,Rwd,Gas,Mercury,Grand,195000,3200,Clean,1,2022
 Black,Good,4,Fwd,Gas,Toyota,Yaris,163000,2550,Clean,1,2007
 Grey,Excellent,6,Rwd,Gas,Bmw,Z4,74241,15500,Clean,0,2005
@@ -2879,6 +2903,7 @@ Grey,Excellent,6,4Wd,Diesel,Audi,A7,134000,19500,Clean,1,2015
 Grey,Good,8,Fwd,Gas,Nissan,Titan,16900,8500,Clean,1,2009
 Grey,Fair,4,Fwd,Gas,Toyota,Corolla,190000,3800,Clean,1,2005
 Blue,Excellent,4,Fwd,Gas,Honda,Civic,127982,2999,Clean,1,1991
+White,New,4,Fwd,Gas,Nissan,Sentra,44,27000,Clean,1,2023
 White,Good,6,Rwd,Gas,Nissan,350Z,107327,11000,Clean,1,2005
 White,Good,6,Rwd,Gas,Ford,Explorer,173000,2800,Clean,1,1996
 White,Excellent,6,Fwd,Gas,Nissan,Altima,128500,5900,Clean,1,2011
@@ -2940,6 +2965,7 @@ Grey,Like New,6,Fwd,Gas,Honda,Pilot,87000,10900,Clean,1,2011
 Black,Excellent,4,Rwd,Gas,Jaguar,Xf,64400,9000,Clean,1,2013
 Silver,Good,4,Fwd,Gas,Honda,Accord,190000,6200,Clean,1,2010
 White,Good,4,Fwd,Gas,Honda,Civic,90702,17000,Clean,1,2016
+Silver,Like New,4,Fwd,Gas,Chevrolet,Trax,44200,14900,Clean,1,2015
 White,Like New,4,4Wd,Gas,Toyota,Rav4,190000,5000,Clean,1,2006
 White,Like New,4,4Wd,Gas,Toyota,Tacoma,12338,34900,Salvage,1,2021
 Grey,Like New,6,4Wd,Gas,Toyota,Tacoma,7044,31900,Salvage,1,2021
@@ -3004,7 +3030,6 @@ Green,Excellent,8,4Wd,Gas,Gmc,Yukon,85000,13900,Clean,1,2014
 White,Good,4,Fwd,Gas,Jeep,Compass,179000,6900,Clean,1,2016
 White,Like New,6,Fwd,Gas,Lexus,Rx,151207,4300,Clean,1,2001
 Black,Good,6,Fwd,Gas,Ford,Ranger,200000,1800,Clean,1,2002
-Red,Excellent,8,Rwd,Gas,Buick,Regal,8988,13000,Clean,0,1983
 Silver,Excellent,6,Rwd,Gas,Dodge,Challenger,86000,9500,Clean,1,2010
 White,Excellent,8,4Wd,Gas,Audi,Q7,49200,27500,Clean,1,2017
 Red,Good,4,Fwd,Gas,Honda,Accord,174840,7000,Clean,1,2011
@@ -3104,6 +3129,7 @@ Brown,Excellent,4,Rwd,Gas,Volkswagen,Vanagon,116000,29500,Clean,1,1987
 White,Excellent,8,Rwd,Gas,Ford,F150,115000,6800,Clean,1,2004
 White,Excellent,6,Rwd,Gas,Toyota,Tacoma,36000,35000,Clean,1,2019
 Black,Excellent,4,4Wd,Gas,Land Rover,Range,99300,14500,Clean,1,2013
+White,Excellent,10,Rwd,Gas,Bmw,M5,29400,55000,Clean,1,2009
 Brown,Excellent,4,Fwd,Gas,Nissan,Altima,138600,8200,Clean,1,2015
 Black,Excellent,8,Rwd,Gas,Chevrolet,Silverado,1,16500,Clean,1,1989
 White,Excellent,3,Rwd,Gas,Smart,Fortwo,67000,7500,Clean,1,2013
@@ -3209,6 +3235,7 @@ Black,Good,8,Rwd,Gas,Toyota,4Runner,248000,13000,Clean,1,2003
 White,Excellent,8,Rwd,Gas,Chevrolet,Silverado,21000,37500,Clean,1,2020
 White,Salvage,4,Fwd,Gas,Dodge,Caravan,106000,4900,Salvage,1,2009
 Black,Good,4,Fwd,Gas,Audi,A3,80122,9500,Clean,1,2010
+Custom,Excellent,8,Rwd,Gas,Maserati,Quattroporte,39000,29000,Clean,0,2007
 Grey,Excellent,8,4Wd,Gas,Porsche,Cayenne,99500,21000,Clean,1,2014
 White,Good,4,Fwd,Hybrid,Toyota,Prius,175000,7000,Clean,1,2010
 Silver,Excellent,6,Rwd,Gas,Mercedes,E320,70531,7500,Clean,1,2003
@@ -3226,6 +3253,7 @@ Red,Excellent,4,Rwd,Gas,Mazda,Miata,23746,18000,Clean,0,1990
 Black,Like New,8,4Wd,Gas,Gmc,Sierra,29350,47000,Salvage,1,2021
 Blue,Excellent,4,Fwd,Gas,Honda,Accord,130000,7500,Clean,1,2008
 Grey,Good,8,4Wd,Gas,Porsche,Cayenne,108000,8000,Clean,1,2006
+White,Good,4,Fwd,Hybrid,Ford,Maverick,26225,26500,Salvage,1,2022
 White,Like New,4,Fwd,Gas,Volkswagen,Tiguan,65500,13000,Clean,1,2013
 White,Fair,8,Rwd,Gas,Gmc,Savana,123,4500,Clean,1,2006
 Silver,Excellent,8,4Wd,Gas,Jeep,Grand,156000,6950,Clean,1,2006
@@ -3271,6 +3299,7 @@ White,Good,4,4Wd,Gas,Subaru,Wrx,180822,14999,Salvage,0,2004
 White,Excellent,6,Rwd,Gas,Bmw,328I,134000,8000,Clean,1,2011
 Blue,Good,4,Fwd,Gas,Honda,Civic,62243,13688,Clean,1,2014
 Grey,Good,6,Rwd,Gas,Buick,Regal,85250,8500,Clean,1,2012
+Black,Excellent,8,Rwd,Gas,Maserati,Quattroporte,15000,25000,Clean,1,2007
 White,Good,8,Rwd,Diesel,Ford,F350,150000,18000,Salvage,1,2001
 Black,Excellent,4,Fwd,Gas,Honda,Crv,149000,8500,Clean,1,2010
 Black,Excellent,4,Fwd,Gas,Toyota,Yaris,46236,13900,Clean,1,2016
@@ -3284,6 +3313,7 @@ Blue,Like New,4,Rwd,Gas,Chevrolet,Colorado,105221,11000,Clean,1,2011
 Black,Excellent,6,4Wd,Gas,Ford,Expedition,109000,21990,Clean,1,2017
 White,Good,8,Fwd,Gas,Nissan,Titan,208000,5200,Clean,1,2007
 White,Good,8,4Wd,Gas,Hummer,H2,119105,21500,Clean,1,2003
+White,Like New,6,Rwd,Gas,Maserati,Quattroporte,82000,23500,Clean,1,2014
 Black,Like New,4,Rwd,Gas,Mazda,Mx,194000,16000,Clean,0,2000
 Yellow,Fair,6,Rwd,Gas,Ford,Mustang,240000,1500,Clean,1,2002
 Grey,Good,4,4Wd,Gas,Jeep,Compass,163000,6500,Clean,1,2012
@@ -3298,7 +3328,6 @@ Black,Excellent,8,4Wd,Gas,Gmc,Yukon,180000,4800,Clean,1,2005
 Black,Good,6,4Wd,Gas,Jeep,Wrangler,125000,12500,Clean,0,2007
 Silver,Excellent,4,Rwd,Gas,Bmw,528I,111000,6900,Salvage,1,2012
 Grey,Good,8,4Wd,Gas,Dodge,Ram,309000,15000,Clean,1,2003
-Yellow,Excellent,6,4Wd,Gas,Toyota,Land,1234,49500,Clean,0,1982
 Blue,Like New,8,4Wd,Diesel,Gmc,Sierra,77538,39500,Clean,0,2021
 Blue,Excellent,4,4Wd,Gas,Subaru,Wrx,24000,39000,Clean,0,2020
 Silver,Good,6,4Wd,Gas,Chrysler,Pacifica,166000,1200,Clean,1,2005
@@ -3365,7 +3394,6 @@ Grey,Good,4,Fwd,Gas,Toyota,Camry,180000,8900,Clean,1,2014
 White,Fair,6,Rwd,Gas,Chevrolet,Silverado,210000,11500,Clean,1,2008
 Grey,Like New,8,Rwd,Gas,Ford,Mustang,74000,32000,Clean,1,2018
 White,Like New,4,Fwd,Gas,Nissan,Nv200,0,20000,Clean,1,2015
-Black,Good,8,Rwd,Gas,Chevrolet,Silverado,100000,13900,Clean,1,1980
 Black,Excellent,4,Fwd,Gas,Nissan,Sentra,60000,10500,Clean,1,2019
 Grey,Excellent,4,Fwd,Gas,Ford,Fusion,160000,8500,Clean,1,2016
 Silver,Excellent,6,4Wd,Gas,Porsche,Macan,57560,39999,Clean,1,2016
@@ -3507,6 +3535,7 @@ Black,Good,6,4Wd,Gas,Volkswagen,Jetta,141000,5500,Clean,1,2012
 White,Good,4,Fwd,Gas,Toyota,Rav4,120000,7700,Clean,1,2007
 Brown,Excellent,4,Fwd,Gas,Volkswagen,Jetta,151500,6700,Clean,1,2014
 Silver,Like New,6,Fwd,Gas,Ford,Edge,89000,7900,Clean,1,2012
+Red,Good,6,Fwd,Gas,Dodge,Magnum,147000,2799,Clean,1,2006
 Black,Excellent,4,Fwd,Gas,Honda,Civic,29252,19000,Clean,1,2017
 Green,Fair,8,4Wd,Gas,Ford,F350,138050,8000,Clean,1,2008
 Grey,Excellent,4,Fwd,Gas,Ford,Escape,100000,8300,Clean,1,2012
@@ -3531,6 +3560,7 @@ Black,Good,6,4Wd,Gas,Mercedes,Ml350,87000,6850,Clean,0,2005
 Silver,Excellent,6,Fwd,Gas,Toyota,Sienna,140000,3995,Clean,1,2004
 Silver,Excellent,6,Fwd,Gas,Volkswagen,Jetta,168000,3200,Clean,1,2008
 Green,Like New,8,4Wd,Gas,Volkswagen,Touareg,82000,5195,Clean,1,2004
+Blue,New,8,Fwd,Hybrid,Ford,Maverick,143,35000,Lien,1,2022
 White,Fair,8,Rwd,Gas,Chevrolet,Silverado,175000,3500,Clean,1,2002
 Blue,Good,8,Rwd,Gas,Chevrolet,Suburban,228571,2800,Clean,1,1999
 Brown,Excellent,4,4Wd,Gas,Nissan,Rogue,128043,6200,Clean,1,2010
@@ -3681,7 +3711,6 @@ White,Good,6,4Wd,Gas,Mitsubishi,Montero,190000,3200,Clean,1,2003
 Silver,Excellent,6,Rwd,Hybrid,Ford,Fusion,140000,6999,Clean,1,2013
 Blue,Excellent,4,4Wd,Gas,Ford,Escape,92000,6900,Clean,1,2012
 Grey,Like New,8,Rwd,Gas,Ford,Mustang,120000,13800,Clean,1,2008
-Custom,Excellent,8,Rwd,Gas,Chevrolet,Camaro,520,17950,Clean,0,1981
 Black,Like New,4,Fwd,Gas,Mini Cooper,S,150000,6500,Clean,0,2009
 Brown,Like New,6,Fwd,Gas,Chevrolet,Equinox,120000,6800,Clean,1,2014
 Black,Excellent,8,Rwd,Gas,Nissan,Pathfinder,145000,10000,Clean,1,2014
@@ -3721,7 +3750,6 @@ Silver,Excellent,6,4Wd,Gas,Gmc,Acadia,135031,7900,Clean,1,2011
 Blue,Excellent,6,4Wd,Gas,Nissan,Murano,141590,6900,Clean,1,2011
 Silver,Excellent,6,Fwd,Gas,Ford,Taurus,132636,7300,Clean,1,2014
 White,Good,6,4Wd,Diesel,Mercedes,Sprinter,120000,45000,Clean,1,2013
-Yellow,Good,8,Fwd,Gas,Chevrolet,Malibu,185000,4999,Clean,1,1980
 Grey,Good,4,4Wd,Gas,Chevrolet,Equinox,88163,9200,Clean,1,2010
 White,Excellent,8,4Wd,Gas,Nissan,Titan,82007,22000,Clean,1,2017
 White,Excellent,6,4Wd,Gas,Chevrolet,Silverado,132500,20000,Clean,1,2015
@@ -3801,8 +3829,8 @@ Silver,Fair,6,Fwd,Gas,Dodge,Grand,111122,4000,Clean,1,2011
 Black,Good,8,4Wd,Diesel,Gmc,Sierra,138000,24000,Clean,1,2012
 Blue,Good,4,Fwd,Gas,Nissan,Sentra,119715,6900,Clean,1,2014
 Red,Excellent,4,Fwd,Gas,Nissan,Versa,97550,6875,Clean,1,2012
+Grey,Like New,4,Fwd,Gas,Chevrolet,Trax,22000,17500,Clean,1,2021
 Blue,Good,4,Fwd,Gas,Chevrolet,Malibu,182000,2850,Clean,1,2009
-Silver,Excellent,4,Rwd,Gas,Toyota,Corolla,165000,10500,Clean,1,1983
 Grey,Excellent,6,4Wd,Gas,Mazda,Cx,108000,10500,Rebuilt,1,2011
 Black,Excellent,6,Fwd,Gas,Ford,Taurus,99100,6900,Clean,1,2008
 Black,Good,4,Fwd,Gas,Chevrolet,Malibu,134000,4500,Clean,1,2010
@@ -4027,6 +4055,7 @@ Red,Good,4,Rwd,Gas,Saturn,Vue,118000,5500,Clean,1,2009
 White,Fair,8,4Wd,Gas,Ford,F150,200000,2500,Clean,1,2002
 Custom,Fair,6,Fwd,Gas,Honda,Pilot,232000,2500,Clean,1,2004
 Red,Excellent,4,4Wd,Gas,Toyota,Rav4,152000,7900,Clean,1,2010
+Black,Excellent,8,Rwd,Gas,Dodge,Magnum,51000,29500,Clean,1,2006
 White,Excellent,6,4Wd,Gas,Nissan,Murano,20000,22500,Rebuilt,1,2020
 Blue,Excellent,4,Fwd,Gas,Toyota,Camry,61719,16400,Clean,1,2016
 Silver,Good,4,Fwd,Diesel,Volkswagen,Jetta,241000,4000,Clean,1,2006
@@ -4038,6 +4067,12 @@ Red,Good,4,Rwd,Gas,Chrysler,Pt,100000,4400,Clean,1,2003
 Grey,Excellent,6,4Wd,Gas,Infiniti,Qx60,116000,15500,Clean,1,2015
 White,Excellent,8,Rwd,Gas,Mercedes,S550,53640,29999,Rebuilt,1,2015
 Red,Good,3,Rwd,Gas,Smart,Fortwo,75000,6900,Clean,1,2008
+Black,Excellent,8,Rwd,Gas,Dodge,Magnum,72700,25500,Clean,1,2007
+Black,Excellent,8,Rwd,Gas,Dodge,Magnum,72700,25500,Clean,1,2007
+Black,Excellent,8,Rwd,Gas,Dodge,Magnum,72700,25500,Clean,1,2007
+Black,Excellent,8,Rwd,Gas,Dodge,Magnum,72700,25500,Clean,1,2007
+Black,Excellent,8,Rwd,Gas,Dodge,Magnum,72700,25500,Clean,1,2007
+Black,Excellent,8,Rwd,Gas,Dodge,Magnum,72700,25500,Clean,1,2007
 White,Good,8,Fwd,Gas,Chevrolet,Express,70000,22000,Lien,1,2015
 Grey,Excellent,4,4Wd,Gas,Subaru,Forester,108000,11550,Clean,1,2014
 Black,Good,4,Rwd,Gas,Bmw,328Xi,101000,9800,Clean,0,2009
@@ -4103,6 +4138,7 @@ Red,Fair,4,Rwd,Gas,Mercedes,C230,149000,2500,Clean,1,2003
 Red,Like New,6,Fwd,Gas,Chevrolet,Impala,121102,4200,Clean,1,2008
 Grey,Excellent,4,4Wd,Gas,Hyundai,Elantra,135201,4700,Clean,1,2009
 Grey,Excellent,6,4Wd,Gas,Acura,Mdx,133162,5200,Clean,1,2006
+Black,Like New,8,Rwd,Gas,Maserati,Quattroporte,95956,15999,Clean,1,2007
 Black,Excellent,4,Fwd,Gas,Nissan,Altima,129000,11900,Clean,1,2018
 Red,Excellent,6,Fwd,Gas,Nissan,Maxima,196000,4500,Clean,1,2004
 Black,Excellent,6,4Wd,Gas,Bmw,X5,110253,8999,Clean,1,2007
@@ -4195,7 +4231,6 @@ Black,Good,4,Fwd,Gas,Dodge,Dart,140577,4500,Clean,1,2013
 Black,Excellent,6,4Wd,Gas,Mercedes,Ml350,97977,17999,Clean,1,2015
 White,Excellent,4,Fwd,Gas,Ram,Promaster,230000,37000,Missing,1,2020
 Silver,Excellent,4,4Wd,Gas,Nissan,Versa,153000,4500,Clean,1,2013
-Custom,Like New,6,Rwd,Gas,Buick,Regal,32000,8000,Clean,1,1983
 Grey,Excellent,4,Fwd,Gas,Chevrolet,Malibu,122117,7300,Clean,1,2010
 White,Excellent,6,4Wd,Gas,Hyundai,Santa,70600,8000,Clean,1,2015
 White,Excellent,4,4Wd,Gas,Ford,Ranger,98455,4800,Rebuilt,1,2004
@@ -4324,6 +4359,7 @@ White,Excellent,6,Rwd,Diesel,Mercedes,Sprinter,232000,26500,Clean,1,2014
 White,Like New,6,Fwd,Gas,Toyota,Avalon,119000,8000,Clean,1,2009
 Blue,Good,4,Fwd,Gas,Dodge,Caravan,160000,4300,Clean,1,2012
 Grey,Excellent,8,4Wd,Gas,Chevrolet,Silverado,132693,8000,Rebuilt,1,2011
+Blue,Like New,4,4Wd,Gas,Ford,Maverick,4800,33900,Lien,1,2022
 White,Good,8,4Wd,Gas,Ford,F150,172000,9500,Clean,1,2004
 Red,Good,4,Fwd,Gas,Toyota,Camry,158000,2900,Clean,1,2007
 Silver,Excellent,6,Rwd,Gas,Chrysler,300,204678,5500,Clean,1,2010
@@ -4366,6 +4402,7 @@ Grey,Good,8,4Wd,Gas,Land Rover,Range,153000,5850,Clean,1,2011
 Black,Fair,8,4Wd,Gas,Chevrolet,Avalanche,145000,6450,Clean,1,2012
 Silver,Like New,4,Fwd,Gas,Ford,Focus,87000,4500,Clean,1,2012
 Blue,Excellent,6,4Wd,Gas,Audi,A6,177000,6500,Clean,1,2008
+Black,Like New,4,4Wd,Gas,Ford,Maverick,10800,31000,Clean,1,2022
 Red,Good,4,Fwd,Gas,Volkswagen,Gti,114000,13850,Clean,0,1984
 Red,Excellent,4,4Wd,Gas,Honda,Crv,162000,6400,Clean,1,2003
 White,Excellent,4,Rwd,Gas,Ford,Ranger,145000,3800,Clean,1,2007
@@ -4426,6 +4463,7 @@ Grey,Excellent,4,Fwd,Diesel,Acura,Tsx,90400,14000,Clean,1,2011
 Black,Excellent,8,4Wd,Gas,Gmc,Yukon,159000,9500,Clean,1,2007
 Black,Good,8,4Wd,Gas,Ford,F250,105000,7500,Clean,1,2002
 Yellow,Good,8,4Wd,Gas,Dodge,Durango,99000,8900,Clean,1,2011
+Grey,Like New,4,Fwd,Gas,Toyota,Camry,1443,29950,Clean,1,2023
 White,Excellent,6,4Wd,Gas,Chevrolet,Silverado,65000,29000,Clean,1,2017
 Blue,Excellent,4,4Wd,Gas,Subaru,Impreza,245706,4500,Clean,0,2010
 Grey,Good,6,Fwd,Gas,Pontiac,G6,175000,4400,Clean,1,2007
@@ -4528,7 +4566,6 @@ Black,Excellent,8,Rwd,Gas,Cadillac,Escalade,132500,17000,Clean,0,2013
 Silver,Excellent,4,Fwd,Gas,Chevrolet,Malibu,46000,16995,Rebuilt,1,2019
 Red,Good,8,Rwd,Gas,Chevrolet,Corvette,80000,9500,Clean,1,1987
 White,Excellent,6,4Wd,Gas,Lincoln,Mkz,40000,16900,Clean,1,2013
-Red,Excellent,8,Fwd,Gas,Cadillac,Eldorado,42222,7900,Clean,1,1980
 Black,Good,4,Fwd,Gas,Hyundai,Sonata,112500,4500,Clean,1,2012
 Brown,Like New,8,4Wd,Diesel,Ford,F350,64500,44000,Clean,1,2015
 White,Excellent,4,Fwd,Gas,Nissan,Altima,123000,14900,Clean,1,2016
@@ -4548,6 +4585,7 @@ White,Fair,4,Fwd,Gas,Honda,Civic,194800,2300,Clean,1,2003
 Blue,Good,4,Fwd,Gas,Ford,Focus,132000,2250,Clean,1,2008
 Red,Excellent,8,Rwd,Gas,Chevrolet,Corvette,105000,13500,Clean,1,1994
 Black,Good,4,Fwd,Hybrid,Toyota,Prius,145090,7055,Clean,1,2011
+Red,Like New,4,4Wd,Gas,Chevrolet,Trax,158867,6800,Clean,1,2015
 Black,Good,6,Fwd,Gas,Nissan,Murano,141944,4800,Clean,1,2009
 Black,Excellent,4,Fwd,Gas,Nissan,Rogue,141951,4500,Clean,1,2009
 Red,Excellent,4,Fwd,Gas,Nissan,Sentra,108079,5500,Clean,1,2010
@@ -4600,6 +4638,7 @@ Silver,Like New,4,Fwd,Gas,Chevrolet,Equinox,72345,10000,Clean,1,2012
 Red,Excellent,6,Rwd,Gas,Chevrolet,Camaro,90,7800,Clean,1,1996
 Blue,Fair,6,4Wd,Gas,Audi,A6,150000,2500,Clean,1,2004
 Black,Excellent,4,4Wd,Gas,Ford,Ranger,140000,6750,Clean,1,2004
+Black,Excellent,8,Rwd,Gas,Maserati,Quattroporte,43000,20000,Clean,1,2005
 Silver,Excellent,4,Fwd,Gas,Chevrolet,Malibu,187012,4500,Clean,0,2013
 Black,Good,4,Fwd,Gas,Toyota,Corolla,79557,9500,Clean,1,2010
 Silver,Excellent,4,4Wd,Gas,Subaru,Forester,139500,10000,Clean,1,2015
@@ -4708,6 +4747,7 @@ White,Good,4,Fwd,Gas,Hyundai,Sonata,131719,7800,Clean,1,2013
 Brown,Like New,6,4Wd,Gas,Nissan,Murano,150000,4900,Clean,1,2009
 Grey,Good,6,4Wd,Gas,Gmc,Envoy,231000,3500,Clean,1,2007
 White,Good,6,Fwd,Gas,Ford,Transit,101188,18900,Clean,1,1989
+White,Good,8,Rwd,Gas,Bmw,M5,155923,18500,Clean,0,2000
 Red,Good,10,Rwd,Gas,Ford,F250,156000,3500,Clean,1,2005
 Black,Excellent,6,4Wd,Gas,Audi,A7,151000,15900,Clean,1,2012
 White,Excellent,4,Fwd,Gas,Audi,A3,136500,11500,Clean,1,2015
@@ -4886,7 +4926,7 @@ Custom,Excellent,6,Fwd,Gas,Honda,Pilot,170000,4900,Clean,1,2006
 White,Good,6,Rwd,Gas,Ford,Ranger,226500,4900,Clean,1,2008
 Silver,Fair,8,4Wd,Gas,Dodge,Ram,143400,5900,Lien,1,2001
 Black,Excellent,4,4Wd,Gas,Acura,Rdx,162000,6000,Clean,1,2007
-Black,Good,8,Rwd,Gas,Ford,Mustang,91000,9000,Clean,0,1983
+Red,Excellent,8,Rwd,Gas,Dodge,Magnum,63500,28900,Clean,1,2006
 White,Like New,6,4Wd,Gas,Chevrolet,Silverado,160232,24500,Clean,1,2018
 White,Excellent,6,4Wd,Gas,Dodge,Ram,200332,17500,Clean,1,2017
 White,Excellent,6,4Wd,Gas,Chevrolet,Silverado,170242,22900,Clean,1,2019
@@ -5445,6 +5485,7 @@ Silver,Excellent,6,Fwd,Gas,Kia,Sorento,202150,3900,Clean,1,2008
 Black,Good,4,Fwd,Gas,Buick,Lacrosse,175200,3700,Clean,1,2011
 White,Good,8,4Wd,Gas,Chevrolet,Silverado,120675,24500,Clean,1,2018
 White,Like New,6,4Wd,Diesel,Dodge,Ram,230784,26500,Clean,1,2011
+Red,New,4,Fwd,Gas,Ford,Maverick,600,34000,Clean,1,2023
 White,Good,6,Rwd,Gas,Bmw,325I,242176,4000,Clean,1,2006
 Red,Excellent,4,Fwd,Hybrid,Toyota,Prius,155244,6750,Clean,1,2007
 Black,Excellent,4,Fwd,Gas,Hyundai,Veloster,51856,19995,Clean,1,2020
@@ -5492,6 +5533,7 @@ Blue,Good,4,Fwd,Gas,Audi,Tt,130110,6500,Clean,0,2002
 Black,Good,6,4Wd,Gas,Ford,Explorer,241657,3000,Clean,1,2004
 Black,Good,4,Fwd,Gas,Honda,Civic,166750,4000,Clean,1,2001
 Black,Good,8,Fwd,Gas,Toyota,Tundra,204349,14000,Clean,1,2012
+Silver,New,4,Fwd,Gas,Toyota,Camry,10700,40900,Lien,1,2023
 Black,Like New,4,Fwd,Gas,Cadillac,Ats,100000,9000,Rebuilt,1,2014
 Red,Like New,6,Rwd,Gas,Ford,F150,80410,15995,Rebuilt,1,2011
 Blue,Like New,0,Fwd,Electric,Tesla,Model 3,40983,39300,Clean,1,2019
@@ -5632,7 +5674,6 @@ Silver,Fair,6,Fwd,Gas,Acura,Tl,115,1000,Clean,1,2000
 Grey,Good,4,Fwd,Gas,Acura,Tsx,135000,7995,Rebuilt,1,2011
 White,Good,8,4Wd,Gas,Dodge,Ram,206,3950,Clean,1,2003
 White,Excellent,8,4Wd,Gas,Gmc,Sierra,34000,38900,Rebuilt,1,2021
-Yellow,Like New,4,4Wd,Diesel,Toyota,Land,62500,37500,Clean,0,1980
 Custom,Excellent,8,4Wd,Gas,Chevrolet,Silverado,193000,8500,Clean,1,2007
 Black,Good,4,Rwd,Gas,Dodge,Ram,174905,4950,Rebuilt,1,2005
 Black,Excellent,6,Rwd,Gas,Bmw,M4,26000,48500,Clean,1,2016
@@ -5691,6 +5732,7 @@ Silver,New,6,4Wd,Gas,Acura,Rdx,88000,12999,Clean,1,2016
 Silver,Excellent,6,Fwd,Hybrid,Lexus,Rx,127000,18500,Clean,1,2015
 Black,Good,6,Rwd,Gas,Toyota,Tundra,160000,12500,Clean,1,2005
 Grey,Good,6,Rwd,Gas,Mercedes,E350,158000,5500,Clean,0,2008
+Silver,Excellent,4,Fwd,Gas,Chevrolet,Trax,94000,8000,Clean,1,2019
 Brown,Excellent,4,Fwd,Gas,Buick,Encore,27000,14499,Rebuilt,1,2019
 Black,Excellent,4,Fwd,Gas,Kia,Forte,62000,12250,Clean,1,2017
 White,Excellent,6,Fwd,Gas,Ram,Promaster,55356,41900,Clean,1,2021
@@ -5821,6 +5863,7 @@ Blue,Excellent,8,4Wd,Gas,Chevrolet,Silverado,45000,25000,Clean,1,1985
 Blue,Good,8,Rwd,Gas,Ford,F150,192800,7995,Clean,1,2004
 Blue,Good,4,Rwd,Gas,Mazda,3,160405,8711,Clean,1,2013
 White,Like New,6,4Wd,Gas,Acura,Mdx,81255,24900,Clean,1,2017
+Black,New,4,Fwd,Hybrid,Toyota,Camry,1098,43000,Clean,1,2023
 Grey,Good,4,Fwd,Gas,Ford,Focus,134700,6500,Clean,1,2014
 White,Excellent,4,Fwd,Gas,Toyota,Camry,175000,13999,Clean,1,2013
 White,Excellent,6,4Wd,Gas,Toyota,Tacoma,95000,35000,Clean,1,2017
@@ -5886,6 +5929,7 @@ White,Excellent,6,Fwd,Gas,Ram,Promaster,55356,41900,Clean,1,2021
 Black,Excellent,4,Fwd,Gas,Chevrolet,Equinox,46000,18000,Rebuilt,1,2018
 Black,Good,8,Rwd,Gas,Dodge,Charger,142000,2000,Clean,1,2006
 Brown,Good,4,Rwd,Gas,Honda,Civic,184686,4500,Salvage,1,2013
+Black,Good,8,Fwd,Gas,Maserati,Quattroporte,62000,15000,Rebuilt,1,2012
 White,Good,8,Rwd,Gas,Chevrolet,Silverado,16036,17900,Clean,1,2019
 Green,Fair,8,Rwd,Gas,Chevrolet,Express,156200,2600,Clean,1,1996
 Black,Excellent,0,Rwd,Electric,Nissan,Leaf,76000,8397,Clean,1,2015
@@ -5900,6 +5944,7 @@ Silver,Like New,6,Rwd,Gas,Toyota,Tacoma,62000,29000,Clean,1,2018
 Silver,Good,4,Fwd,Gas,Honda,Fit,155000,4150,Rebuilt,1,2010
 Green,Good,6,Fwd,Gas,Jeep,Wrangler,61749,17000,Rebuilt,1,2015
 White,Excellent,8,4Wd,Diesel,Ford,F350,124467,32000,Clean,1,2009
+Black,Fair,8,4Wd,Gas,Maserati,Quattroporte,70000,8000,Clean,1,2007
 Brown,Excellent,4,Fwd,Gas,Nissan,Altima,155700,7499,Clean,1,2014
 Black,Good,6,Fwd,Gas,Toyota,Highlander,215680,4799,Clean,1,2006
 White,Excellent,4,Fwd,Gas,Nissan,Altima,104370,7900,Clean,1,2008
@@ -6063,10 +6108,11 @@ White,Good,4,Fwd,Gas,Chevrolet,Malibu,111500,10500,Clean,1,2020
 White,Good,8,Rwd,Diesel,Ford,F550,241357,24500,Clean,1,2012
 White,Good,8,Rwd,Gas,Ford,E250,331201,5000,Clean,1,1998
 Grey,Excellent,4,Fwd,Hybrid,Toyota,Camry,71494,15999,Clean,1,2016
-White,Good,8,Rwd,Gas,Chevrolet,Malibu,85000,6000,Clean,1,1980
 Black,Good,8,4Wd,Gas,Chevrolet,Silverado,204000,11750,Salvage,1,2014
 Black,Like New,8,Rwd,Gas,Ford,Mustang,78000,20000,Clean,0,2006
+White,Like New,4,Fwd,Hybrid,Toyota,Prius,200,35950,Clean,1,2023
 Silver,Excellent,6,4Wd,Gas,Audi,S4,43000,36000,Clean,0,2015
+White,Like New,4,Fwd,Hybrid,Toyota,Prius,500,39950,Clean,1,2023
 Silver,Good,6,4Wd,Gas,Jeep,Wrangler,188000,16000,Clean,1,2015
 Silver,Good,8,4Wd,Gas,Gmc,Yukon,156000,9000,Clean,1,2008
 Grey,Good,6,Fwd,Gas,Chrysler,Town,159000,6500,Clean,1,2014
@@ -6099,6 +6145,7 @@ White,Good,8,Fwd,Gas,Chevrolet,Silverado,170213,5000,Clean,1,1999
 Black,Excellent,8,Fwd,Gas,Toyota,Tundra,148000,19500,Clean,1,2010
 Green,Fair,8,Rwd,Gas,Jeep,Grand,227117,1500,Clean,1,1995
 Custom,Good,8,Rwd,Gas,Ford,Ranger,250000,17000,Clean,1,1994
+Red,Excellent,4,Fwd,Gas,Chevrolet,Trax,14000,15000,Salvage,0,2020
 Brown,Good,8,Rwd,Gas,Ford,Expedition,128200,11250,Clean,1,2013
 White,Good,6,Fwd,Gas,Ford,Econoline,230000,5800,Clean,1,2003
 Silver,Excellent,6,Rwd,Gas,Bmw,535I,79984,12499,Clean,1,2011
@@ -6169,7 +6216,6 @@ Brown,Good,6,Fwd,Gas,Lexus,Es,101600,16500,Clean,1,2013
 Black,Excellent,8,Rwd,Gas,Dodge,Ram,104896,14000,Rebuilt,1,2015
 White,Excellent,8,Rwd,Gas,Ford,Expedition,147104,9500,Clean,1,2010
 Grey,Excellent,8,Rwd,Gas,Ford,F150,178000,11000,Clean,1,2012
-White,Excellent,8,Rwd,Gas,Ford,F150,150,11000,Clean,1,1981
 Brown,Good,6,Fwd,Gas,Ford,Edge,175500,8300,Clean,1,2013
 White,Good,4,Fwd,Gas,Honda,Accord,278400,2500,Clean,0,1998
 White,Good,8,Fwd,Gas,Cadillac,Deville,126000,2950,Clean,1,2005
@@ -6211,7 +6257,6 @@ White,Good,6,Rwd,Gas,Ford,F150,170000,14000,Lien,1,2016
 Green,Good,8,Rwd,Gas,Chevrolet,Suburban,287000,4900,Clean,1,2002
 Black,Good,8,Rwd,Gas,Lincoln,Navigator,140545,6995,Clean,1,2008
 Black,Excellent,4,Fwd,Gas,Volkswagen,Tiguan,55000,21500,Clean,0,2019
-White,Fair,8,Rwd,Gas,Gmc,Sierra,1485,3000,Clean,1,1980
 Custom,Excellent,8,Rwd,Gas,Ford,Expedition,170000,6800,Clean,1,1998
 White,Good,6,Fwd,Other,Dodge,Grand,161096,2500,Clean,1,2014
 White,Excellent,4,Fwd,Gas,Toyota,Corolla,92000,12000,Clean,0,2013
@@ -6524,6 +6569,7 @@ Grey,Excellent,4,4Wd,Gas,Honda,Accord,151000,8900,Clean,1,2009
 White,Good,6,Rwd,Gas,Infiniti,Q50,137000,19500,Clean,1,2015
 Grey,Excellent,8,Rwd,Gas,Toyota,Sequoia,238000,8500,Clean,1,2006
 Grey,Excellent,6,4Wd,Gas,Lexus,Rx350,127000,9900,Clean,1,2007
+Grey,Good,6,Rwd,Gas,Dodge,Magnum,235215,4500,Clean,1,2008
 Black,Excellent,6,4Wd,Gas,Jeep,Wrangler,110000,19990,Clean,0,2011
 Grey,Good,4,Fwd,Gas,Chevrolet,Sonic,130000,1500,Clean,1,2012
 Silver,Good,6,4Wd,Gas,Nissan,Xterra,215000,4750,Clean,0,2000
@@ -6599,6 +6645,7 @@ White,Excellent,8,4Wd,Diesel,Ford,F350,169500,24500,Clean,1,2003
 Red,Good,6,4Wd,Gas,Nissan,Frontier,17000,34000,Clean,1,2016
 Black,Excellent,6,Fwd,Gas,Acura,Tlx,18900,32200,Lien,1,2020
 Black,Like New,4,Fwd,Gas,Toyota,Corolla,35000,10900,Rebuilt,1,2015
+White,Like New,4,4Wd,Gas,Ford,Maverick,2500,36500,Lien,1,2023
 Black,Excellent,4,4Wd,Gas,Chevrolet,Spark,140000,5400,Clean,1,2013
 White,Good,6,4Wd,Gas,Lexus,Is,77766,6000,Clean,1,2008
 Silver,Like New,4,4Wd,Gas,Toyota,Camry,218102,4300,Clean,1,2004
@@ -6634,6 +6681,7 @@ Grey,Excellent,4,Fwd,Gas,Dodge,Dart,110000,8000,Clean,1,2013
 Silver,Like New,8,Rwd,Gas,Toyota,Sienna,75200,25800,Clean,1,2017
 White,Fair,8,Rwd,Gas,Chevrolet,Silverado,257500,7000,Clean,1,2000
 White,Excellent,6,Rwd,Gas,Chevrolet,Equinox,160000,4900,Clean,1,2008
+Red,Excellent,8,Rwd,Gas,Jaguar,Xk8,103000,10500,Clean,1,1998
 Silver,Good,4,Fwd,Gas,Dodge,Journey,133000,9500,Clean,1,2017
 Grey,Excellent,6,Rwd,Gas,Infiniti,G37,122050,12500,Clean,1,2010
 Silver,Excellent,8,4Wd,Gas,Gmc,Yukon,164441,19800,Clean,1,2004
@@ -6656,6 +6704,7 @@ Brown,Good,6,4Wd,Gas,Toyota,Camry,200000,3000,Clean,1,2001
 Black,Fair,8,Rwd,Gas,Dodge,Ram,184024,7100,Clean,1,2010
 Silver,Excellent,4,Fwd,Hybrid,Toyota,Prius,156688,9999,Clean,1,2008
 Blue,Good,4,Fwd,Gas,Toyota,Yaris,181000,3700,Rebuilt,1,2007
+Brown,Excellent,8,4Wd,Gas,Maserati,Quattroporte,69900,26900,Clean,1,2014
 Black,Excellent,8,Rwd,Gas,Chevrolet,Suburban,177000,23500,Clean,1,2015
 White,Good,4,Rwd,Gas,Volkswagen,Vanagon,210344,15000,Clean,0,1984
 Brown,Good,4,Rwd,Gas,Honda,Civic,143703,8000,Clean,1,2013
@@ -6680,6 +6729,7 @@ White,Fair,6,Rwd,Gas,Dodge,Caravan,200000,1200,Clean,1,2006
 Black,Good,4,4Wd,Gas,Land Rover,Range Rover,206000,5000,Clean,1,2006
 Black,Excellent,6,4Wd,Gas,Jeep,Wrangler,91000,29500,Clean,1,1998
 Yellow,Excellent,4,Fwd,Gas,Ford,Focus,136000,3400,Clean,1,2003
+Grey,New,4,4Wd,Gas,Toyota,Tacoma,800,46500,Lien,1,2023
 Silver,Excellent,4,Fwd,Gas,Nissan,Rogue,70000,17900,Clean,1,2017
 Grey,Excellent,8,4Wd,Gas,Land Rover,Range Rover,61330,47900,Clean,1,2014
 Blue,Excellent,3,Fwd,Gas,Smart,Fortwo,160000,1500,Rebuilt,1,2009
@@ -6727,6 +6777,7 @@ Black,Good,4,Fwd,Gas,Volkswagen,Golf,78000,21500,Clean,1,2019
 Red,Salvage,6,Fwd,Gas,Pontiac,Grand,190000,1500,Clean,1,2005
 White,Excellent,4,Fwd,Gas,Ford,E450,46000,45000,Clean,1,2000
 White,Good,6,Fwd,Gas,Buick,Lacrosse,76164,10650,Clean,1,2010
+Red,Like New,6,Rwd,Gas,Nissan,Frontier,185,27995,Rebuilt,1,2023
 Silver,Excellent,6,Rwd,Gas,Bmw,M3,125800,24400,Clean,0,2002
 Black,Excellent,4,Fwd,Gas,Chevrolet,Equinox,179550,5790,Clean,1,2011
 Grey,Fair,6,Rwd,Gas,Nissan,Versa,163891,2800,Clean,0,2008
@@ -6755,6 +6806,7 @@ Black,Good,8,4Wd,Diesel,Ford,F350,157200,25000,Clean,1,2005
 Grey,Good,6,4Wd,Gas,Mercedes,C300,162000,6995,Clean,1,2009
 Orange,Excellent,4,Fwd,Gas,Hyundai,Tucson,72000,15950,Rebuilt,1,2016
 Silver,Excellent,4,Fwd,Gas,Toyota,Prius,118000,18500,Clean,1,2017
+White,Like New,4,Fwd,Gas,Kia,Forte,2235,28995,Clean,1,2023
 Red,Like New,6,Fwd,Gas,Honda,Odyssey,101000,27500,Clean,1,2019
 Grey,Good,8,Fwd,Gas,Volkswagen,Jetta,130000,6400,Clean,1,2011
 Green,Good,8,Rwd,Gas,Ford,E150,74000,1999,Clean,1,1990
@@ -6930,6 +6982,7 @@ Black,Excellent,8,4Wd,Gas,Ford,Expedition,154000,9800,Clean,1,2010
 Blue,Excellent,4,Fwd,Gas,Honda,Crv,80000,18450,Clean,1,2015
 White,Excellent,4,Fwd,Gas,Mercury,Grand,51068,9500,Clean,1,1996
 White,Excellent,4,Rwd,Gas,Nissan,Altima,98000,7900,Rebuilt,1,2017
+White,New,4,Fwd,Hybrid,Ford,Maverick,21,46500,Clean,1,2022
 Red,Good,6,4Wd,Gas,Ford,Mustang,156655,1200,Clean,1,2002
 Black,Excellent,8,Rwd,Gas,Chevrolet,Silverado,80000,14999,Clean,1,2005
 Red,Good,4,Rwd,Gas,Ford,Fiesta,68000,7900,Rebuilt,1,2018
@@ -7229,7 +7282,6 @@ Silver,Excellent,6,Fwd,Gas,Ford,Taurus,138150,3200,Clean,1,2006
 White,Excellent,4,Fwd,Gas,Ford,Edge,122000,10900,Clean,0,2013
 White,Good,6,4Wd,Gas,Honda,Pilot,172000,3250,Clean,1,2005
 White,Excellent,8,Fwd,Gas,Chevrolet,Silverado,130000,6500,Clean,1,1993
-Black,Excellent,4,Fwd,Gas,Porsche,911,107000,41500,Clean,0,1981
 Black,Excellent,4,Fwd,Gas,Chevrolet,Equinox,179550,5790,Clean,1,2011
 White,Excellent,6,Rwd,Gas,Dodge,Ram,46000,25900,Rebuilt,1,2020
 Silver,Excellent,6,Rwd,Gas,Pontiac,Firebird,89000,8800,Clean,0,1995
@@ -7260,6 +7312,7 @@ White,Good,8,Rwd,Gas,Ford,F250,240000,4000,Clean,1,2005
 Blue,Excellent,0,Fwd,Electric,Tesla,Model S,29000,49500,Clean,1,2018
 White,Good,6,Rwd,Gas,Ford,Explorer,140000,11995,Clean,1,2018
 White,Excellent,4,Fwd,Gas,Gmc,Terrain,25000,24500,Rebuilt,1,2020
+Blue,New,8,Rwd,Gas,Ford,Bronco,1600,52000,Clean,1,2023
 Silver,Excellent,6,Rwd,Gas,Infiniti,G35,167000,5000,Clean,1,2003
 Grey,Like New,4,Fwd,Gas,Volkswagen,Jetta,92100,10500,Clean,1,2015
 Custom,Excellent,6,Rwd,Gas,Ford,Ranger,210000,9500,Clean,1,2003
@@ -7362,6 +7415,7 @@ Black,Excellent,8,Rwd,Gas,Nissan,Titan,188250,6800,Clean,1,2006
 Grey,Good,8,4Wd,Gas,Ford,F250,230000,18000,Clean,1,2002
 Black,Excellent,4,Fwd,Gas,Hyundai,Sonata,154629,9000,Clean,1,2014
 White,Excellent,4,Fwd,Hybrid,Lincoln,Mkz,123955,10999,Clean,1,2012
+Custom,Excellent,8,Rwd,Gas,Jaguar,Xk8,44009,13250,Clean,1,1999
 Blue,Excellent,4,Fwd,Gas,Lincoln,Mkz,68000,16000,Clean,1,2014
 Silver,Excellent,6,4Wd,Gas,Mercedes,E350,91000,13000,Clean,1,2011
 Grey,Excellent,4,Fwd,Gas,Toyota,Matrix,137000,5900,Clean,1,2007
@@ -7422,6 +7476,7 @@ Silver,Excellent,4,Fwd,Gas,Ford,Focus,130000,6700,Clean,1,2015
 Black,Like New,6,4Wd,Gas,Ford,F150,46000,52500,Salvage,1,2020
 Black,Excellent,4,Fwd,Gas,Ford,Focus,68500,8600,Rebuilt,1,2013
 Silver,Like New,6,Rwd,Gas,Toyota,Camry,139000,6900,Clean,1,2006
+Black,Like New,8,Rwd,Gas,Dodge,Magnum,41500,29500,Clean,1,2006
 Black,Excellent,6,4Wd,Gas,Jeep,Wrangler,221504,10800,Clean,0,2003
 White,Excellent,4,Fwd,Gas,Nissan,Altima,179010,5200,Clean,1,2011
 White,Excellent,4,Rwd,Gas,Chevrolet,Silverado,1,14000,Clean,0,2017
@@ -7447,13 +7502,16 @@ White,Good,6,4Wd,Gas,Ford,F150,32000,24500,Salvage,1,2016
 Blue,Excellent,6,Fwd,Gas,Ford,F150,77390,22000,Clean,1,2013
 Silver,Good,6,Rwd,Gas,Bmw,335I,180000,5500,Rebuilt,1,2007
 Blue,Excellent,6,4Wd,Gas,Bmw,528I,95000,14900,Clean,1,2015
+Black,Like New,6,Rwd,Gas,Toyota,Tacoma,5000,39700,Clean,1,2023
 Red,Good,10,Rwd,Gas,Ford,Excursion,152000,5600,Clean,1,2002
 Black,Good,6,4Wd,Gas,Toyota,Tacoma,279389,7000,Clean,1,1999
+White,New,4,Fwd,Gas,Nissan,Altima,320,28300,Clean,1,2023
 Grey,Excellent,4,Rwd,Gas,Lexus,Is,120,13500,Clean,1,2010
 Blue,Like New,8,4Wd,Gas,Chevrolet,Silverado,33500,55000,Clean,1,2020
 White,Good,8,Rwd,Gas,Ford,E350,197000,10500,Clean,1,2003
 Brown,Excellent,4,Fwd,Gas,Volkswagen,Jetta,112000,8000,Clean,0,2001
 Blue,Excellent,8,4Wd,Gas,Chevrolet,Silverado,150000,19500,Clean,1,1994
+White,Excellent,5,Rwd,Diesel,Mercedes,Sprinter,11900,56499,Clean,1,2023
 White,Excellent,6,Fwd,Gas,Honda,Civic,69600,8000,Rebuilt,1,2015
 Black,Like New,4,4Wd,Gas,Jeep,Wrangler,61,21800,Rebuilt,1,2017
 Grey,Fair,8,Rwd,Gas,Toyota,Sequoia,165000,3200,Clean,1,2004
@@ -7545,7 +7603,6 @@ White,Excellent,4,Fwd,Gas,Honda,Accord,150000,6500,Clean,1,2010
 Red,Good,6,Fwd,Gas,Pontiac,Grand,33000,6500,Clean,1,2000
 Grey,Excellent,4,4Wd,Gas,Subaru,Legacy,112000,9000,Clean,1,2009
 Red,Fair,8,Fwd,Gas,Ford,F350,170000,11700,Clean,1,1994
-White,Good,4,Rwd,Gas,Ford,Mustang,74655,9950,Clean,1,1983
 Black,Like New,8,4Wd,Diesel,Gmc,Sierra,136000,49900,Clean,1,2015
 Silver,Excellent,8,Rwd,Gas,Chevrolet,Silverado,79819,33000,Clean,1,2017
 Silver,Excellent,4,Fwd,Gas,Toyota,Corolla,182082,8900,Clean,1,2013
@@ -7790,6 +7847,7 @@ Grey,Excellent,4,4Wd,Gas,Audi,A4,139000,8650,Clean,1,2013
 Blue,Excellent,4,Fwd,Gas,Nissan,Sentra,44000,14000,Rebuilt,1,2019
 White,Excellent,8,4Wd,Gas,Chevrolet,Silverado,119921,41500,Clean,1,2018
 Red,Good,8,Rwd,Diesel,Ford,F350,333000,10000,Clean,0,2000
+Silver,New,4,4Wd,Gas,Honda,Crv,400,39500,Lien,1,2023
 White,Excellent,8,Rwd,Gas,Chevrolet,Silverado,170000,14250,Clean,1,2010
 Silver,Good,4,Fwd,Gas,Acura,Tsx,140000,12000,Clean,1,2012
 Black,Like New,6,Rwd,Gas,Cadillac,Cts,144,3300,Clean,1,2007
@@ -7819,6 +7877,7 @@ Blue,Excellent,4,Fwd,Gas,Hyundai,Accent,71000,6800,Rebuilt,1,2016
 White,Good,8,Rwd,Gas,Ford,E350,170234,10500,Clean,1,2014
 Silver,Good,4,Fwd,Hybrid,Toyota,Prius,198000,9200,Clean,1,2012
 White,Excellent,8,4Wd,Gas,Gmc,Sierra,98000,34800,Clean,1,2018
+Black,Like New,4,Fwd,Gas,Chevrolet,Trax,18280,22000,Clean,1,2020
 Red,Like New,6,Rwd,Gas,Dodge,Challenger,35000,17800,Rebuilt,1,2018
 Orange,Like New,6,4Wd,Gas,Chevrolet,Silverado,46000,38500,Clean,1,2015
 Red,Excellent,4,Fwd,Gas,Fiat,500,89980,13255,Clean,0,2013
@@ -7878,6 +7937,7 @@ Blue,Good,6,Rwd,Gas,Cadillac,Srx,158000,6500,Clean,1,2011
 Silver,Excellent,6,Fwd,Gas,Chevrolet,Malibu,170000,4500,Clean,1,2010
 White,Excellent,4,Rwd,Diesel,Dodge,Ram,224000,15250,Salvage,1,2002
 Blue,Excellent,6,Fwd,Gas,Toyota,Sienna,76,32500,Clean,1,2018
+Black,Good,5,Fwd,Gas,Volkswagen,Passat,102146,7300,Rebuilt,1,2023
 Silver,Good,4,Fwd,Gas,Chevrolet,Sonic,137000,5900,Clean,1,2012
 Grey,Good,6,Rwd,Gas,Dodge,Charger,126000,4500,Clean,1,2008
 Silver,Excellent,4,Fwd,Gas,Hyundai,Sonata,122000,9950,Clean,1,2017
@@ -7898,6 +7958,7 @@ Blue,Good,8,4Wd,Gas,Ford,Bronco,201750,12000,Clean,1,1984
 Grey,Good,4,Fwd,Gas,Toyota,Matrix,165000,4800,Clean,1,2007
 White,Good,8,4Wd,Diesel,Ford,F250,239000,25000,Clean,1,2002
 Silver,Good,6,Rwd,Gas,Cadillac,Cts,106000,6200,Rebuilt,1,2012
+Orange,New,6,Rwd,Gas,Chevrolet,Camaro,4713,49999,Clean,1,2023
 White,Excellent,6,Rwd,Gas,Chevrolet,Express,163000,15999,Clean,1,2005
 White,Good,4,Fwd,Gas,Nissan,Versa,168000,4500,Clean,1,2015
 Silver,Excellent,4,Fwd,Gas,Nissan,Rogue,143000,4800,Clean,1,2009
@@ -7961,6 +8022,7 @@ Blue,Like New,4,Fwd,Gas,Toyota,Corolla,11000,19800,Salvage,1,2022
 Silver,Good,4,Fwd,Hybrid,Toyota,Prius,176500,12180,Clean,1,2015
 Silver,Excellent,6,Fwd,Gas,Nissan,Murano,148550,7500,Clean,1,2014
 Silver,Excellent,4,Fwd,Gas,Kia,Optima,117000,8500,Clean,1,2014
+Silver,Like New,4,Fwd,Gas,Chevrolet,Trax,43000,10000,Rebuilt,1,2018
 White,Good,8,Rwd,Gas,Ford,Expedition,169000,6500,Clean,1,2008
 Red,Excellent,4,Fwd,Gas,Fiat,500,155,4600,Clean,0,2013
 Grey,Fair,4,Fwd,Gas,Volkswagen,Jetta,137086,6900,Clean,1,2012
@@ -7994,6 +8056,7 @@ White,Good,8,Rwd,Gas,Dodge,Ram,174000,13000,Clean,1,1998
 Brown,Fair,8,Fwd,Gas,Ford,F250,145000,2500,Clean,1,1987
 Black,Excellent,8,Rwd,Gas,Ford,Mustang,62000,15900,Clean,0,2008
 Yellow,Like New,6,Rwd,Gas,Chevrolet,Express,10000,1700,Clean,1,2009
+Blue,Excellent,8,Rwd,Gas,Jaguar,Xk8,100000,10000,Clean,1,1998
 Blue,Excellent,4,4Wd,Gas,Chevrolet,Equinox,24000,19900,Rebuilt,1,2020
 Red,Good,4,Fwd,Gas,Mercedes,C230,146000,3500,Clean,1,2004
 Blue,Like New,4,Fwd,Gas,Mini Cooper,S,62000,15400,Clean,1,2015
@@ -8045,7 +8108,6 @@ Black,Like New,8,4Wd,Gas,Jeep,Grand,86000,16000,Clean,1,2012
 Red,Excellent,6,Fwd,Gas,Lexus,Rx,122700,11750,Clean,1,2010
 Silver,Like New,6,Fwd,Gas,Honda,Odyssey,166000,9700,Clean,1,2011
 Black,Excellent,8,Rwd,Gas,Buick,Regal,77300,22900,Clean,1,1986
-Black,Excellent,8,Rwd,Gas,Buick,Regal,17000,22900,Clean,1,1982
 White,Excellent,8,4Wd,Diesel,Ford,F250,225337,17000,Clean,1,2000
 White,Excellent,8,4Wd,Gas,Toyota,Tundra,255500,11000,Clean,1,2001
 White,Good,6,Fwd,Gas,Ford,Edge,160696,8500,Clean,1,2014
@@ -8108,6 +8170,7 @@ Orange,Like New,8,Rwd,Gas,Chevrolet,Corvette,30000,43000,Clean,0,2013
 White,Good,8,Rwd,Gas,Chevrolet,Silverado,230000,9800,Clean,1,2006
 Grey,Good,8,Rwd,Gas,Gmc,Sierra,192500,10200,Clean,1,2011
 Grey,Excellent,6,Rwd,Gas,Dodge,Durango,112000,11500,Clean,1,2015
+Blue,New,4,Fwd,Hybrid,Ford,Maverick,18,35900,Clean,1,2023
 White,Fair,8,Rwd,Gas,Chevrolet,Tahoe,185000,6700,Clean,1,2009
 Blue,Good,4,4Wd,Gas,Mazda,Cx,123111,6999,Rebuilt,1,2010
 Red,Good,4,Fwd,Gas,Fiat,500,125800,5999,Clean,0,2012
@@ -8394,7 +8457,6 @@ Blue,Good,6,Rwd,Gas,Mercedes,E350,145000,7000,Clean,1,2007
 Custom,Excellent,6,4Wd,Gas,Jeep,Wrangler,40140,25000,Clean,1,2003
 Silver,Like New,0,4Wd,Electric,Tesla,Model S,36000,42000,Clean,1,2014
 White,Good,6,4Wd,Gas,Ford,Ranger,174000,4500,Clean,1,2000
-Black,Good,6,Rwd,Gas,Porsche,911,119000,49000,Clean,0,1982
 Orange,Good,6,4Wd,Gas,Ford,Bronco,10892,21000,Clean,0,1985
 Black,Excellent,6,4Wd,Gas,Ford,F150,155000,21000,Clean,1,2015
 White,Good,8,4Wd,Diesel,Ford,F250,152000,18900,Clean,0,2005
@@ -8481,11 +8543,11 @@ White,Excellent,6,Rwd,Gas,Ford,Explorer,90000,14300,Salvage,1,2016
 Blue,Good,6,Fwd,Gas,Dodge,Grand,77744,5900,Clean,1,2007
 White,Excellent,4,Fwd,Gas,Toyota,Rav4,90000,13995,Rebuilt,1,2015
 Black,Good,4,4Wd,Gas,Honda,Crv,231000,4900,Clean,1,2007
-Blue,Fair,6,Rwd,Gas,Pontiac,Firebird,49314,2200,Clean,1,1981
 Black,Excellent,6,4Wd,Gas,Porsche,Macan,71000,42000,Clean,1,2015
 Silver,Excellent,8,Rwd,Gas,Chevrolet,Corvette,93123,22900,Clean,0,2004
 Blue,Good,8,4Wd,Gas,Ford,F150,172000,10499,Clean,1,2007
 Grey,Salvage,6,Fwd,Gas,Nissan,Murano,52431,16900,Salvage,1,2018
+White,Like New,8,Rwd,Gas,Bmw,M5,61000,40000,Clean,1,2015
 White,Good,8,Rwd,Gas,Chevrolet,Silverado,206000,4500,Clean,1,1997
 Black,Fair,8,Rwd,Other,Ford,Crown,148785,4000,Clean,1,2011
 Black,Excellent,4,Fwd,Gas,Hyundai,Sonata,145500,5900,Clean,1,2012
@@ -8495,7 +8557,6 @@ Silver,Fair,6,4Wd,Gas,Acura,Rdx,140000,3000,Clean,1,2009
 White,Good,8,Fwd,Gas,Cadillac,Eldorado,40200,10500,Clean,1,1998
 Black,Excellent,4,Rwd,Gas,Nissan,Frontier,47500,10850,Rebuilt,1,2012
 Orange,Excellent,6,4Wd,Gas,Toyota,Tacoma,66200,28000,Rebuilt,0,2018
-Red,Excellent,6,4Wd,Gas,Jeep,Renegade,50000,12000,Clean,0,1982
 Grey,Excellent,6,Fwd,Gas,Lexus,Es,95100,23700,Clean,1,2017
 White,Excellent,6,Rwd,Gas,Dodge,Ram,90000,16900,Clean,1,2016
 White,Excellent,6,Rwd,Gas,Toyota,Tacoma,125000,22000,Clean,1,2013
@@ -8515,6 +8576,7 @@ White,Like New,8,Rwd,Gas,Ford,F150,90657,21000,Clean,1,2019
 Custom,Good,6,Fwd,Gas,Buick,Lesabre,72000,7000,Clean,1,2000
 White,Good,6,Rwd,Diesel,Dodge,Ram,115000,40000,Lien,1,2013
 Silver,Good,6,4Wd,Gas,Gmc,Acadia,176300,8500,Clean,1,2013
+Silver,Good,6,Rwd,Gas,Maserati,Quattroporte,80000,6000,Clean,1,2005
 Blue,Excellent,4,Fwd,Gas,Chevrolet,Cruze,87850,10800,Clean,1,2016
 White,Good,6,4Wd,Gas,Toyota,Land,160000,15000,Clean,1,1992
 Blue,Good,6,Fwd,Gas,Ford,Edge,135000,6800,Clean,1,2013
@@ -8598,6 +8660,7 @@ Blue,Excellent,6,Rwd,Gas,Bmw,335I,78000,14950,Clean,1,2008
 Yellow,Excellent,4,Rwd,Gas,Nissan,Xterra,133000,8900,Clean,1,2008
 Custom,Excellent,6,4Wd,Gas,Jeep,Wrangler,71000,39950,Clean,1,2017
 White,Excellent,4,Rwd,Gas,Toyota,Tacoma,150000,11900,Clean,1,2010
+Silver,Like New,4,4Wd,Gas,Chevrolet,Trax,24200,21000,Clean,1,2022
 White,Excellent,6,Rwd,Gas,Dodge,Dakota,80000,12000,Clean,1,2011
 White,Excellent,8,Rwd,Gas,Chevrolet,Silverado,120103,15900,Rebuilt,1,2012
 White,Excellent,4,Fwd,Gas,Nissan,Altima,160000,5500,Clean,1,2016
@@ -8655,6 +8718,7 @@ White,Excellent,4,Fwd,Gas,Toyota,Corolla,255912,6300,Clean,1,2010
 Black,Excellent,4,Fwd,Gas,Hyundai,Elantra,173044,7000,Clean,1,2012
 Grey,Excellent,6,Rwd,Gas,Jeep,Cherokee,85500,20000,Clean,1,2015
 Grey,Excellent,4,4Wd,Gas,Chevrolet,Sonic,90000,16200,Clean,0,2019
+Grey,Like New,6,Rwd,Gas,Toyota,Tacoma,850,41500,Clean,1,2023
 White,Like New,6,Fwd,Gas,Chevrolet,Impala,76594,16900,Clean,1,2018
 Red,Like New,6,4Wd,Gas,Jeep,Wrangler,145000,19000,Clean,1,2011
 Black,Good,8,4Wd,Gas,Chevrolet,Express,147000,19500,Clean,1,2009
@@ -8711,6 +8775,7 @@ Custom,Like New,8,4Wd,Gas,Jeep,Wrangler,90000,26000,Clean,1,1991
 White,Like New,6,Fwd,Gas,Dodge,Ram,34000,30900,Clean,1,2017
 White,Excellent,6,4Wd,Gas,Jeep,Wrangler,13300,32500,Rebuilt,1,2020
 White,Good,8,4Wd,Gas,Ford,F150,187000,17900,Clean,1,2011
+Blue,New,4,Fwd,Hybrid,Ford,Maverick,18,35900,Clean,1,2023
 White,Good,6,Fwd,Gas,Chevrolet,Traverse,157902,6500,Clean,1,2013
 Silver,Excellent,4,Fwd,Gas,Dodge,Avenger,73000,7500,Clean,1,2013
 White,Excellent,4,4Wd,Gas,Subaru,Wrx,61500,21800,Salvage,0,2018
@@ -8781,6 +8846,7 @@ White,Fair,6,Fwd,Gas,Chevrolet,Traverse,114000,3000,Clean,1,2009
 Red,Excellent,8,4Wd,Gas,Gmc,Sierra,180000,6500,Clean,1,1993
 Grey,Good,8,Rwd,Gas,Dodge,Ram,164173,6200,Clean,1,2003
 White,Excellent,6,Fwd,Gas,Infiniti,Qx60,21900,33000,Lien,1,2019
+Blue,Excellent,8,Rwd,Gas,Bmw,M5,43000,37500,Clean,1,2013
 Black,Excellent,6,Rwd,Gas,Ford,Explorer,101000,18500,Clean,1,2016
 Grey,Good,6,4Wd,Gas,Kia,Sorento,114000,14500,Clean,1,2017
 White,Like New,6,Fwd,Hybrid,Toyota,Sienna,112602,44000,Clean,1,2022
@@ -8801,7 +8867,6 @@ White,Good,4,Fwd,Gas,Nissan,Nv200,155219,11000,Clean,1,2017
 Black,Like New,4,Fwd,Gas,Mazda,Cx,39000,12500,Rebuilt,1,2017
 Black,Good,4,Rwd,Gas,Chrysler,200,78000,12000,Clean,1,2016
 Red,Fair,8,Rwd,Gas,Ford,Excursion,222000,1500,Clean,1,2002
-Yellow,Excellent,8,Rwd,Gas,Chevrolet,Silverado,45000,24995,Clean,1,1981
 Black,Excellent,8,Rwd,Gas,Mercedes,S550,192000,8999,Clean,1,2008
 Silver,Excellent,6,Rwd,Gas,Porsche,911,48618,27800,Clean,0,2003
 Blue,Good,4,4Wd,Gas,Subaru,Outback,155000,5400,Clean,1,2013
@@ -8828,8 +8893,10 @@ White,Good,6,Rwd,Gas,Nissan,350Z,207000,7000,Clean,1,2005
 Black,Like New,6,Rwd,Gas,Ford,Transit,42000,38000,Rebuilt,1,2018
 Orange,Excellent,6,Rwd,Gas,Nissan,Xterra,245000,5500,Clean,1,2003
 White,Good,8,4Wd,Gas,Chevrolet,Suburban,203557,10000,Clean,1,2008
+White,Like New,4,4Wd,Hybrid,Kia,Sorento,18000,47000,Clean,1,2023
 White,Excellent,4,Rwd,Gas,Ford,Ranger,138000,4500,Clean,1,2000
 Black,Good,8,Fwd,Gas,Cadillac,Eldorado,136000,10000,Clean,1,2001
+White,Excellent,6,4Wd,Gas,Maserati,Quattroporte,37700,28000,Clean,1,2014
 Grey,Excellent,4,Fwd,Hybrid,Hyundai,Sonata,52000,23500,Clean,1,2018
 Grey,Fair,6,Rwd,Gas,Bmw,3,230830,3500,Clean,0,2001
 White,Good,8,Fwd,Gas,Dodge,Ram,93300,11000,Clean,1,2008
@@ -8848,6 +8915,7 @@ Silver,Excellent,4,4Wd,Gas,Subaru,Wrx,63500,24900,Clean,0,2018
 Custom,Like New,4,Fwd,Gas,Kia,Soul,17000,17900,Rebuilt,1,2020
 White,Good,8,4Wd,Gas,Chevrolet,Silverado,154000,16000,Clean,0,1995
 Silver,Excellent,8,4Wd,Gas,Dodge,Ram,169000,13000,Clean,1,2003
+Red,Like New,3,Fwd,Gas,Nissan,Rogue,6000,35000,Clean,1,2023
 White,Good,4,Fwd,Gas,Nissan,Maxima,191600,8250,Clean,1,2009
 White,Good,8,4Wd,Gas,Nissan,Altima,221000,9500,Clean,1,2010
 Silver,Good,6,Rwd,Gas,Nissan,Murano,186500,3500,Salvage,1,2007
@@ -8897,6 +8965,7 @@ Brown,Like New,8,4Wd,Diesel,Ford,F250,155000,35500,Clean,1,2014
 White,Good,8,4Wd,Diesel,Chevrolet,Silverado,112000,45000,Lien,1,2018
 White,Good,8,Fwd,Gas,Chevrolet,Silverado,207188,5000,Clean,1,2006
 Brown,Excellent,8,Rwd,Gas,Chevrolet,Silverado,143742,8700,Clean,1,1992
+Silver,Excellent,6,4Wd,Gas,Maserati,Quattroporte,33947,32500,Clean,1,2015
 Silver,Excellent,6,Rwd,Gas,Hyundai,Genesis,172000,5500,Clean,1,2009
 White,Excellent,5,Rwd,Gas,Chevrolet,Colorado,133000,9000,Clean,1,2011
 White,Like New,6,Rwd,Gas,Dodge,Ram,33000,28900,Rebuilt,1,2019
@@ -8951,6 +9020,7 @@ Red,Excellent,6,4Wd,Gas,Jeep,Wrangler,73500,25500,Clean,0,2015
 Red,Excellent,0,Rwd,Electric,Ford,Mustang,4400,55000,Clean,1,2022
 Silver,Excellent,6,Rwd,Gas,Mercedes,Slk,192500,8800,Clean,1,2007
 Grey,Good,6,Fwd,Gas,Kia,Sedona,141000,1500,Clean,1,2007
+White,Like New,4,Fwd,Gas,Ford,Maverick,2000,36500,Lien,1,2023
 Black,Like New,8,Rwd,Gas,Nissan,Armada,56000,19500,Rebuilt,1,2017
 White,Excellent,4,Fwd,Gas,Mazda,3,128000,5666,Clean,1,2006
 White,Fair,6,4Wd,Diesel,Dodge,Ram,298000,14400,Clean,1,2006
@@ -8992,6 +9062,7 @@ White,Good,6,Fwd,Gas,Nissan,Maxima,129000,9000,Clean,1,2012
 Black,Good,6,Rwd,Gas,Mercedes,E350,190000,7500,Clean,1,2009
 White,Excellent,8,Rwd,Gas,Ford,F150,166000,9000,Salvage,1,2008
 Black,Like New,4,Fwd,Gas,Ford,Fusion,163000,4500,Clean,1,2013
+Grey,Excellent,4,Fwd,Gas,Chevrolet,Trax,28771,13900,Rebuilt,1,2020
 Black,Good,8,4Wd,Gas,Lexus,Gx,184000,14500,Clean,1,2004
 Blue,Good,4,Fwd,Gas,Chrysler,200,151555,2800,Clean,1,2008
 Grey,Excellent,4,Rwd,Gas,Chevrolet,Camaro,27000,18950,Rebuilt,1,2019
@@ -9045,6 +9116,7 @@ Red,Good,4,Rwd,Gas,Ford,Ranger,189518,7500,Clean,1,1999
 White,Excellent,4,Fwd,Gas,Chevrolet,Equinox,127000,7500,Clean,1,2015
 White,Good,8,Fwd,Gas,Ford,F150,177000,5900,Clean,1,2014
 White,Good,6,Rwd,Gas,Bmw,M4,77000,38400,Clean,1,2016
+Black,Like New,8,Rwd,Gas,Maserati,Quattroporte,20000,33000,Clean,1,2009
 Silver,Excellent,4,Fwd,Gas,Kia,Soul,58958,10900,Rebuilt,1,2019
 Silver,Excellent,4,Fwd,Gas,Mitsubishi,Outlander,157000,7800,Clean,1,2016
 Black,Excellent,0,Fwd,Electric,Nissan,Leaf,23927,24500,Lien,1,2020
@@ -9062,6 +9134,7 @@ Black,Good,8,Rwd,Gas,Lincoln,Navigator,169500,6000,Clean,1,2008
 Red,Excellent,6,4Wd,Gas,Jeep,Grand,92000,18500,Clean,1,2014
 Blue,Good,4,4Wd,Gas,Subaru,Wrx,135000,13500,Rebuilt,0,2011
 Grey,Excellent,6,Fwd,Gas,Toyota,Avalon,180000,7000,Salvage,1,2012
+White,Excellent,4,Rwd,Diesel,Mercedes,Sprinter,12500,56499,Clean,1,2023
 White,Like New,8,Rwd,Gas,Chevrolet,Tahoe,72000,23500,Clean,1,1999
 Grey,Good,6,Fwd,Gas,Lexus,Es,178000,11400,Clean,1,2013
 Red,Excellent,4,Fwd,Gas,Ford,Fiesta,65845,10500,Clean,1,2016
@@ -9105,6 +9178,7 @@ White,Good,8,Rwd,Diesel,Ford,F450,200495,9500,Clean,1,2001
 Custom,Excellent,8,Rwd,Gas,Chevrolet,Suburban,109,22500,Rebuilt,1,2015
 Blue,Excellent,6,Rwd,Gas,Bmw,M3,96100,45000,Clean,0,2002
 Silver,Excellent,8,Rwd,Gas,Toyota,Sequoia,76000,17000,Clean,1,2006
+White,New,4,Fwd,Gas,Toyota,Corolla,800,45000,Clean,0,2023
 Red,Excellent,6,Fwd,Gas,Chevrolet,Impala,112450,15500,Clean,1,2015
 White,Fair,6,Fwd,Gas,Nissan,Altima,158000,4500,Clean,1,2012
 Black,Good,6,4Wd,Gas,Jeep,Wrangler,130000,14000,Clean,1,2005
@@ -9129,6 +9203,7 @@ Grey,Excellent,6,Rwd,Gas,Bmw,X5,104000,19900,Clean,1,2016
 Blue,Good,4,4Wd,Gas,Honda,Civic,191000,5000,Clean,0,2006
 Red,Good,4,Fwd,Gas,Hyundai,Sonata,166000,7750,Clean,1,2017
 White,Like New,6,Rwd,Gas,Infiniti,Q50,43500,25900,Clean,1,2019
+White,Like New,4,Fwd,Gas,Ford,Maverick,9876,44500,Clean,1,2022
 Black,Excellent,8,Rwd,Gas,Mercedes,Sl500,92137,15900,Clean,1,2001
 Grey,Good,4,Fwd,Gas,Honda,Civic,160000,6800,Clean,1,2009
 White,Good,6,4Wd,Diesel,Gmc,Sierra,244000,18000,Clean,1,2003
@@ -9176,6 +9251,7 @@ Grey,Excellent,6,Fwd,Gas,Lexus,Rx,120890,19500,Clean,1,2013
 White,Good,8,Rwd,Gas,Toyota,Tundra,99400,21500,Clean,1,2012
 Black,Excellent,8,4Wd,Gas,Chevrolet,Silverado,209500,11000,Clean,1,2013
 White,Excellent,10,4Wd,Gas,Ford,Excursion,189400,10200,Clean,1,2000
+White,Excellent,6,Rwd,Gas,Bmw,M5,145284,39000,Clean,0,1991
 Silver,Excellent,4,Rwd,Gas,Honda,S2000,96000,32000,Clean,0,2008
 Black,Excellent,6,4Wd,Diesel,Audi,Q7,130392,15900,Clean,1,2014
 Red,Good,4,Fwd,Gas,Kia,Soul,99001,6999,Salvage,1,2013
@@ -9453,6 +9529,7 @@ Blue,Good,8,Rwd,Gas,Lexus,Is250,135000,12999,Rebuilt,1,2011
 White,Good,6,4Wd,Gas,Dodge,Caravan,160000,3500,Clean,1,2005
 Black,Excellent,6,4Wd,Gas,Mitsubishi,Montero,158000,14700,Clean,1,2002
 Black,Good,6,4Wd,Gas,Jeep,Wrangler,103000,16500,Clean,0,2006
+Grey,New,4,Fwd,Hybrid,Hyundai,Sonata,200,36500,Clean,1,2023
 Red,Good,4,Fwd,Gas,Mitsubishi,Eclipse,213602,3400,Clean,1,2006
 Silver,Excellent,4,4Wd,Gas,Subaru,Forester,62153,21000,Clean,1,2016
 Silver,Good,4,Fwd,Gas,Volkswagen,Jetta,99000,8000,Clean,1,2014
@@ -9766,7 +9843,6 @@ White,Excellent,4,4Wd,Gas,Cadillac,Ats,68000,15500,Clean,1,2014
 White,Good,8,Rwd,Diesel,Ford,E350,240000,5999,Clean,1,2005
 Silver,Excellent,6,Rwd,Gas,Jeep,Wrangler,105200,16500,Clean,0,2009
 Red,Good,4,4Wd,Gas,Honda,Crv,172000,4900,Clean,1,2001
-White,Good,6,4Wd,Gas,Ford,Bronco,62000,7000,Clean,0,1982
 Red,Good,8,4Wd,Diesel,Ford,F350,225000,15000,Clean,1,2009
 Black,Good,6,4Wd,Gas,Bmw,328I,185000,6500,Clean,1,2009
 White,Excellent,8,4Wd,Gas,Chevrolet,Silverado,204000,9000,Clean,1,2007
@@ -9778,6 +9854,7 @@ Blue,Good,6,4Wd,Diesel,Dodge,Ram,218502,24590,Clean,1,2006
 Red,Like New,4,Fwd,Gas,Kia,Rio,25400,7900,Clean,1,2017
 Red,Excellent,4,4Wd,Gas,Subaru,Outback,72500,14400,Rebuilt,1,2016
 Blue,Excellent,6,4Wd,Gas,Subaru,Outback,47000,18100,Rebuilt,1,2018
+Grey,Like New,4,Fwd,Hybrid,Ford,Maverick,500,34599,Clean,1,2023
 Silver,Excellent,4,Fwd,Gas,Chrysler,Pt,135000,5550,Clean,1,2002
 Grey,Excellent,8,4Wd,Diesel,Gmc,Sierra,95589,30500,Rebuilt,1,2012
 Silver,Excellent,8,Rwd,Gas,Chevrolet,Malibu,117000,5299,Clean,1,2010
@@ -9889,7 +9966,6 @@ Blue,Excellent,4,Fwd,Gas,Honda,Ridgeline,204630,10900,Clean,1,2007
 Silver,Excellent,4,4Wd,Gas,Subaru,Outback,120000,7850,Clean,1,2006
 White,Fair,6,4Wd,Gas,Ford,Explorer,175000,1200,Clean,1,2003
 White,Good,8,Rwd,Gas,Ford,E250,140000,16000,Clean,1,2013
-Black,Excellent,8,Rwd,Gas,Chevrolet,Silverado,100000,10500,Clean,1,1981
 Silver,Good,4,4Wd,Gas,Subaru,Outback,120055,3995,Clean,0,2004
 Blue,Good,4,Rwd,Gas,Subaru,Outback,179025,8500,Clean,1,2009
 White,Good,8,Rwd,Gas,Ford,E250,121000,12000,Clean,1,2008
@@ -9965,7 +10041,6 @@ Blue,Good,8,4Wd,Gas,Dodge,Ram,167000,3995,Clean,1,2002
 Grey,Good,6,4Wd,Diesel,Dodge,Ram,224000,15900,Clean,1,2003
 Custom,Good,8,Fwd,Gas,Cadillac,Eldorado,128699,12500,Clean,1,1984
 Red,Good,8,4Wd,Diesel,Ford,F250,257426,10000,Clean,1,1997
-Blue,Good,3,Fwd,Gas,Volkswagen,Vanagon,51024,11500,Clean,0,1980
 White,Excellent,6,4Wd,Gas,Ford,Explorer,71000,25000,Rebuilt,1,2019
 Brown,Excellent,6,4Wd,Gas,Porsche,Cayenne,79000,32000,Clean,1,2016
 Black,Excellent,4,Rwd,Gas,Bmw,330I,65913,24000,Clean,1,2017
@@ -9994,7 +10069,6 @@ White,Good,6,4Wd,Diesel,Dodge,Ram,160000,21000,Clean,1,2004
 Red,Good,6,4Wd,Gas,Jeep,Liberty,244630,5100,Clean,1,2008
 Silver,Excellent,8,4Wd,Gas,Dodge,Ram,150000,21000,Clean,1,2012
 Blue,Good,8,4Wd,Gas,Dodge,Ram,260000,4200,Clean,1,1998
-White,Good,8,Rwd,Gas,Chevrolet,Corvette,82180,16995,Clean,1,1982
 Black,Excellent,8,4Wd,Gas,Chevrolet,Avalanche,175500,12000,Clean,1,2007
 White,Excellent,8,4Wd,Gas,Bmw,X5,48000,39500,Clean,1,2016
 Brown,Good,6,4Wd,Gas,Toyota,4Runner,249000,6500,Clean,1,1998
@@ -10348,7 +10422,6 @@ Silver,Excellent,0,Rwd,Electric,Tesla,Model S,165700,19500,Clean,1,2013
 Silver,Excellent,4,4Wd,Gas,Subaru,Forester,46500,31300,Clean,1,2018
 White,Excellent,4,Fwd,Gas,Honda,Accord,104000,24000,Clean,1,2017
 White,Fair,6,Rwd,Diesel,Ford,F250,99999,4750,Clean,1,1989
-Brown,Excellent,4,Fwd,Gas,Honda,Civic,165000,5300,Clean,1,1981
 Custom,Good,8,4Wd,Gas,Gmc,Yukon,218500,6000,Clean,1,2006
 White,Excellent,10,4Wd,Gas,Ford,Excursion,166521,9999,Clean,1,2003
 Silver,Excellent,6,Fwd,Gas,Toyota,Avalon,72000,8950,Clean,1,2000
@@ -10457,6 +10530,7 @@ Black,Fair,4,Fwd,Gas,Ford,Focus,120000,1900,Clean,1,2001
 White,Excellent,8,Rwd,Gas,Chevrolet,Express,185000,9200,Clean,1,2008
 Blue,Fair,8,Rwd,Gas,Ford,F150,101180,10000,Clean,1,1994
 White,Excellent,8,4Wd,Diesel,Gmc,Sierra,196000,27500,Clean,1,2007
+Black,Excellent,6,4Wd,Gas,Maserati,Quattroporte,50392,28900,Rebuilt,1,2014
 Black,Excellent,4,Fwd,Gas,Honda,Fit,74546,15990,Clean,1,2015
 Black,Good,4,4Wd,Gas,Subaru,Forester,217223,2900,Clean,1,2001
 Silver,Good,4,4Wd,Gas,Subaru,Forester,340000,1800,Clean,0,2000
@@ -10483,7 +10557,6 @@ Black,Excellent,4,Fwd,Hybrid,Toyota,Camry,162900,9000,Clean,1,2015
 White,New,4,Fwd,Gas,Honda,Accord,500,26900,Rebuilt,1,2022
 Black,Good,8,Rwd,Gas,Ford,Explorer,302000,1000,Clean,1,2003
 Grey,Like New,8,4Wd,Gas,Chevrolet,Tahoe,91156,29999,Clean,1,2015
-Grey,Good,4,Rwd,Gas,Alfa,Romeo,50000,3500,Clean,0,1981
 Grey,Like New,0,Fwd,Electric,Nissan,Leaf,68000,9000,Rebuilt,1,2015
 White,Good,6,Fwd,Gas,Volkswagen,Eurovan,144654,30000,Clean,1,2002
 Custom,Excellent,8,4Wd,Gas,Chevrolet,Tahoe,249000,2500,Clean,1,1999
@@ -10800,7 +10873,6 @@ White,Like New,4,4Wd,Gas,Audi,A4,42000,34300,Clean,1,2019
 Silver,Excellent,6,4Wd,Gas,Audi,S4,68000,14500,Clean,1,2002
 Silver,Excellent,4,Fwd,Gas,Toyota,Prius,90169,17000,Clean,1,2015
 White,Excellent,4,Fwd,Gas,Ford,Transit,30000,37500,Clean,1,2017
-Brown,Good,8,Rwd,Gas,Mercury,Grand,62530,3500,Clean,1,1982
 White,Good,8,4Wd,Diesel,Chevrolet,Silverado,255000,16500,Clean,1,2002
 White,Good,6,Rwd,Gas,Toyota,4Runner,78055,12200,Salvage,1,2000
 Red,Good,4,Fwd,Gas,Nissan,Rogue,118382,5500,Clean,1,2009
@@ -10854,7 +10926,6 @@ Red,Excellent,8,4Wd,Gas,Ford,F150,172899,8400,Clean,1,2004
 Green,Excellent,4,Fwd,Gas,Toyota,Rav4,74214,15750,Rebuilt,1,2013
 Green,Good,6,4Wd,Gas,Jeep,Cherokee,2500,3000,Clean,1,1995
 Black,Good,4,4Wd,Gas,Subaru,Outback,190000,1000,Clean,1,2005
-Brown,Excellent,8,Rwd,Gas,Gmc,Sierra,105840,13500,Clean,1,1982
 Blue,Excellent,4,Fwd,Gas,Fiat,500,24700,12900,Salvage,1,2019
 Green,Good,8,4Wd,Diesel,Ford,F350,238519,16500,Clean,1,2003
 Black,Like New,4,4Wd,Gas,Mitsubishi,Outlander,5000,26000,Rebuilt,1,2022
@@ -11005,7 +11076,7 @@ Red,Fair,8,Rwd,Gas,Ford,F150,183000,3800,Clean,1,1993
 Black,Good,6,4Wd,Gas,Porsche,Cayenne,126000,7000,Clean,1,2006
 Blue,Good,4,4Wd,Gas,Ford,Escape,184100,3750,Clean,1,2008
 Grey,Excellent,4,Fwd,Gas,Toyota,Camry,283632,4000,Salvage,1,2000
-Black,Good,8,Rwd,Gas,Chevrolet,Silverado,50000,11500,Clean,0,1980
+Red,Like New,4,4Wd,Gas,Ford,Ranger,4600,40900,Clean,1,2023
 Blue,Good,8,4Wd,Diesel,Ford,F250,148000,5250,Clean,1,1992
 Grey,Excellent,4,Fwd,Gas,Ford,Focus,50563,8000,Clean,1,2014
 White,Good,8,Rwd,Diesel,Ford,F550,196165,17000,Clean,1,2002
@@ -11024,7 +11095,6 @@ Red,Good,6,Rwd,Gas,Ford,Mustang,182000,4000,Clean,1,2004
 Grey,Fair,4,Fwd,Gas,Toyota,Rav4,293000,3000,Clean,1,2003
 White,Good,6,Fwd,Gas,Mercedes,E350,117000,4000,Salvage,1,2008
 White,Like New,6,Rwd,Gas,Hyundai,Genesis,13000,15995,Salvage,1,2014
-Yellow,Excellent,4,Rwd,Gas,Volkswagen,Vanagon,129000,29000,Clean,1,1983
 White,Excellent,8,Rwd,Diesel,Ford,F350,250000,12000,Clean,1,1999
 White,Like New,6,4Wd,Gas,Jeep,Wrangler,56593,30500,Clean,1,2016
 Silver,Excellent,8,4Wd,Gas,Chevrolet,Silverado,266432,8500,Clean,1,2007
@@ -11061,8 +11131,8 @@ Silver,Excellent,6,4Wd,Diesel,Dodge,Ram,171777,25750,Clean,1,2004
 Red,Good,8,4Wd,Gas,Chevrolet,Blazer,0,5500,Clean,1,1993
 White,Fair,6,4Wd,Gas,Honda,Pilot,303000,2500,Clean,1,2004
 Grey,New,0,4Wd,Electric,Tesla,Model 3,21713,48000,Clean,1,2022
-Black,Excellent,8,Rwd,Gas,Chevrolet,Silverado,12000,11950,Clean,1,1981
 Grey,Good,8,4Wd,Gas,Chevrolet,Suburban,152000,10000,Clean,1,1997
+White,Like New,4,Fwd,Gas,Hyundai,Elantra,4450,28500,Clean,1,2023
 Black,Like New,6,4Wd,Gas,Toyota,4Runner,10350,48500,Clean,1,2022
 Black,Good,5,Rwd,Diesel,Dodge,Sprinter,161000,29900,Clean,1,2004
 Custom,Salvage,8,4Wd,Diesel,Ford,F350,216000,13500,Salvage,1,2011
@@ -11414,6 +11484,7 @@ Yellow,Excellent,6,Rwd,Gas,Chevrolet,Camaro,80000,14995,Clean,1,2012
 Silver,Excellent,6,Fwd,Gas,Honda,Accord,205000,6250,Clean,1,2010
 Blue,Excellent,4,Fwd,Gas,Honda,Accord,206000,5950,Clean,1,2008
 Blue,Excellent,4,Fwd,Gas,Acura,Tsx,155000,7950,Clean,1,2009
+White,Like New,6,Rwd,Hybrid,Ford,Maverick,10300,40900,Clean,1,2022
 Black,Excellent,6,4Wd,Gas,Chevrolet,Tahoe,200000,5900,Clean,1,2005
 Silver,Good,4,Fwd,Gas,Chevrolet,Hhr,160000,3750,Clean,0,2006
 White,Excellent,6,4Wd,Gas,Nissan,Maxima,68072,3700,Clean,1,2003
@@ -11523,6 +11594,7 @@ Purple,Good,4,Fwd,Gas,Honda,Civic,230000,2750,Clean,1,2001
 Blue,Excellent,8,Fwd,Gas,Bmw,X1,86000,15000,Clean,1,2014
 Brown,Good,8,Rwd,Gas,Gmc,Yukon,166000,7900,Clean,1,2007
 White,Good,8,Fwd,Gas,Toyota,Tundra,221210,11100,Clean,1,2008
+White,Excellent,8,Rwd,Gas,Maserati,Quattroporte,54000,21000,Clean,1,2009
 Silver,Excellent,8,Rwd,Gas,Toyota,Corolla,164884,5700,Clean,1,2006
 White,Good,8,4Wd,Diesel,Dodge,Ram,210000,16500,Clean,1,2007
 Red,Like New,4,Fwd,Gas,Hyundai,Accent,80388,8000,Clean,1,2011
@@ -11730,6 +11802,7 @@ Black,Good,6,Fwd,Gas,Acura,Tl,152645,4200,Clean,1,2003
 White,Excellent,6,Fwd,Gas,Ford,Edge,101000,7800,Clean,1,2010
 Custom,Excellent,5,Fwd,Gas,Volvo,S60,120000,9500,Clean,1,2014
 Black,Excellent,4,Fwd,Gas,Chrysler,Pt,100000,4500,Clean,0,2006
+White,Good,6,Fwd,Gas,Dodge,Magnum,114000,3500,Clean,1,2006
 White,Excellent,4,Rwd,Gas,Toyota,Corolla,49000,21900,Clean,1,2022
 Red,Good,8,Rwd,Gas,Ford,Mustang,106000,6300,Salvage,1,2005
 Black,Like New,6,Rwd,Gas,Bmw,535I,167514,6000,Clean,0,2009
@@ -11906,6 +11979,7 @@ Black,Excellent,6,4Wd,Gas,Toyota,Highlander,182475,5500,Clean,1,2004
 White,Good,8,4Wd,Gas,Toyota,4Runner,259042,8000,Clean,1,1997
 Blue,Excellent,6,Fwd,Gas,Honda,Odyssey,196439,5900,Clean,1,2006
 White,Excellent,6,Rwd,Gas,Bmw,5,147000,11200,Clean,1,2014
+Silver,New,10,Rwd,Hybrid,Toyota,Camry,5700,33000,Clean,1,2023
 Brown,Excellent,6,4Wd,Gas,Nissan,Murano,195000,4500,Clean,1,2004
 Black,Excellent,4,Fwd,Gas,Toyota,Corolla,116000,15300,Clean,1,2017
 Black,Excellent,4,Fwd,Gas,Honda,Accord,76500,25900,Clean,1,2019
@@ -11942,7 +12016,6 @@ Grey,Excellent,6,Rwd,Gas,Lexus,Gs,208000,8450,Clean,1,2010
 Grey,Good,4,Rwd,Gas,Toyota,Sienna,180000,5500,Clean,1,2005
 Black,Excellent,6,Fwd,Gas,Bmw,335I,132000,7800,Clean,1,2007
 White,Like New,6,Rwd,Gas,Infiniti,Q50,26306,21900,Salvage,1,2019
-White,Excellent,4,Rwd,Gas,Volkswagen,Vanagon,27500,24000,Clean,0,1981
 White,Excellent,8,Rwd,Gas,Ford,F250,161300,5500,Clean,1,1994
 White,Good,4,Rwd,Gas,Ford,Mustang,107000,22500,Clean,0,2003
 Grey,Excellent,4,Fwd,Gas,Toyota,Camry,166455,7900,Clean,1,2009
@@ -12177,6 +12250,7 @@ Grey,Excellent,6,Rwd,Gas,Bmw,328I,113900,6999,Clean,1,2009
 Silver,Excellent,4,Rwd,Gas,Honda,Civic,115000,9500,Clean,1,2008
 Blue,Excellent,8,Rwd,Gas,Dodge,Ram,119735,22000,Clean,1,2016
 White,Like New,6,Rwd,Gas,Ford,Focus,37000,6500,Clean,0,2014
+Black,Excellent,6,Fwd,Gas,Bmw,M5,71000,38500,Clean,1,2014
 Blue,Excellent,4,Fwd,Gas,Ford,Focus,49000,20000,Clean,0,2016
 Yellow,Like New,4,4Wd,Gas,Jeep,Wrangler,15700,56000,Clean,1,2020
 Silver,Good,4,Fwd,Gas,Toyota,Corolla,177000,12495,Clean,1,2013
@@ -12405,6 +12479,7 @@ Blue,Excellent,4,4Wd,Gas,Honda,Crv,173000,7800,Clean,1,2008
 Silver,Excellent,4,Fwd,Gas,Volkswagen,Jetta,141000,3700,Clean,1,2003
 Silver,Good,8,Rwd,Gas,Chevrolet,Camaro,127368,12500,Clean,0,2000
 Black,Good,4,Fwd,Gas,Nissan,Sentra,65000,6000,Clean,1,2002
+Blue,Excellent,8,Rwd,Gas,Maserati,Quattroporte,41400,27900,Clean,1,2012
 Silver,Excellent,6,Fwd,Gas,Honda,Pilot,168522,11900,Clean,1,2012
 Black,Fair,8,4Wd,Gas,Ford,Excursion,86000,1500,Clean,1,2001
 White,Excellent,6,Fwd,Gas,Ford,Transit,88600,30000,Clean,1,2019
@@ -12510,6 +12585,7 @@ Silver,Excellent,6,Rwd,Gas,Mercedes,C300,110134,8900,Clean,1,2010
 Silver,Good,8,Rwd,Gas,Mercedes,Sl500,109112,9500,Clean,1,1998
 Blue,Good,4,Fwd,Gas,Chevrolet,Malibu,122102,9800,Clean,1,2016
 White,Excellent,6,Rwd,Gas,Mercedes,E350,160146,8900,Clean,1,2011
+Black,Like New,8,Rwd,Gas,Maserati,Quattroporte,47000,18900,Clean,1,2011
 Grey,Excellent,4,Fwd,Gas,Volkswagen,Jetta,114826,6900,Clean,1,2014
 Silver,Excellent,4,Fwd,Gas,Volkswagen,Passat,120865,7800,Clean,1,2013
 Blue,Excellent,4,Fwd,Gas,Volkswagen,Beetle,164144,7800,Clean,1,2016
@@ -12645,7 +12721,6 @@ Silver,Excellent,4,Fwd,Hybrid,Hyundai,Sonata,160000,7700,Clean,1,2013
 Green,Excellent,8,Rwd,Gas,Nissan,Armada,116000,9500,Clean,1,2010
 White,Good,4,4Wd,Gas,Nissan,Juke,96000,8300,Clean,1,2011
 Red,Excellent,6,4Wd,Gas,Ford,Ranger,88000,7800,Clean,0,1998
-Blue,Good,4,Fwd,Gas,Honda,Civic,60800,7999,Clean,0,1982
 Black,Like New,4,Fwd,Hybrid,Chevrolet,Volt,94995,15000,Clean,1,2015
 Silver,Good,4,Fwd,Gas,Toyota,Yaris,145000,5000,Clean,1,2010
 White,Excellent,8,4Wd,Gas,Ford,F150,128000,13900,Clean,1,2009
@@ -12737,7 +12812,6 @@ Brown,Excellent,8,4Wd,Gas,Ford,F150,35900,28900,Clean,1,2013
 White,Salvage,8,Fwd,Gas,Cadillac,Eldorado,68730,2999,Salvage,1,1999
 Brown,Excellent,6,Fwd,Gas,Toyota,Highlander,137100,7900,Clean,1,2005
 Grey,Good,6,Rwd,Gas,Toyota,Tundra,226250,8500,Clean,1,2003
-White,Good,4,Rwd,Gas,Volkswagen,Vanagon,152415,15000,Clean,1,1983
 Grey,Good,8,Rwd,Gas,Dodge,Ram,186401,11500,Clean,0,2003
 White,Excellent,0,Fwd,Electric,Ford,Focus,65000,10000,Clean,1,2014
 White,Good,8,4Wd,Diesel,Dodge,Ram,240000,17000,Clean,1,2003
@@ -12812,6 +12886,7 @@ Black,Like New,4,Fwd,Gas,Honda,Accord,138000,11500,Salvage,1,2015
 Green,Excellent,6,4Wd,Gas,Acura,Mdx,177211,6200,Clean,1,2003
 Grey,Excellent,4,Fwd,Gas,Toyota,Camry,260000,2000,Clean,1,1997
 Blue,Good,6,Fwd,Gas,Chrysler,Town,153643,3200,Clean,1,2006
+Black,Like New,8,Rwd,Gas,Chevrolet,Camaro,5000,52000,Clean,1,2023
 Blue,Fair,4,Fwd,Gas,Toyota,Prius,325000,1000,Clean,1,2004
 White,Excellent,4,4Wd,Diesel,Dodge,Ram,156273,23000,Clean,0,1997
 Green,Excellent,8,4Wd,Gas,Gmc,Yukon,228000,4500,Clean,1,1999
@@ -12943,7 +13018,6 @@ Grey,Salvage,4,Fwd,Gas,Toyota,Prius,285842,4800,Salvage,1,2012
 Blue,Excellent,6,Rwd,Gas,Infiniti,G37,51500,19950,Clean,1,2012
 Blue,Excellent,6,Fwd,Gas,Lexus,Rx,89000,19999,Clean,1,2011
 White,Excellent,8,Rwd,Gas,Ford,F150,140000,28000,Clean,1,2016
-White,Good,4,Rwd,Gas,Toyota,Tacoma,200000,5500,Clean,0,1983
 Silver,Good,6,Fwd,Gas,Hyundai,Santa,153000,10000,Clean,0,2013
 Grey,Good,4,Fwd,Gas,Hyundai,Accent,133000,1700,Clean,0,2013
 White,Like New,4,Fwd,Gas,Lexus,Es,129081,9850,Clean,1,2008
@@ -12982,7 +13056,6 @@ Silver,New,4,Fwd,Gas,Chevrolet,Cruze,98600,6999,Clean,1,2013
 White,Excellent,6,4Wd,Gas,Jeep,Wrangler,71000,38000,Clean,1,2017
 White,Excellent,4,Fwd,Hybrid,Toyota,Prius,175000,8500,Clean,1,2007
 Blue,Excellent,6,Rwd,Gas,Mercedes,E350,120000,12500,Clean,1,2013
-Red,Good,8,Fwd,Gas,Cadillac,Eldorado,84688,9000,Clean,1,1983
 Green,Good,6,Rwd,Gas,Bmw,528I,170000,2999,Clean,1,1997
 Blue,Excellent,8,Rwd,Gas,Toyota,Tundra,188140,18000,Clean,1,2008
 Green,Fair,4,Rwd,Gas,Ford,Ranger,162199,3700,Clean,0,1997
@@ -13014,7 +13087,6 @@ Black,Excellent,4,Fwd,Gas,Mazda,Miata,140540,10200,Clean,0,1997
 Green,Excellent,4,Fwd,Gas,Toyota,Camry,108000,11800,Clean,1,2011
 White,Like New,6,Rwd,Gas,Toyota,Tacoma,26152,41000,Clean,1,2021
 White,Excellent,6,4Wd,Gas,Lexus,Rx,105325,14500,Clean,1,2011
-Yellow,Good,4,Rwd,Gas,Volkswagen,Vanagon,126000,16500,Clean,0,1983
 White,Like New,4,Fwd,Gas,Ford,Transit,32461,27700,Clean,1,2017
 Black,Good,6,Rwd,Gas,Toyota,Tacoma,168600,12500,Clean,1,2009
 Red,Like New,6,4Wd,Gas,Jeep,Wrangler,46000,45999,Clean,1,2019
@@ -13051,6 +13123,7 @@ White,Like New,6,Fwd,Gas,Acura,Tl,48000,10000,Salvage,1,2010
 Black,Good,6,Rwd,Gas,Dodge,Challenger,81257,21400,Clean,1,2016
 Green,Fair,4,Fwd,Gas,Mini Cooper,S,93000,4500,Clean,1,2010
 White,Excellent,6,Rwd,Gas,Toyota,Tacoma,87000,15800,Clean,1,2002
+Black,New,6,4Wd,Gas,Honda,Ridgeline,2500,44000,Clean,1,2023
 White,Excellent,6,Rwd,Gas,Ford,F150,215000,13500,Clean,1,2012
 Silver,Excellent,4,Fwd,Gas,Volkswagen,Passat,149000,4350,Rebuilt,1,2008
 Yellow,Good,8,Rwd,Diesel,Dodge,Ram,320614,50000,Clean,1,2016
@@ -13150,6 +13223,7 @@ Grey,Excellent,4,Fwd,Gas,Honda,Accord,162000,6500,Clean,1,2006
 Black,Good,4,Fwd,Gas,Scion,Tc,102000,7500,Clean,0,2009
 White,Like New,4,Fwd,Gas,Ram,Promaster,51000,45000,Clean,1,2018
 Grey,Excellent,6,Fwd,Gas,Lexus,Es,118500,9500,Clean,1,2007
+White,Like New,4,Fwd,Hybrid,Ford,Maverick,2048,32000,Clean,1,2022
 Black,Like New,0,4Wd,Electric,Tesla,Model 3,44000,38000,Clean,1,2021
 White,Good,6,Fwd,Gas,Nissan,Murano,109000,4400,Clean,1,2007
 Silver,Good,4,Fwd,Gas,Chevrolet,Cruze,164500,4700,Clean,1,2012
@@ -13208,6 +13282,7 @@ Silver,Excellent,5,Fwd,Gas,Volkswagen,Beetle,176000,3495,Clean,0,2006
 White,Good,6,Fwd,Gas,Toyota,Sienna,270000,2795,Clean,1,1999
 Black,Excellent,6,Fwd,Gas,Dodge,Journey,146000,7500,Clean,1,2013
 White,Excellent,6,4Wd,Gas,Toyota,Fj,86000,31999,Clean,1,2010
+Grey,Like New,4,4Wd,Gas,Ford,Bronco,200,51700,Clean,0,2023
 Custom,Excellent,4,4Wd,Gas,Subaru,Forester,28100,25500,Clean,1,2016
 Silver,Like New,6,4Wd,Gas,Toyota,Highlander,154000,6500,Clean,1,2002
 Black,Good,4,Fwd,Gas,Volkswagen,Beetle,118000,2995,Clean,1,1999
@@ -13338,6 +13413,7 @@ Grey,Excellent,4,Fwd,Hybrid,Toyota,Prius,196000,8700,Clean,1,2013
 Grey,Good,6,4Wd,Gas,Honda,Pilot,132000,17500,Clean,1,2016
 White,Fair,4,Fwd,Gas,Volkswagen,Gti,120000,2000,Clean,0,2008
 White,Excellent,8,Rwd,Gas,Chevrolet,Suburban,132000,11000,Clean,1,2012
+Black,Good,10,Rwd,Gas,Bmw,M5,115681,18900,Clean,1,2006
 Blue,Excellent,4,Fwd,Gas,Chrysler,Town,169000,3000,Clean,1,2005
 Blue,Good,6,4Wd,Gas,Honda,Pilot,151729,7000,Clean,1,2007
 Yellow,Good,6,Rwd,Gas,Mercedes,E320,163212,2750,Clean,1,1998
@@ -13394,6 +13470,7 @@ Black,Excellent,4,Fwd,Gas,Honda,Crv,131380,12000,Clean,1,2013
 Red,Excellent,6,Fwd,Gas,Ford,Taurus,106500,5500,Clean,1,2008
 Blue,Like New,4,Fwd,Gas,Honda,Accord,144300,5000,Lien,1,2004
 White,Excellent,8,4Wd,Gas,Mercedes,S550,42000,53800,Clean,1,2015
+White,Like New,6,4Wd,Gas,Toyota,Tacoma,5000,45000,Clean,0,2023
 Silver,Excellent,4,Fwd,Gas,Honda,Odyssey,37000,35000,Clean,1,2019
 Green,Good,8,Rwd,Gas,Dodge,Ram,154000,8500,Clean,1,1999
 White,Excellent,6,Fwd,Hybrid,Honda,Accord,200000,5250,Clean,1,2007
@@ -13842,6 +13919,7 @@ White,Excellent,4,Fwd,Gas,Ford,Fusion,72100,9500,Clean,1,2012
 Black,Fair,4,4Wd,Gas,Jeep,Patriot,118716,5500,Clean,0,2014
 White,Good,6,Fwd,Gas,Volkswagen,Eurovan,177158,9500,Clean,0,1999
 Red,Good,6,Rwd,Gas,Chevrolet,Camaro,198387,5000,Clean,1,1992
+Grey,New,4,Fwd,Gas,Toyota,Prius,500,41000,Clean,1,2023
 Black,Excellent,8,4Wd,Diesel,Ford,F350,100000,33900,Clean,0,2015
 Blue,Good,6,Fwd,Gas,Honda,Odyssey,179332,5500,Clean,1,2009
 Grey,Excellent,4,Fwd,Gas,Ford,Focus,57000,8000,Salvage,1,2014
@@ -13867,7 +13945,6 @@ Brown,Excellent,8,Rwd,Gas,Chevrolet,Corvette,52500,24000,Clean,1,1998
 White,Excellent,6,4Wd,Gas,Chevrolet,Trailblazer,167888,4500,Clean,1,2005
 Grey,Like New,4,4Wd,Gas,Bmw,328I,101325,14800,Clean,1,2014
 Red,Excellent,4,Fwd,Hybrid,Chevrolet,Volt,90000,7900,Salvage,1,2012
-White,Good,8,Rwd,Other,Ford,Mustang,25000,25900,Clean,1,1983
 Red,Excellent,8,Rwd,Gas,Chevrolet,Corvette,43000,20000,Clean,1,2001
 White,Good,4,Fwd,Gas,Ram,Promaster,56000,29000,Clean,1,2018
 White,Fair,6,Rwd,Gas,Ford,F150,183000,1150,Clean,0,1993
@@ -14139,6 +14216,7 @@ White,Excellent,8,Rwd,Diesel,Ford,F250,52701,16500,Clean,0,1985
 White,Like New,8,Rwd,Gas,Toyota,Tundra,1650,48000,Clean,1,2021
 White,Excellent,0,Rwd,Electric,Tesla,Model 3,40850,35500,Clean,1,2019
 White,Excellent,8,4Wd,Gas,Dodge,Ram,108100,7600,Clean,0,1996
+Black,Like New,10,Rwd,Gas,Bmw,M5,91241,24000,Clean,0,2008
 White,Like New,4,Fwd,Gas,Toyota,Rav4,47736,24200,Clean,1,2017
 Silver,Good,4,Fwd,Gas,Chevrolet,Cruze,164500,4700,Clean,1,2012
 White,Excellent,8,4Wd,Gas,Chevrolet,Silverado,202199,12900,Clean,1,2010
@@ -14197,6 +14275,7 @@ Red,Excellent,5,Fwd,Gas,Volvo,S60,38017,25500,Clean,1,2018
 Blue,Like New,6,Rwd,Gas,Bmw,M4,57000,44750,Clean,1,2015
 Grey,Excellent,4,Fwd,Gas,Honda,Accord,107000,5500,Salvage,1,2008
 Red,Good,8,Rwd,Gas,Chevrolet,Corvette,88000,10000,Clean,1,1997
+White,Like New,4,4Wd,Gas,Ford,Bronco,310,51000,Clean,1,2023
 Black,Good,6,Rwd,Gas,Nissan,350Z,107018,11000,Clean,0,2003
 White,Excellent,6,Fwd,Gas,Ford,Transit,65600,45000,Clean,1,2020
 White,Excellent,6,Fwd,Gas,Honda,Pilot,38200,22900,Salvage,1,2019
@@ -14296,6 +14375,7 @@ Grey,Good,8,Rwd,Gas,Mercedes,S550,151100,8700,Clean,1,2007
 Black,Excellent,4,Fwd,Gas,Toyota,Camry,131219,11450,Clean,1,2014
 Grey,Good,4,Fwd,Gas,Mazda,Cx,199800,7700,Clean,1,2014
 Blue,Excellent,6,4Wd,Gas,Toyota,4Runner,21000,55000,Clean,1,2019
+Blue,Excellent,8,Rwd,Gas,Bmw,M5,160552,8000,Clean,1,2010
 Blue,Excellent,6,4Wd,Gas,Toyota,4Runner,61000,49999,Clean,1,2019
 Black,Excellent,6,Rwd,Gas,Mercedes,E320,137000,3900,Clean,1,1998
 Silver,Good,4,Fwd,Gas,Honda,Crv,93300,21750,Clean,1,2019
@@ -14495,7 +14575,6 @@ White,Excellent,8,Rwd,Gas,Isuzu,Npr,176000,8500,Clean,1,1999
 Black,Good,6,4Wd,Gas,Ford,F150,73000,8800,Clean,0,1988
 Black,Excellent,6,4Wd,Gas,Mercedes,Ml350,16300,6300,Salvage,1,2007
 White,Excellent,8,4Wd,Gas,Chevrolet,Silverado,220000,11250,Clean,1,2007
-Red,Excellent,8,Rwd,Gas,Chevrolet,Corvette,150010,14500,Clean,1,1981
 White,Like New,4,Fwd,Gas,Ford,Fiesta,30000,11500,Clean,1,2016
 Brown,Good,8,Rwd,Gas,Chevrolet,Express,288000,3850,Clean,1,2006
 White,Good,10,Rwd,Gas,Ford,E450,86500,17000,Clean,1,2000
@@ -14511,7 +14590,6 @@ Silver,Excellent,6,4Wd,Gas,Kia,Sorento,125300,13500,Clean,1,2015
 Grey,Good,4,Fwd,Gas,Dodge,Charger,45000,35000,Clean,1,2018
 Red,Good,4,4Wd,Gas,Toyota,Corolla,104882,2500,Clean,1,1996
 Green,Good,8,Rwd,Gas,Ford,Mustang,105500,12000,Clean,0,1997
-Black,Good,8,Rwd,Gas,Chevrolet,Silverado,73000,13000,Clean,1,1981
 White,Good,4,Fwd,Gas,Honda,Civic,186000,8000,Clean,0,1994
 White,Excellent,8,4Wd,Gas,Dodge,Ram,239005,10700,Clean,1,2006
 Black,Like New,8,4Wd,Gas,Ford,F150,13960,32000,Salvage,1,2020
@@ -14583,6 +14661,7 @@ Silver,Good,6,Rwd,Gas,Buick,Lacrosse,182000,3800,Clean,1,2005
 Green,Good,4,Rwd,Gas,Toyota,4Runner,223000,5000,Clean,1,1999
 Blue,Good,6,Rwd,Gas,Bmw,X5,131000,8988,Clean,1,2000
 White,Excellent,0,Rwd,Electric,Bmw,I3,48000,17000,Clean,1,2016
+Grey,New,4,4Wd,Gas,Ford,Maverick,20,37500,Clean,1,2023
 White,Like New,4,4Wd,Gas,Subaru,Impreza,20180,22000,Clean,1,2020
 Grey,Excellent,6,4Wd,Gas,Toyota,Tacoma,82000,37000,Clean,1,2016
 Silver,Good,4,Fwd,Gas,Honda,Odyssey,190200,3800,Clean,1,2001
@@ -14699,6 +14778,7 @@ Orange,Excellent,4,Fwd,Gas,Honda,Element,151200,6800,Salvage,0,2004
 Black,Excellent,6,Fwd,Gas,Toyota,Highlander,225000,3750,Clean,1,2002
 Black,Good,6,Rwd,Gas,Toyota,Tundra,188000,12500,Clean,1,2013
 Silver,Excellent,6,4Wd,Gas,Toyota,4Runner,135000,16800,Clean,1,2005
+Blue,Good,6,Rwd,Gas,Toyota,Tacoma,151000,18000,Clean,1,2023
 Grey,Excellent,4,Fwd,Gas,Mazda,3,172400,6200,Clean,0,2010
 Black,Excellent,6,Rwd,Diesel,Bmw,5,47000,19515,Clean,1,2014
 Green,Good,6,Rwd,Gas,Dodge,Dakota,83000,6995,Clean,1,1999
@@ -14713,7 +14793,6 @@ Black,Good,6,Rwd,Gas,Ford,F150,220000,4500,Clean,0,2000
 Black,Good,8,4Wd,Gas,Gmc,Yukon,230000,6500,Clean,1,2003
 Silver,Good,8,4Wd,Gas,Subaru,Impreza,123000,7995,Clean,1,2005
 Green,Excellent,4,Fwd,Gas,Honda,Accord,120000,7500,Salvage,1,2011
-Red,Excellent,8,Rwd,Gas,Buick,Regal,181252,12500,Clean,1,1983
 White,Good,6,Fwd,Gas,Honda,Accord,223000,5200,Clean,1,2005
 White,Like New,8,4Wd,Gas,Mercedes,Gl450,180000,10000,Clean,1,2010
 Black,Excellent,4,Fwd,Gas,Toyota,Scion,97000,8900,Clean,1,2014
@@ -14743,6 +14822,7 @@ Red,Good,6,Rwd,Gas,Bmw,M3,103392,10000,Clean,1,1995
 Silver,Good,4,Fwd,Gas,Nissan,Altima,155000,5500,Clean,0,2011
 Green,Excellent,4,Rwd,Gas,Toyota,Mr2,99800,16500,Clean,0,2002
 White,Good,8,Rwd,Gas,Ford,F250,117217,10900,Clean,1,2008
+Grey,Excellent,8,Rwd,Gas,Dodge,Magnum,113000,10000,Clean,1,2005
 Black,Excellent,4,Fwd,Gas,Toyota,Corolla,164064,9000,Salvage,1,2014
 White,Fair,8,4Wd,Diesel,Ford,F350,130000,10700,Clean,1,1997
 Grey,Like New,6,Fwd,Gas,Toyota,Sienna,22000,41500,Clean,1,2019
@@ -14986,6 +15066,7 @@ Black,Like New,6,Fwd,Gas,Lexus,Es,25600,38995,Clean,1,2021
 Silver,Fair,6,Fwd,Gas,Nissan,Murano,180000,2700,Clean,1,2006
 Silver,Good,6,Fwd,Gas,Pontiac,G6,86958,2500,Clean,1,2008
 Grey,Excellent,4,4Wd,Gas,Hyundai,Santa,71117,17750,Clean,1,2015
+Silver,Excellent,8,Rwd,Gas,Bmw,M5,136882,26000,Clean,0,2000
 White,Good,6,4Wd,Gas,Nissan,Frontier,186839,6250,Clean,1,2003
 Black,Excellent,4,Fwd,Gas,Toyota,Camry,216000,9000,Clean,0,2016
 Red,Excellent,4,Fwd,Gas,Toyota,Prius,157000,9500,Clean,1,2010
@@ -15019,6 +15100,7 @@ Black,Like New,6,4Wd,Gas,Jeep,Wrangler,99600,15250,Clean,0,2012
 Black,Good,4,4Wd,Hybrid,Lexus,Rx,138000,9500,Clean,1,2008
 Black,Excellent,6,4Wd,Gas,Honda,Ridgeline,307000,9000,Clean,1,2006
 Grey,Good,4,Fwd,Gas,Volkswagen,Jetta,61000,16000,Clean,0,2017
+Black,Good,8,Rwd,Gas,Bmw,M5,51000,55000,Clean,0,2013
 Blue,Excellent,4,Rwd,Gas,Honda,S2000,80000,14000,Salvage,0,2002
 Grey,Excellent,6,4Wd,Gas,Jeep,Wrangler,53500,39500,Clean,1,2016
 Brown,Good,4,Fwd,Hybrid,Toyota,Prius,189480,4250,Clean,1,2006
@@ -15218,6 +15300,7 @@ Custom,Like New,6,Rwd,Gas,Mercedes,C300,237000,4200,Salvage,1,2008
 Black,Excellent,4,4Wd,Gas,Subaru,Wrx,59850,24000,Clean,0,2013
 White,Good,8,4Wd,Gas,Land Rover,Discovery,151000,7200,Clean,1,2000
 Silver,Like New,6,Rwd,Gas,Ford,Mustang,87000,7500,Clean,1,1998
+White,Like New,4,Rwd,Gas,Lexus,Es,7500,47000,Clean,1,2023
 White,Good,8,Rwd,Gas,Ford,Mustang,103421,10000,Clean,0,1996
 White,Excellent,10,Rwd,Diesel,Ford,E350,165000,11500,Clean,1,2012
 Black,Excellent,6,4Wd,Gas,Toyota,Fj,123500,32000,Clean,1,2012
@@ -15243,12 +15326,12 @@ Blue,Excellent,8,Rwd,Gas,Chevrolet,Silverado,150000,14400,Clean,1,2013
 Blue,Good,4,4Wd,Gas,Honda,Crv,242208,4450,Clean,1,2004
 Grey,Good,8,Rwd,Gas,Mercedes,S550,122000,7500,Clean,1,2007
 Black,Good,4,Rwd,Gas,Toyota,Tacoma,237106,6750,Clean,0,2005
+Silver,Like New,6,4Wd,Gas,Toyota,Tacoma,12000,38000,Clean,1,2023
 Red,Excellent,6,4Wd,Gas,Honda,Pilot,249233,4200,Clean,1,2003
 Black,Good,8,4Wd,Gas,Chevrolet,Tahoe,165000,5800,Clean,1,1997
 White,Excellent,6,4Wd,Gas,Bmw,X5,150,9500,Clean,1,2011
 Silver,Excellent,6,4Wd,Gas,Jeep,Grand,130000,6800,Clean,1,2005
 Grey,Excellent,4,Fwd,Gas,Honda,Accord,39600,28000,Clean,1,2019
-Red,Excellent,8,Rwd,Gas,Buick,Regal,181252,13500,Clean,1,1983
 Black,Good,4,Fwd,Gas,Honda,Civic,234000,5000,Clean,1,2007
 White,Good,8,4Wd,Gas,Gmc,Yukon,185000,4999,Clean,1,2005
 White,Excellent,4,Fwd,Gas,Honda,Accord,115455,15000,Clean,1,2015
@@ -15298,6 +15381,7 @@ White,Excellent,6,Fwd,Gas,Chrysler,Town,149702,9998,Lien,1,2013
 White,Good,4,Fwd,Hybrid,Honda,Crv,50000,5900,Salvage,1,2015
 Blue,Good,4,Fwd,Gas,Honda,Civic,300000,2900,Clean,0,2005
 Grey,Fair,4,Fwd,Gas,Toyota,Camry,176000,3700,Clean,1,2005
+Grey,Like New,6,4Wd,Gas,Toyota,Tacoma,500,43500,Lien,1,2023
 Red,Excellent,8,4Wd,Gas,Ford,F150,200000,9999,Clean,1,2011
 White,Good,8,Rwd,Gas,Toyota,Tundra,58000,29000,Clean,1,2016
 White,Good,4,Fwd,Gas,Honda,Accord,68000,13300,Salvage,1,2017
@@ -15443,6 +15527,7 @@ Grey,Good,8,Rwd,Gas,Ford,F150,123000,13500,Clean,1,2010
 White,Excellent,4,Fwd,Gas,Honda,Accord,315000,19400,Salvage,1,2018
 White,Salvage,6,Fwd,Gas,Chevrolet,Impala,176184,1200,Clean,1,2008
 Brown,Excellent,6,4Wd,Diesel,Ford,F250,193887,22500,Clean,1,2003
+Black,Like New,10,Rwd,Gas,Bmw,M5,91241,23800,Clean,0,2008
 Silver,Good,4,Fwd,Gas,Toyota,Prius,216000,3200,Clean,1,2006
 Black,Like New,4,Fwd,Gas,Honda,Accord,138000,12000,Salvage,1,2015
 Grey,Excellent,4,4Wd,Gas,Honda,Element,118000,16500,Clean,1,2011
@@ -15586,6 +15671,7 @@ White,Good,8,Rwd,Gas,Gmc,Sierra,186000,10000,Clean,1,2004
 Silver,Good,6,4Wd,Gas,Acura,Tl,250000,5700,Clean,1,2009
 Silver,Like New,4,Fwd,Gas,Mini Cooper,S,89000,6200,Clean,0,2007
 Silver,Excellent,6,4Wd,Gas,Honda,Pilot,150000,5800,Clean,1,2004
+Black,Fair,6,Rwd,Gas,Dodge,Magnum,250000,1996,Clean,1,2005
 Grey,Good,6,Fwd,Gas,Honda,Odyssey,172700,5000,Clean,1,2005
 White,Excellent,6,4Wd,Gas,Toyota,Tacoma,207670,12000,Clean,0,1999
 Black,Excellent,4,Fwd,Hybrid,Toyota,Prius,197000,8700,Clean,1,2010
@@ -15686,7 +15772,6 @@ Silver,Good,6,Fwd,Gas,Lexus,Es,201000,4300,Clean,1,2002
 Blue,Excellent,8,4Wd,Gas,Dodge,Durango,82000,3200,Clean,1,2006
 Grey,Excellent,4,Fwd,Gas,Honda,Accord,150000,5200,Clean,1,2009
 Black,Excellent,8,4Wd,Gas,Dodge,Charger,136000,12000,Clean,1,2015
-White,Good,6,Rwd,Gas,Gmc,Sierra,61362,2500,Clean,0,1983
 Black,Excellent,6,4Wd,Gas,Audi,Q5,80000,7000,Rebuilt,1,2011
 Black,Good,6,4Wd,Gas,Bmw,3,132000,5900,Clean,1,2007
 Black,Excellent,4,Fwd,Gas,Hyundai,Sonata,126700,8800,Clean,1,2012
@@ -15752,6 +15837,7 @@ Black,Excellent,8,Rwd,Gas,Chevrolet,Impala,50842,18500,Clean,1,1996
 White,Excellent,6,Fwd,Gas,Chevrolet,Impala,100800,4300,Clean,1,2009
 Silver,Excellent,4,4Wd,Gas,Subaru,Forester,82000,6990,Clean,1,2005
 Black,Excellent,6,4Wd,Gas,Bmw,X5,55000,54000,Clean,1,2019
+Black,New,4,4Wd,Gas,Porsche,Macan,5000,1200,Clean,1,2023
 White,Good,4,Fwd,Gas,Kia,Soul,60000,16500,Clean,1,2020
 Grey,Excellent,4,Fwd,Gas,Chevrolet,Malibu,60000,14500,Clean,1,2018
 Black,Excellent,6,4Wd,Gas,Nissan,Pathfinder,52000,22500,Clean,1,2020
@@ -15764,6 +15850,7 @@ White,Good,4,Rwd,Gas,Mercedes,C230,105000,4000,Salvage,1,2005
 Grey,Excellent,4,Fwd,Gas,Nissan,Altima,137600,2800,Clean,1,2012
 Silver,Good,6,Fwd,Gas,Ford,Taurus,100000,3450,Clean,1,2013
 White,Like New,10,Rwd,Gas,Ford,E450,141500,18500,Clean,1,2014
+Grey,Excellent,6,Rwd,Gas,Dodge,Magnum,129730,3980,Clean,1,2006
 Grey,Excellent,4,Fwd,Gas,Honda,Civic,135660,3880,Clean,1,2006
 Green,Excellent,4,Fwd,Gas,Toyota,Prius,114528,5980,Clean,1,2006
 Black,Excellent,6,Fwd,Gas,Toyota,Avalon,165758,3680,Clean,1,2004
@@ -15843,6 +15930,7 @@ White,Excellent,6,Rwd,Gas,Toyota,Tundra,145757,9500,Clean,1,2007
 White,Excellent,4,Fwd,Gas,Dodge,Dart,90035,5995,Rebuilt,1,2015
 Grey,Excellent,4,Fwd,Gas,Nissan,Sentra,80000,3500,Clean,1,2004
 Blue,Excellent,6,Rwd,Gas,Lexus,Is,136500,8500,Clean,1,2006
+White,New,6,Fwd,Gas,Ram,Promaster,1010,55500,Clean,1,2023
 White,Fair,6,4Wd,Gas,Audi,A7,120000,9000,Clean,1,2015
 White,Excellent,6,Rwd,Diesel,Chevrolet,Express,149236,25000,Clean,1,2014
 Red,Excellent,4,4Wd,Gas,Subaru,Forester,102300,7777,Clean,1,2010
@@ -16091,6 +16179,7 @@ White,Good,8,4Wd,Gas,Ford,F350,55000,20500,Clean,1,2008
 Black,Good,8,4Wd,Gas,Chevrolet,Silverado,218500,2999,Clean,1,2009
 White,Like New,4,4Wd,Gas,Chevrolet,Equinox,163000,6999,Clean,1,2012
 Brown,Excellent,4,Fwd,Gas,Buick,Encore,61828,14900,Salvage,1,2018
+White,Excellent,4,4Wd,Gas,Chevrolet,Trax,69700,8500,Rebuilt,1,2018
 White,Excellent,6,4Wd,Gas,Dodge,Durango,148300,13000,Clean,1,2015
 Blue,Excellent,4,4Wd,Gas,Hyundai,Santa,142000,4500,Clean,1,2010
 Blue,Excellent,4,Fwd,Gas,Toyota,Prius,104000,9800,Clean,1,2015
@@ -16559,6 +16648,7 @@ White,Like New,6,Rwd,Gas,Infiniti,Q50,67000,16000,Clean,1,2017
 Green,Excellent,8,Rwd,Gas,Lincoln,Town,144100,6500,Clean,1,2006
 Blue,Excellent,4,Fwd,Gas,Honda,Fit,111000,5600,Clean,0,2005
 Black,Excellent,4,Fwd,Gas,Mazda,6,235000,4500,Clean,1,2009
+Green,Excellent,8,4Wd,Diesel,Ford,F350,98000,18500,Clean,1,2023
 Red,Excellent,4,Fwd,Gas,Honda,Accord,103111,8500,Rebuilt,1,2013
 Black,Good,4,4Wd,Gas,Audi,A4,72060,4500,Rebuilt,0,2016
 Blue,Like New,4,4Wd,Gas,Bmw,X3,86650,12995,Clean,1,2013
@@ -16639,6 +16729,7 @@ Blue,Good,4,Fwd,Gas,Ford,Escape,153000,4200,Clean,1,2010
 White,Good,6,4Wd,Gas,Honda,Pilot,158725,7900,Clean,1,2011
 Grey,Excellent,0,4Wd,Electric,Tesla,Model 3,15370,45015,Clean,1,2022
 Black,Excellent,6,4Wd,Gas,Jeep,Liberty,59000,14500,Clean,1,2012
+Red,Like New,6,4Wd,Gas,Chevrolet,Trax,35169,18750,Clean,1,2020
 Grey,Excellent,4,4Wd,Gas,Mercedes,C300,71000,18500,Clean,1,2016
 Black,Like New,4,Fwd,Gas,Chevrolet,Impala,103500,11200,Clean,1,2017
 Grey,Excellent,6,Fwd,Gas,Toyota,Sienna,192000,7200,Clean,1,2011
@@ -16716,7 +16807,6 @@ White,Good,8,4Wd,Gas,Bmw,650I,93300,26500,Clean,1,2015
 Black,Good,4,4Wd,Gas,Volvo,Xc60,26000,30000,Lien,1,2018
 White,Good,6,Rwd,Gas,Ford,Ranger,120000,5000,Clean,0,2002
 Black,Good,4,Rwd,Gas,Cadillac,Cts,67000,8900,Salvage,1,2014
-Silver,Good,4,Fwd,Gas,Volkswagen,Jetta,1,1999,Missing,0,1981
 Black,Excellent,4,Fwd,Gas,Honda,Accord,39000,16500,Clean,1,2015
 Grey,Good,4,4Wd,Gas,Toyota,Camry,139430,9895,Clean,1,2015
 Blue,Good,6,Fwd,Gas,Chrysler,Town,170000,2900,Clean,1,2006
@@ -16807,6 +16897,7 @@ Silver,Excellent,4,Rwd,Gas,Kia,Sorento,122200,10950,Clean,1,2015
 Black,Excellent,8,4Wd,Gas,Cadillac,Escalade,190000,12000,Clean,1,2012
 Black,Excellent,8,4Wd,Gas,Chevrolet,Suburban,200000,5500,Clean,1,2012
 Blue,Good,6,Fwd,Gas,Chrysler,Town,135000,3300,Clean,1,2008
+Red,Like New,4,4Wd,Gas,Chevrolet,Trax,100300,9500,Clean,1,2016
 Grey,Excellent,4,Fwd,Gas,Toyota,Rav4,26010,26500,Clean,1,2018
 Grey,Excellent,8,4Wd,Gas,Bmw,X5,123000,9900,Clean,1,2011
 White,Like New,6,4Wd,Gas,Hyundai,Santa,2400,35000,Rebuilt,1,2022
@@ -16911,6 +17002,7 @@ Grey,Good,6,4Wd,Gas,Nissan,Pathfinder,217575,3900,Clean,1,2006
 Silver,Excellent,8,4Wd,Gas,Volkswagen,Touareg,133000,6000,Clean,1,2008
 Black,Good,6,Fwd,Gas,Honda,Accord,99000,5900,Clean,1,2007
 Grey,Good,4,Fwd,Gas,Honda,Accord,170000,6000,Clean,1,2006
+Red,Good,8,Rwd,Gas,Jaguar,Xk8,0,6500,Clean,1,2000
 Grey,Good,6,4Wd,Gas,Honda,Pilot,181000,4450,Clean,1,2004
 Black,Excellent,6,Rwd,Gas,Mercedes,C300,106013,8500,Clean,1,2008
 Black,Like New,6,4Wd,Gas,Audi,Q5,160000,9500,Clean,1,2013
@@ -16995,6 +17087,7 @@ White,Like New,4,Fwd,Gas,Ford,Escape,77000,14900,Clean,1,2017
 Silver,Like New,6,4Wd,Gas,Honda,Pilot,194102,6800,Clean,1,2010
 Black,Fair,6,Rwd,Gas,Chevrolet,Camaro,75821,9200,Clean,1,2013
 Silver,Excellent,6,Rwd,Gas,Ford,Transit,168000,22900,Clean,1,2016
+Blue,Excellent,8,Rwd,Gas,Maserati,Quattroporte,23000,25900,Clean,1,2012
 Silver,Excellent,4,4Wd,Gas,Chevrolet,Equinox,84000,12300,Clean,1,2016
 Black,Like New,8,Rwd,Gas,Ford,Crown,141410,3500,Clean,1,2005
 Grey,Excellent,4,Fwd,Gas,Nissan,Sentra,41700,7900,Clean,1,2013
@@ -17431,7 +17524,6 @@ Red,Like New,8,Rwd,Gas,Dodge,Durango,135000,3000,Clean,1,2005
 Black,Fair,6,Fwd,Gas,Mercedes,C300,154000,4700,Clean,1,2008
 Silver,Excellent,8,Rwd,Gas,Mercedes,Sl500,111000,8900,Clean,1,1999
 Grey,Good,6,Fwd,Gas,Volkswagen,Passat,86000,3950,Clean,1,2004
-Black,Fair,8,Rwd,Gas,Chevrolet,Camaro,118000,3500,Clean,1,1982
 Grey,Excellent,4,Fwd,Gas,Toyota,Camry,118000,5500,Clean,1,2007
 Blue,Like New,4,Fwd,Gas,Ford,Transit,102775,17399,Clean,1,2018
 White,Excellent,8,Rwd,Gas,Ford,E350,227720,4900,Clean,1,2007
@@ -17475,6 +17567,7 @@ Grey,Like New,4,4Wd,Gas,Subaru,Impreza,49000,23000,Clean,0,2012
 Grey,Good,4,Fwd,Gas,Toyota,Sienna,130000,9000,Clean,1,2007
 White,Excellent,8,4Wd,Gas,Land Rover,Range Rover,112000,13500,Clean,1,2012
 Silver,Like New,8,Rwd,Gas,Mercedes,S550,69000,31000,Clean,1,2015
+Red,New,8,Rwd,Gas,Maserati,Quattroporte,88750,12800,Clean,1,2011
 Black,Good,6,4Wd,Gas,Audi,A5,154000,8500,Clean,1,2009
 Silver,Excellent,4,Fwd,Gas,Dodge,Avenger,154000,5700,Clean,1,2013
 White,Excellent,4,Fwd,Gas,Nissan,Altima,65000,13000,Clean,1,2017
@@ -17853,6 +17946,7 @@ Black,Excellent,4,Fwd,Gas,Nissan,Rogue,106000,5200,Rebuilt,1,2013
 White,Like New,4,Fwd,Gas,Nissan,Rogue,56400,10900,Rebuilt,1,2018
 Black,Like New,6,Fwd,Gas,Lincoln,Mkz,145000,8500,Clean,1,2012
 Silver,Like New,6,Fwd,Gas,Chevrolet,Impala,99000,6500,Clean,1,2008
+Custom,Good,8,Rwd,Gas,Jaguar,Xk8,130000,7000,Missing,1,1997
 White,Excellent,8,4Wd,Gas,Ford,F150,185000,14900,Clean,1,2015
 White,Excellent,4,Rwd,Gas,Bmw,X1,106000,9900,Clean,1,2014
 Black,Like New,4,Fwd,Gas,Kia,Forte,109000,8900,Clean,1,2015
@@ -17944,6 +18038,7 @@ Grey,Excellent,4,Fwd,Gas,Toyota,Camry,93272,3850,Clean,1,2004
 White,Excellent,4,Rwd,Gas,Mercedes,C250,118000,10000,Clean,1,2013
 Grey,Like New,3,Fwd,Gas,Nissan,Rogue,11500,21900,Rebuilt,1,2022
 Silver,Excellent,6,Fwd,Gas,Chrysler,Town,154150,6950,Clean,1,2013
+Green,Good,8,Rwd,Gas,Jaguar,Xk8,84000,5995,Clean,1,1997
 White,Excellent,8,Rwd,Diesel,Ford,F450,1,30000,Salvage,1,2007
 Black,Like New,8,4Wd,Gas,Hummer,H2,97000,25000,Clean,1,2006
 Silver,Like New,4,Fwd,Gas,Nissan,Versa,71647,7400,Rebuilt,1,2015
@@ -18292,6 +18387,7 @@ Silver,Excellent,4,Fwd,Gas,Chevrolet,Malibu,164000,2750,Clean,1,2010
 Black,Good,6,4Wd,Gas,Bmw,325I,167325,2490,Clean,1,2003
 White,Excellent,6,Fwd,Gas,Toyota,Sienna,117351,15995,Clean,1,2011
 Silver,Excellent,4,Rwd,Gas,Nissan,Rogue,65000,10500,Rebuilt,1,2016
+Silver,Like New,4,Rwd,Gas,Chevrolet,Trax,18000,12800,Rebuilt,1,2020
 Black,Excellent,8,Rwd,Gas,Toyota,Tundra,263716,15000,Clean,1,2012
 Black,Like New,6,4Wd,Gas,Ford,Edge,183000,6995,Clean,1,2013
 Black,Like New,6,4Wd,Gas,Ford,Edge,18300,5995,Clean,1,2013
@@ -18304,7 +18400,6 @@ Grey,Excellent,4,Fwd,Gas,Chevrolet,Cruze,118450,5900,Clean,1,2013
 Grey,Good,6,Rwd,Gas,Infiniti,Q50,81000,15000,Rebuilt,1,2015
 Black,Good,4,Fwd,Gas,Jeep,Cherokee,110000,12500,Clean,1,2015
 Grey,Like New,6,Fwd,Gas,Lexus,Es,101000,6500,Clean,1,2008
-Blue,Excellent,8,Rwd,Gas,Chevrolet,Silverado,300,25000,Clean,1,1982
 White,Excellent,4,Fwd,Gas,Nissan,Sentra,170000,6900,Clean,1,2014
 Blue,Fair,4,Fwd,Gas,Honda,Accord,73426,6000,Clean,1,2008
 White,Good,8,Rwd,Gas,Chevrolet,Express,81000,40000,Clean,1,2018
@@ -18578,6 +18673,7 @@ White,Good,6,4Wd,Gas,Mercedes,C300,129880,4880,Clean,1,2008
 Grey,Like New,6,Fwd,Gas,Honda,Odyssey,46100,18500,Rebuilt,1,2019
 Silver,Like New,6,Fwd,Gas,Infiniti,Qx60,56000,18900,Rebuilt,1,2018
 Brown,Like New,4,Fwd,Gas,Hyundai,Elantra,21500,12400,Rebuilt,1,2018
+Silver,Like New,4,Rwd,Gas,Chevrolet,Trax,18000,13800,Rebuilt,1,2020
 Grey,Like New,4,Fwd,Gas,Toyota,Prius,103000,5500,Clean,1,2009
 White,Excellent,6,Rwd,Gas,Ford,F150,142000,6200,Clean,1,2006
 Grey,Like New,6,Fwd,Gas,Toyota,Sienna,116000,5800,Clean,1,2006
@@ -18684,7 +18780,6 @@ Black,Excellent,6,4Wd,Gas,Lincoln,Mkz,150000,5000,Rebuilt,1,2008
 Grey,Fair,6,Rwd,Gas,Lexus,Is,210000,4000,Clean,1,2007
 White,Excellent,4,Fwd,Gas,Volkswagen,Jetta,142000,4800,Clean,1,2004
 White,Excellent,4,Rwd,Gas,Ford,Ranger,87800,4600,Clean,1,1995
-Red,Excellent,8,Rwd,Gas,Ford,Mustang,92000,11500,Clean,0,1983
 White,Good,4,4Wd,Gas,Chevrolet,Sonic,72000,5800,Rebuilt,1,2014
 Grey,Excellent,4,Fwd,Gas,Honda,Crv,28831,17350,Rebuilt,1,2016
 Grey,Excellent,6,4Wd,Gas,Toyota,Tacoma,84500,22990,Clean,1,2013
@@ -18917,6 +19012,7 @@ White,Fair,4,Fwd,Hybrid,Kia,Optima,35000,8000,Clean,1,2017
 Black,Excellent,6,Rwd,Gas,Dodge,Dakota,200000,5900,Clean,1,2004
 Black,Excellent,4,Fwd,Gas,Toyota,Venza,138088,11900,Clean,1,2011
 Black,Fair,6,Fwd,Gas,Audi,A4,201000,2800,Clean,1,2007
+Silver,Like New,4,4Wd,Other,Mitsubishi,Outlander,600,43000,Clean,1,2023
 Grey,Good,4,Fwd,Gas,Nissan,Altima,125000,7500,Clean,1,2013
 Black,Like New,4,Fwd,Gas,Jeep,Renegade,126000,14900,Clean,1,2020
 Black,Excellent,6,Rwd,Gas,Mercedes,C300,123932,7000,Clean,1,2008
@@ -18965,6 +19061,7 @@ Red,Excellent,4,Fwd,Gas,Nissan,Altima,64000,9800,Rebuilt,1,2017
 Black,Excellent,8,Fwd,Gas,Chevrolet,Avalanche,58124,17500,Rebuilt,1,2012
 Grey,Like New,4,Fwd,Gas,Dodge,Dart,57000,9900,Clean,1,2016
 Black,Like New,6,Fwd,Gas,Kia,Sedona,78000,12500,Rebuilt,1,2016
+White,Like New,4,4Wd,Gas,Chevrolet,Trax,77000,13800,Clean,1,2019
 Black,Like New,6,4Wd,Gas,Bmw,535I,56000,26500,Lien,1,2016
 Custom,Good,6,Fwd,Gas,Pontiac,G6,72500,9500,Clean,1,2009
 Blue,Good,6,4Wd,Gas,Chevrolet,Cruze,124000,5500,Clean,1,2015
@@ -19024,6 +19121,7 @@ White,Excellent,4,Fwd,Gas,Nissan,Rogue,150,6800,Clean,1,2013
 White,Excellent,4,Fwd,Gas,Hyundai,Santa,109000,6900,Clean,1,2014
 Red,Like New,6,Fwd,Gas,Chrysler,Town,102000,9700,Clean,1,2016
 White,Fair,4,Rwd,Gas,Kia,Sportage,208560,4000,Clean,1,2011
+White,Excellent,4,Fwd,Gas,Chevrolet,Trax,25000,14999,Clean,1,2020
 Red,Excellent,6,Rwd,Gas,Chevrolet,Camaro,94000,16999,Clean,1,2015
 Black,Good,8,Rwd,Gas,Ford,Mustang,152500,6000,Clean,0,2000
 Black,Like New,6,Fwd,Gas,Nissan,Quest,87000,8500,Rebuilt,1,2014
@@ -19123,7 +19221,6 @@ Black,Good,6,4Wd,Gas,Volvo,Xc60,170000,2250,Clean,1,2010
 Silver,Good,4,Fwd,Gas,Honda,Odyssey,198000,5300,Clean,1,2008
 Black,Like New,4,Fwd,Gas,Toyota,Corolla,80000,18400,Clean,1,2020
 Black,Excellent,4,Fwd,Gas,Honda,Civic,150000,8500,Clean,1,2012
-White,Fair,8,Rwd,Gas,Ford,F250,51000,2800,Clean,1,1983
 Blue,Good,4,Fwd,Gas,Chrysler,Sebring,86000,1250,Missing,1,2013
 White,Good,8,4Wd,Gas,Chevrolet,Suburban,192000,4000,Clean,1,2005
 White,Fair,4,Fwd,Gas,Ford,Transit,174000,8000,Clean,1,2013
@@ -19229,6 +19326,7 @@ White,New,6,Fwd,Gas,Ford,Explorer,32000,25300,Clean,1,2018
 Silver,Good,4,Fwd,Gas,Honda,Fit,129675,5000,Clean,1,2008
 White,Good,6,Fwd,Gas,Buick,Lesabre,54111,3500,Clean,1,1988
 Grey,Like New,6,4Wd,Gas,Toyota,Highlander,32000,37500,Clean,1,2021
+Black,Excellent,8,Rwd,Gas,Bmw,M5,43964,44000,Lien,0,2014
 Grey,Good,4,Fwd,Gas,Jeep,Renegade,90243,9500,Salvage,0,2016
 Grey,Excellent,4,Fwd,Gas,Honda,Accord,184000,5500,Clean,1,2006
 White,Excellent,8,Rwd,Gas,Toyota,Tundra,73200,27000,Clean,1,2015
@@ -19291,6 +19389,7 @@ Grey,Fair,6,Fwd,Gas,Lexus,Es,285000,8500,Clean,1,2013
 Grey,Like New,8,4Wd,Gas,Dodge,Ram,25000,42000,Salvage,1,2019
 Blue,Excellent,4,Fwd,Gas,Honda,Civic,106208,8500,Clean,1,2007
 White,Good,6,Fwd,Gas,Buick,Enclave,156527,8000,Clean,1,2011
+Grey,Like New,4,Fwd,Gas,Chevrolet,Trax,39000,15250,Clean,1,2020
 Silver,Like New,6,Rwd,Gas,Toyota,Tacoma,31763,37995,Clean,1,2020
 Silver,Good,6,Rwd,Gas,Bmw,330I,160000,5700,Clean,1,2001
 Black,Fair,8,Rwd,Gas,Chevrolet,Silverado,174000,4500,Clean,1,1994
@@ -19325,6 +19424,7 @@ Grey,Excellent,4,Fwd,Gas,Nissan,Altima,113000,8900,Clean,1,2015
 Red,Excellent,8,Rwd,Gas,Chevrolet,Corvette,72358,18000,Clean,1,1999
 White,Good,8,Rwd,Gas,Dodge,Ram,209500,6500,Clean,1,2001
 Silver,Excellent,4,4Wd,Gas,Toyota,Tacoma,176000,16900,Clean,1,2002
+Grey,Good,4,Fwd,Gas,Ford,Maverick,29164,25500,Lien,1,2022
 Silver,Excellent,4,Fwd,Hybrid,Toyota,Prius,50000,25000,Clean,1,2019
 Silver,Good,8,Rwd,Gas,Chevrolet,Suburban,100700,32900,Lien,1,2017
 Grey,Excellent,6,4Wd,Gas,Toyota,Tacoma,62000,27900,Salvage,1,2019
@@ -19400,6 +19500,7 @@ Grey,Good,4,Rwd,Gas,Mercedes,C250,98732,6800,Clean,1,2014
 White,Excellent,6,4Wd,Gas,Jeep,Wrangler,120524,24500,Clean,1,2015
 Brown,Good,4,Rwd,Gas,Buick,Enclave,127862,6800,Clean,1,2011
 Brown,Good,4,Rwd,Gas,Mazda,Cx,76053,16800,Clean,1,2016
+Red,Like New,0,Rwd,Electric,Tesla,Model 3,2500,44000,Clean,1,2023
 Grey,Like New,6,Rwd,Gas,Bmw,M4,30000,57999,Clean,1,2018
 Silver,Good,6,Rwd,Gas,Audi,A4,139599,1950,Clean,1,2003
 Silver,Good,4,Fwd,Gas,Toyota,Camry,140000,6400,Clean,1,2010
@@ -19564,7 +19665,6 @@ White,Excellent,0,Fwd,Electric,Tesla,Model 3,54000,34000,Clean,1,2018
 White,Good,6,4Wd,Gas,Toyota,Land,225000,22900,Clean,0,1997
 Blue,Good,4,Rwd,Gas,Mazda,Miata,197777,5500,Clean,0,1999
 White,Like New,4,Fwd,Gas,Kia,Soul,133700,9500,Clean,1,2015
-Brown,Excellent,4,Rwd,Gas,Volkswagen,Vanagon,117431,19000,Clean,0,1982
 White,Excellent,4,Fwd,Gas,Ram,Promaster,94612,19500,Clean,1,2016
 Red,Excellent,8,4Wd,Gas,Dodge,Ram,164000,11500,Clean,1,2006
 Silver,Like New,4,Fwd,Gas,Hyundai,Elantra,22000,19650,Clean,1,2020
@@ -19578,7 +19678,6 @@ Custom,Good,4,Fwd,Gas,Nissan,Versa,165000,3500,Clean,1,2009
 White,Good,4,Fwd,Gas,Volkswagen,Tiguan,119000,11500,Clean,1,2016
 Silver,Like New,6,Fwd,Gas,Kia,Sorento,48000,24500,Clean,1,2020
 Black,Good,4,Fwd,Hybrid,Toyota,Prius,299999,2999,Clean,1,2005
-Blue,Good,8,Fwd,Gas,Cadillac,Eldorado,76000,8000,Clean,1,1982
 Green,Good,4,Fwd,Hybrid,Ford,Escape,124195,5700,Clean,1,2007
 Silver,Excellent,4,Fwd,Diesel,Toyota,Prius,215000,8350,Clean,1,2014
 Red,Excellent,0,Rwd,Electric,Tesla,Model S,91000,22900,Clean,1,2014
@@ -19752,7 +19851,6 @@ Blue,Fair,6,Fwd,Gas,Chrysler,Town,147000,2500,Clean,1,2008
 White,Good,8,Rwd,Gas,Gmc,Yukon,163808,2400,Clean,1,2006
 Grey,Excellent,6,Fwd,Gas,Hyundai,Sonata,135000,6500,Salvage,1,2009
 Red,Excellent,4,Fwd,Gas,Ford,Focus,110000,3950,Clean,1,2007
-Blue,Good,6,Rwd,Gas,Ford,F150,127000,6500,Clean,1,1981
 Silver,Excellent,4,Fwd,Gas,Toyota,Rav4,128100,11500,Salvage,1,2014
 White,Excellent,4,Fwd,Gas,Toyota,Corolla,37000,13999,Salvage,1,2018
 Grey,Good,4,Fwd,Gas,Nissan,Sentra,104122,4000,Clean,1,2005
@@ -19777,6 +19875,7 @@ Silver,Excellent,6,Fwd,Gas,Toyota,Highlander,145000,8999,Clean,1,2008
 Grey,Excellent,4,Fwd,Gas,Audi,A3,69368,15900,Clean,1,2015
 Grey,Good,6,Fwd,Gas,Toyota,Sienna,174000,5800,Clean,1,2007
 Grey,Good,6,4Wd,Gas,Honda,Pilot,159000,5900,Clean,1,2004
+Silver,Fair,8,Rwd,Gas,Jaguar,Xk8,178000,2900,Salvage,1,1998
 Silver,Excellent,6,Rwd,Gas,Toyota,Tacoma,171000,13800,Clean,1,2007
 White,Excellent,4,Fwd,Gas,Honda,Accord,109594,16300,Clean,1,2015
 Grey,Like New,6,Fwd,Gas,Ford,Taurus,90000,3999,Clean,1,2007
@@ -19815,7 +19914,6 @@ Grey,Excellent,6,Fwd,Gas,Toyota,Sienna,174000,6500,Clean,1,2008
 White,Excellent,8,4Wd,Gas,Ford,F150,115000,22800,Clean,1,2010
 Black,Salvage,6,Rwd,Gas,Dodge,Charger,117000,2200,Salvage,1,2009
 Silver,Salvage,4,Fwd,Gas,Chevrolet,Equinox,21790,12900,Salvage,1,2019
-White,Good,4,Rwd,Gas,Volkswagen,Vanagon,204445,19500,Clean,1,1982
 Grey,Good,4,Fwd,Gas,Toyota,Corolla,148000,6975,Clean,0,2011
 Grey,Good,4,Fwd,Gas,Volkswagen,Jetta,85000,13000,Clean,1,2016
 White,Excellent,4,Fwd,Gas,Nissan,Altima,77750,12900,Clean,1,2017
@@ -19851,7 +19949,6 @@ White,Good,8,4Wd,Gas,Toyota,Tundra,116800,12000,Clean,1,2004
 Grey,Good,4,Fwd,Gas,Nissan,Altima,63000,13500,Clean,1,2018
 White,Excellent,6,Rwd,Gas,Ford,F150,155000,6500,Clean,1,2004
 Black,Like New,4,Fwd,Gas,Nissan,Altima,111663,8800,Salvage,1,2014
-Grey,Like New,6,Rwd,Gas,Ford,F150,100000,14900,Clean,1,1982
 White,Like New,8,Rwd,Gas,Chevrolet,Express,37584,12000,Clean,1,2001
 Grey,Good,6,Rwd,Gas,Bmw,328I,128000,13000,Clean,1,2011
 Silver,Excellent,4,Fwd,Gas,Subaru,Impreza,75500,20500,Clean,0,2011
@@ -19887,6 +19984,7 @@ White,Good,8,Rwd,Diesel,Chevrolet,Silverado,206146,10200,Clean,1,2005
 Silver,Good,4,Fwd,Hybrid,Ford,Fusion,129721,8995,Clean,1,2017
 White,Good,8,4Wd,Gas,Ford,Bronco,272750,13000,Clean,1,1995
 Silver,Excellent,6,Rwd,Gas,Nissan,350Z,1,6900,Clean,1,2004
+White,New,4,4Wd,Gas,Ford,Maverick,131,41999,Clean,1,2023
 White,Good,6,Fwd,Gas,Honda,Pilot,165416,6499,Clean,1,2006
 Red,Good,4,Fwd,Gas,Fiat,500,95000,5900,Clean,0,2012
 Black,Excellent,6,Fwd,Gas,Honda,Odyssey,114000,9500,Clean,1,2010
@@ -20461,6 +20559,7 @@ Red,Fair,8,Rwd,Diesel,Ford,E350,100000,4000,Clean,1,2003
 Red,Good,4,Fwd,Gas,Nissan,Sentra,98000,5000,Clean,1,2011
 Black,Like New,6,4Wd,Diesel,Land Rover,Range Rover,69550,33900,Clean,1,2016
 Grey,Good,4,Fwd,Gas,Nissan,Versa,170000,5225,Salvage,1,2015
+White,New,4,Fwd,Hybrid,Ford,Maverick,500,32000,Clean,1,2023
 Black,Excellent,6,4Wd,Gas,Jeep,Wrangler,131970,9000,Clean,0,1991
 White,Excellent,4,Rwd,Diesel,Mercedes,Sprinter,17500,39500,Clean,1,2016
 Black,Excellent,4,Fwd,Gas,Toyota,Camry,47000,17500,Salvage,1,2019
@@ -20691,6 +20790,7 @@ White,Excellent,6,Rwd,Gas,Toyota,4Runner,73400,29900,Clean,1,2016
 Blue,Good,6,Fwd,Gas,Toyota,Sienna,132000,6900,Clean,1,2009
 Blue,Excellent,6,Rwd,Gas,Ford,F150,31000,26500,Salvage,1,2019
 Green,Good,8,Rwd,Gas,Chevrolet,Suburban,218000,3500,Clean,1,1997
+Brown,Good,8,Rwd,Gas,Jaguar,Xk8,123000,10000,Clean,1,2000
 Blue,Fair,6,Fwd,Gas,Dodge,Grand,137333,2000,Clean,1,1992
 White,Excellent,6,4Wd,Gas,Toyota,Tacoma,27000,42000,Clean,1,2020
 White,Fair,6,Rwd,Gas,Ford,Ranger,160000,4900,Clean,1,1996
@@ -20768,6 +20868,7 @@ Grey,Good,8,4Wd,Gas,Ford,Explorer,166485,10000,Clean,1,2013
 White,Excellent,4,Fwd,Gas,Volkswagen,Jetta,70400,8900,Clean,1,2014
 White,Excellent,4,Fwd,Gas,Mercedes,C300,42785,29000,Clean,1,2019
 White,Good,6,Rwd,Gas,Chevrolet,Astro,183000,1500,Clean,1,1995
+Black,New,4,Fwd,Gas,Ford,Maverick,30,32000,Clean,1,2023
 Brown,Good,8,4Wd,Gas,Ford,F150,195000,8000,Clean,1,1989
 White,Excellent,8,Rwd,Gas,Chevrolet,Corvette,113000,15000,Clean,1,1998
 White,Good,8,4Wd,Gas,Land Rover,Range,136900,8850,Clean,1,2008
@@ -20928,6 +21029,7 @@ Grey,Good,4,Rwd,Gas,Toyota,Tacoma,333600,7500,Clean,1,1996
 Black,Good,4,Fwd,Gas,Nissan,Versa,98000,6800,Clean,0,2016
 Blue,Like New,6,Fwd,Gas,Toyota,Highlander,190000,11999,Clean,1,2010
 Grey,Good,8,4Wd,Gas,Chevrolet,Silverado,149000,18000,Clean,1,2014
+White,New,4,4Wd,Gas,Ford,Maverick,75,33950,Clean,1,2023
 Silver,Like New,4,Fwd,Gas,Honda,Element,197676,7699,Clean,1,2006
 Silver,Excellent,8,Rwd,Gas,Ford,F150,87000,11000,Clean,1,2005
 White,Like New,4,Rwd,Gas,Dodge,Ram,187707,6599,Clean,1,2003
@@ -21032,6 +21134,7 @@ White,Good,4,4Wd,Gas,Honda,Crv,110347,12000,Clean,1,2011
 White,Good,4,Fwd,Gas,Honda,Odyssey,142000,4500,Clean,1,2002
 Black,Excellent,6,4Wd,Gas,Honda,Ridgeline,110000,17300,Salvage,1,2017
 Black,Like New,4,Fwd,Gas,Honda,Civic,29000,14000,Salvage,1,2020
+Silver,Like New,4,Fwd,Gas,Toyota,Camry,5000,20500,Salvage,1,2023
 Red,Good,8,4Wd,Diesel,Ford,F350,69000,16000,Clean,1,1992
 Black,Fair,8,4Wd,Gas,Chevrolet,Tahoe,191180,1955,Clean,1,2002
 Silver,Like New,4,4Wd,Hybrid,Toyota,Rav4,35600,42000,Clean,1,2020
@@ -21041,6 +21144,7 @@ White,Excellent,0,Rwd,Electric,Tesla,Model 3,51059,29000,Clean,1,2019
 White,Good,8,4Wd,Gas,Dodge,Durango,170000,3700,Clean,1,2005
 White,Good,8,Rwd,Gas,Dodge,Ram,70646,25000,Clean,1,2017
 White,Excellent,8,Rwd,Gas,Ford,Expedition,294000,3400,Clean,1,2000
+Custom,Like New,4,Fwd,Hybrid,Ford,Maverick,480,38750,Clean,1,2023
 Blue,Good,4,Fwd,Hybrid,Toyota,Prius,36172,12000,Clean,1,2014
 Black,Like New,8,4Wd,Gas,Ford,F150,39500,39900,Clean,1,2019
 Yellow,Like New,8,Rwd,Gas,Gmc,Savana,170169,13000,Clean,1,2008
@@ -21121,6 +21225,7 @@ White,Good,4,Fwd,Gas,Ford,Transit,220969,6500,Clean,1,2013
 Silver,Good,4,Fwd,Gas,Nissan,Altima,175000,4500,Clean,1,2008
 Blue,Good,6,Fwd,Gas,Dodge,Grand,200000,4000,Clean,1,2010
 White,Good,10,Rwd,Diesel,Ford,E350,230000,8000,Clean,1,2007
+Silver,Excellent,4,4Wd,Gas,Chevrolet,Trax,77800,10900,Salvage,1,2018
 Silver,Excellent,4,Fwd,Gas,Chevrolet,Hhr,142000,5500,Clean,1,2009
 Blue,Good,8,4Wd,Gas,Ford,F250,121000,5500,Clean,1,2004
 White,Excellent,6,4Wd,Gas,Honda,Ridgeline,262000,8900,Clean,1,2011
@@ -21144,6 +21249,7 @@ Silver,Excellent,4,Fwd,Gas,Toyota,Camry,167000,9000,Clean,1,2010
 White,Excellent,6,4Wd,Gas,Jeep,Grand,32200,39500,Clean,1,2021
 Silver,Excellent,4,Fwd,Gas,Toyota,Rav4,94689,9200,Rebuilt,1,2011
 Custom,Excellent,6,4Wd,Gas,Ford,Explorer,104755,9000,Clean,1,2002
+Green,Like New,4,Fwd,Gas,Toyota,Highlander,3600,41500,Clean,1,2023
 Grey,Excellent,4,Fwd,Gas,Honda,Accord,90000,13899,Clean,1,2012
 Black,Fair,10,4Wd,Gas,Ford,F350,255000,2500,Clean,1,1999
 White,Excellent,10,4Wd,Gas,Ford,F550,65000,35500,Clean,1,2012
@@ -21244,6 +21350,7 @@ Green,Good,6,4Wd,Gas,Dodge,Journey,118964,14582,Lien,1,2016
 Green,Excellent,6,Fwd,Gas,Ford,Escape,197000,3900,Clean,1,2011
 White,Excellent,8,Rwd,Gas,Chevrolet,Corvette,65000,28000,Clean,0,2007
 Purple,Like New,4,4Wd,Gas,Subaru,Forester,118000,13000,Clean,1,2013
+Blue,Like New,4,4Wd,Gas,Toyota,Camry,6600,32500,Clean,1,2023
 Silver,Like New,6,4Wd,Gas,Buick,Enclave,48000,24950,Rebuilt,1,2020
 Grey,Good,4,4Wd,Gas,Subaru,Forester,134560,7900,Rebuilt,1,2013
 Custom,Excellent,4,Fwd,Gas,Honda,Accord,99836,15950,Rebuilt,1,2015
@@ -21283,6 +21390,7 @@ Black,Excellent,6,Fwd,Gas,Honda,Accord,213000,11000,Clean,1,2014
 Silver,Excellent,6,4Wd,Gas,Ford,Escape,173797,4900,Clean,1,2011
 Grey,Excellent,6,4Wd,Gas,Audi,Q7,122000,13900,Rebuilt,1,2015
 Black,Good,4,Fwd,Gas,Honda,Civic,157250,5200,Clean,1,2006
+Black,Good,4,4Wd,Gas,Chevrolet,Trax,77800,10950,Salvage,1,2018
 White,Fair,6,4Wd,Gas,Ford,Explorer,247000,4800,Clean,1,2013
 Brown,Excellent,8,Rwd,Gas,Lincoln,Town,144000,3900,Clean,1,2004
 Silver,Good,8,Rwd,Diesel,Ford,F250,66102,24500,Clean,1,2014
@@ -21373,6 +21481,7 @@ Grey,Excellent,6,Rwd,Gas,Gmc,Sierra,224000,16900,Clean,1,2014
 Red,Excellent,6,Rwd,Gas,Ford,Mustang,73600,12000,Clean,1,2010
 White,Good,10,Rwd,Diesel,Ford,E350,190000,7000,Clean,1,2007
 Red,Fair,4,Fwd,Gas,Mitsubishi,Eclipse,181000,2500,Clean,0,2001
+Silver,Excellent,8,Rwd,Gas,Dodge,Magnum,63000,25000,Clean,1,2006
 Black,Fair,5,4Wd,Gas,Hummer,H3,170000,7500,Clean,1,2007
 Grey,Salvage,4,Fwd,Gas,Toyota,Corolla,133000,4750,Salvage,1,2010
 White,Excellent,6,4Wd,Gas,Chevrolet,Colorado,63000,31000,Clean,1,2018
@@ -21397,7 +21506,6 @@ Black,Like New,4,Fwd,Gas,Hyundai,Sonata,141000,9900,Clean,1,2017
 Silver,Fair,5,Rwd,Diesel,Dodge,Sprinter,210000,5000,Clean,1,2006
 Red,Good,8,Rwd,Gas,Chevrolet,Silverado,204000,3900,Clean,0,2008
 White,Excellent,8,Rwd,Gas,Gmc,Savana,80500,46000,Clean,1,2014
-Red,Excellent,8,Rwd,Gas,Ford,Thunderbird,83000,8995,Clean,1,1982
 Silver,Good,6,Fwd,Gas,Hyundai,Santa,162800,3200,Clean,1,2003
 Black,Excellent,4,Fwd,Gas,Hyundai,Sonata,81437,13500,Salvage,0,2017
 Black,Good,4,Fwd,Gas,Kia,Forte,121628,2500,Clean,1,2011
@@ -21414,6 +21522,7 @@ Black,Fair,8,4Wd,Gas,Ford,Expedition,247254,3700,Clean,1,2004
 Black,Good,6,4Wd,Gas,Ford,Edge,197162,8999,Clean,1,2013
 Red,Good,4,Fwd,Gas,Mazda,3,217000,1900,Clean,1,2007
 Blue,Good,4,4Wd,Gas,Honda,Crv,218000,1900,Clean,1,2002
+Grey,New,4,Fwd,Hybrid,Ford,Maverick,44461,35000,Clean,1,2023
 White,Excellent,6,4Wd,Hybrid,Audi,Q5,97000,17000,Clean,1,2014
 Black,Excellent,6,Rwd,Gas,Bmw,335I,70600,15500,Clean,1,2008
 White,Excellent,6,Fwd,Gas,Chevrolet,Impala,76995,21000,Clean,1,2019
@@ -21458,7 +21567,6 @@ Red,Excellent,6,4Wd,Gas,Ford,Edge,120862,13500,Clean,1,2013
 Black,Good,6,Fwd,Gas,Hyundai,Sonata,123425,4650,Clean,1,2007
 White,Excellent,8,4Wd,Gas,Chevrolet,Silverado,117000,16900,Clean,1,2010
 Black,Like New,6,4Wd,Gas,Honda,Pilot,188900,7950,Clean,1,2004
-White,Good,8,Rwd,Gas,Pontiac,Firebird,71000,39500,Clean,1,1981
 Silver,Good,6,Fwd,Gas,Volkswagen,Eurovan,180000,18500,Clean,1,2002
 Black,Excellent,4,4Wd,Gas,Mazda,Cx,108000,14900,Clean,1,2016
 Custom,Excellent,4,Fwd,Gas,Ford,Focus,42700,18000,Clean,1,2018
@@ -22090,7 +22198,6 @@ White,Good,8,4Wd,Diesel,Chevrolet,Silverado,195000,16500,Clean,1,2012
 Silver,Excellent,8,4Wd,Diesel,Ford,F350,188000,28500,Clean,1,2011
 Blue,Good,6,Rwd,Gas,Porsche,Boxster,60000,24500,Clean,0,2006
 Custom,Good,4,Fwd,Hybrid,Toyota,Prius,155000,7800,Clean,1,2009
-Yellow,Salvage,4,Rwd,Gas,Volkswagen,Vanagon,155000,4500,Clean,0,1981
 White,Excellent,6,4Wd,Gas,Ford,F150,198500,11000,Clean,1,2014
 Blue,Good,6,Rwd,Gas,Chrysler,300,79300,9995,Clean,1,2011
 Blue,Good,8,4Wd,Gas,Chevrolet,Express,231774,2500,Clean,1,2000
@@ -22098,6 +22205,7 @@ Black,Fair,8,4Wd,Gas,Cadillac,Escalade,315000,2500,Clean,1,2002
 White,Fair,4,Fwd,Gas,Chevrolet,Cruze,106000,1900,Clean,1,2013
 Grey,Excellent,6,Fwd,Gas,Toyota,Avalon,19803,34500,Clean,1,2019
 White,Salvage,6,Fwd,Gas,Ford,Edge,175000,1700,Parts Only,1,2013
+Black,Good,6,4Wd,Gas,Maserati,Quattroporte,46500,25000,Clean,1,2014
 Silver,Good,8,Rwd,Gas,Lexus,Ls,212000,4500,Clean,1,2007
 White,Excellent,6,4Wd,Gas,Ford,Explorer,141000,14000,Clean,1,2017
 Grey,Excellent,8,Rwd,Diesel,Ford,Excursion,97150,44000,Clean,1,2005
@@ -22318,6 +22426,7 @@ Grey,Good,4,Fwd,Gas,Mini Cooper,S,95000,9500,Clean,1,2010
 White,Good,4,Rwd,Gas,Kia,Sportage,152600,7900,Clean,1,2014
 Grey,Excellent,4,Fwd,Gas,Toyota,Camry,128000,11100,Salvage,1,2016
 White,Excellent,6,Fwd,Gas,Buick,Lacrosse,136000,3995,Clean,1,2006
+White,Like New,4,Fwd,Gas,Toyota,Highlander,2500,43000,Clean,1,2023
 Black,Excellent,6,4Wd,Gas,Lexus,Gs,100000,15950,Salvage,1,2013
 Brown,Excellent,8,4Wd,Gas,Chevrolet,Silverado,210000,3995,Clean,1,1996
 Grey,Excellent,4,Rwd,Gas,Mazda,Miata,28931,26000,Clean,0,2017
@@ -22354,6 +22463,7 @@ Black,Good,6,4Wd,Gas,Mitsubishi,Montero,166500,3300,Clean,1,2003
 Custom,Good,8,4Wd,Gas,Chevrolet,Suburban,101260,5000,Clean,1,1999
 Grey,Excellent,6,Fwd,Gas,Nissan,Maxima,174000,2000,Clean,1,2000
 White,Good,8,Rwd,Gas,Ford,F150,158000,1000,Clean,1,1992
+Red,Good,6,Rwd,Gas,Dodge,Magnum,177596,3500,Clean,1,2007
 Grey,Like New,8,4Wd,Diesel,Gmc,Sierra,38700,52500,Clean,1,2015
 Blue,Good,4,4Wd,Gas,Subaru,Impreza,154545,5000,Clean,1,2009
 White,Like New,0,4Wd,Electric,Tesla,Model S,44000,45750,Clean,1,2017
@@ -22381,7 +22491,6 @@ White,Excellent,4,4Wd,Gas,Subaru,Impreza,37253,19500,Clean,1,2015
 White,Good,4,Fwd,Gas,Nissan,Frontier,138376,5200,Clean,0,2004
 Purple,Good,4,Fwd,Gas,Chevrolet,Hhr,155000,3000,Clean,1,2006
 Red,Good,4,Fwd,Hybrid,Toyota,Prius,136000,4650,Rebuilt,1,2009
-Brown,Good,8,Rwd,Diesel,Chevrolet,Silverado,66000,6500,Clean,1,1983
 Silver,Excellent,4,Rwd,Gas,Honda,S2000,71922,28500,Clean,0,2004
 Silver,Good,6,Fwd,Gas,Ford,Taurus,145000,4500,Clean,0,1989
 Brown,Good,8,Fwd,Gas,Gmc,Savana,180000,5000,Clean,1,1996
@@ -22417,7 +22526,6 @@ Grey,Excellent,6,4Wd,Gas,Toyota,Tacoma,18218,42000,Clean,1,2019
 Black,Good,8,4Wd,Gas,Dodge,Ram,115000,14000,Clean,1,2014
 Blue,Excellent,8,4Wd,Diesel,Ford,F250,90000,9900,Clean,1,1990
 Red,Good,6,Fwd,Gas,Honda,Accord,192000,4295,Clean,0,2003
-White,Good,8,Rwd,Gas,Buick,Regal,108000,7500,Clean,1,1981
 Blue,Like New,4,Fwd,Gas,Honda,Fit,102555,7000,Rebuilt,1,2010
 White,Good,6,4Wd,Gas,Dodge,Dakota,166000,4250,Clean,1,2006
 Black,Fair,6,4Wd,Gas,Nissan,Pathfinder,301000,1000,Clean,1,2002
@@ -22430,6 +22538,7 @@ Black,Excellent,4,Fwd,Gas,Ford,Transit,232000,9500,Rebuilt,1,2012
 White,Good,4,Fwd,Hybrid,Toyota,Prius,179000,8500,Clean,1,2011
 White,Good,8,Rwd,Gas,Ford,Econoline,184000,7000,Clean,1,1988
 Silver,Good,8,4Wd,Gas,Dodge,Ram,130000,15000,Clean,1,2014
+Grey,Like New,4,Fwd,Gas,Kia,Forte,8600,15990,Rebuilt,1,2023
 Black,Excellent,6,4Wd,Gas,Jeep,Grand,196400,5500,Clean,1,2004
 Blue,Good,4,4Wd,Gas,Honda,Crv,60000,21000,Rebuilt,1,2017
 Silver,Good,6,Fwd,Gas,Honda,Odyssey,161909,5200,Clean,1,2007
@@ -22511,7 +22620,6 @@ Brown,Good,6,4Wd,Gas,Toyota,Land,212000,20500,Clean,0,1984
 White,Good,5,Fwd,Gas,Volkswagen,Eurovan,126071,26500,Clean,1,1995
 White,Good,5,Fwd,Gas,Volkswagen,Eurovan,180000,10500,Clean,1,1993
 Grey,Good,4,4Wd,Gas,Subaru,Legacy,177000,6000,Clean,0,2009
-Brown,Good,8,4Wd,Gas,Ford,F250,107598,13500,Clean,1,1982
 Red,Good,8,4Wd,Gas,Ford,Explorer,150000,14000,Clean,1,2004
 Black,Excellent,4,Fwd,Gas,Ford,Focus,111000,6195,Clean,1,2013
 Silver,Excellent,4,Fwd,Gas,Kia,Rio,141000,3100,Lien,1,2007
@@ -22831,6 +22939,7 @@ Blue,Excellent,4,4Wd,Gas,Jeep,Cherokee,150000,7500,Clean,1,2001
 Silver,Excellent,4,4Wd,Gas,Honda,Crv,74000,7750,Rebuilt,1,2001
 White,Good,6,4Wd,Gas,Acura,Mdx,110500,16000,Clean,1,2012
 Black,Excellent,4,4Wd,Gas,Subaru,Forester,95000,8200,Rebuilt,1,2004
+Red,Good,6,Rwd,Gas,Dodge,Magnum,177596,3500,Clean,1,2007
 White,Excellent,8,Rwd,Gas,Ford,Mustang,43000,10000,Clean,1,1996
 Silver,Good,4,4Wd,Gas,Subaru,Impreza,141700,8500,Clean,1,2010
 Silver,Good,8,4Wd,Gas,Dodge,Ram,99750,9750,Clean,1,2002
@@ -22961,7 +23070,6 @@ Grey,Good,6,Fwd,Gas,Toyota,Sienna,154000,5850,Clean,1,2004
 White,Good,6,Fwd,Gas,Ford,Escape,215000,5000,Clean,1,2012
 Red,Good,8,4Wd,Gas,Ford,F250,85000,13995,Clean,1,1996
 White,Excellent,4,Fwd,Gas,Nissan,Nv200,30000,23000,Clean,1,2020
-Grey,Excellent,8,Rwd,Gas,Chevrolet,Corvette,56545,16450,Clean,1,1982
 Black,Like New,4,Fwd,Gas,Toyota,Camry,73653,13500,Salvage,1,2013
 Grey,Good,6,Fwd,Gas,Ford,E150,164000,10000,Clean,1,1995
 Silver,Fair,6,4Wd,Gas,Chevrolet,S10,300000,1995,Clean,1,2003
@@ -22984,7 +23092,6 @@ Black,Excellent,4,Fwd,Gas,Nissan,Altima,76000,8999,Rebuilt,1,2014
 White,Good,8,4Wd,Diesel,Ford,F350,109511,33950,Clean,1,2015
 Grey,Excellent,4,Fwd,Gas,Toyota,Camry,180000,7900,Clean,1,2012
 White,Good,4,4Wd,Gas,Acura,Rdx,79100,15500,Clean,1,2013
-White,Good,4,Rwd,Diesel,Volkswagen,Vanagon,171000,24500,Clean,0,1982
 Black,Good,6,Fwd,Gas,Chrysler,200,93000,10800,Lien,1,2015
 Black,Excellent,4,Rwd,Gas,Toyota,Tacoma,117000,16700,Clean,1,2009
 Silver,Good,4,Fwd,Gas,Toyota,Corolla,161858,3900,Clean,1,2000
@@ -23014,7 +23121,6 @@ Silver,Excellent,8,4Wd,Gas,Chevrolet,Silverado,70850,9300,Clean,0,1992
 Grey,Excellent,6,4Wd,Gas,Toyota,Tacoma,111350,25000,Clean,1,2015
 White,Excellent,8,Rwd,Gas,Toyota,Tundra,42000,38000,Clean,1,2018
 Silver,Good,4,Fwd,Gas,Volkswagen,Jetta,140625,3199,Clean,0,1999
-Yellow,Like New,8,Rwd,Gas,Ford,Mustang,124080,15000,Clean,0,1983
 White,Good,4,Fwd,Gas,Kia,Rio,99974,6700,Clean,1,2012
 Brown,Good,8,Rwd,Gas,Ford,F150,81227,9000,Clean,1,2006
 Grey,Excellent,0,Fwd,Electric,Tesla,Model 3,37125,26995,Clean,1,2019
@@ -23063,7 +23169,6 @@ Black,Excellent,8,4Wd,Gas,Dodge,Ram,113300,18800,Clean,1,2016
 Silver,Good,4,Fwd,Gas,Chevrolet,Malibu,104000,4500,Salvage,1,2008
 White,Good,4,Fwd,Gas,Toyota,Corolla,142985,5750,Rebuilt,1,2010
 Black,Like New,8,4Wd,Gas,Jeep,Grand,107100,6250,Rebuilt,1,2005
-Custom,Excellent,8,Rwd,Gas,Chevrolet,Corvette,9265,20000,Clean,1,1982
 Red,Good,8,Fwd,Gas,Ford,Mustang,62000,5700,Clean,1,1989
 Black,Excellent,6,Fwd,Gas,Lexus,Es,80051,12750,Clean,1,2006
 Red,Good,6,4Wd,Diesel,Dodge,Ram,272000,9700,Clean,1,1999
@@ -23249,6 +23354,7 @@ Grey,Excellent,6,4Wd,Gas,Toyota,4Runner,48900,34999,Clean,1,2015
 Black,Excellent,4,Fwd,Gas,Volkswagen,Cc,104583,6700,Clean,1,2010
 Red,Excellent,6,4Wd,Gas,Jeep,Liberty,131000,9200,Clean,1,2002
 Blue,Good,6,Fwd,Gas,Dodge,Grand,138840,5900,Clean,1,2013
+Black,Like New,0,4Wd,Electric,Toyota,Rav4,912,49000,Clean,1,2023
 Grey,Like New,6,4Wd,Gas,Toyota,4Runner,182760,10000,Rebuilt,1,1999
 Black,Excellent,6,Fwd,Gas,Honda,Accord,200000,2500,Clean,1,2007
 Blue,Excellent,4,4Wd,Gas,Subaru,Forester,144000,4000,Rebuilt,1,2006
@@ -23278,6 +23384,7 @@ White,Good,4,4Wd,Diesel,Dodge,Ram,130000,45000,Clean,1,2012
 White,Good,4,Fwd,Gas,Kia,Soul,99000,5600,Salvage,1,2014
 Silver,Good,6,Fwd,Gas,Ford,Explorer,58811,25000,Clean,1,2017
 Blue,Good,8,4Wd,Gas,Toyota,4Runner,220000,10750,Clean,1,2003
+Silver,Like New,4,Fwd,Hybrid,Ford,Maverick,6750,35000,Lien,1,2022
 Black,Good,4,Fwd,Gas,Mazda,3,144200,5900,Clean,1,2010
 Black,Good,4,Fwd,Gas,Dodge,Avenger,180000,3000,Clean,1,2013
 Blue,Excellent,4,Fwd,Hybrid,Toyota,Prius,117401,11200,Clean,1,2012
@@ -23387,7 +23494,6 @@ Red,Good,6,Fwd,Gas,Chevrolet,Malibu,80500,3250,Clean,1,2002
 Grey,Good,4,Rwd,Gas,Mercedes,C250,107,9400,Clean,1,2012
 White,Good,4,Rwd,Gas,Ford,Ranger,245500,3500,Clean,1,2004
 Black,Fair,4,Fwd,Gas,Toyota,Corolla,144422,8000,Clean,0,2012
-Black,Good,8,4Wd,Diesel,Chevrolet,Suburban,100000,4000,Rebuilt,1,1983
 Red,Fair,4,4Wd,Gas,Toyota,4Runner,255000,4900,Clean,0,1987
 Black,Excellent,6,Fwd,Gas,Nissan,Maxima,200000,1950,Clean,1,2006
 White,Good,4,4Wd,Gas,Honda,Crv,139000,10000,Clean,1,2011
@@ -23532,6 +23638,7 @@ Red,Excellent,4,4Wd,Gas,Nissan,Juke,154000,6999,Clean,1,2011
 Grey,Excellent,6,Fwd,Gas,Ford,Edge,160000,7999,Clean,1,2013
 Silver,Good,6,Fwd,Gas,Chevrolet,Express,167000,8800,Clean,1,2011
 Blue,Excellent,4,Fwd,Gas,Toyota,Camry,69000,9500,Rebuilt,1,2011
+Silver,New,6,4Wd,Gas,Toyota,4Runner,6000,47900,Clean,1,2023
 White,Fair,6,Fwd,Gas,Ford,E150,234000,1500,Clean,0,1998
 Black,Excellent,8,4Wd,Diesel,Chevrolet,Silverado,46000,34000,Clean,1,2002
 Grey,Like New,6,4Wd,Diesel,Dodge,Ram,91000,49000,Clean,1,2017
@@ -23658,7 +23765,6 @@ Red,Excellent,8,Rwd,Gas,Chevrolet,Corvette,47250,18000,Clean,1,2000
 Black,Excellent,4,Fwd,Gas,Toyota,Highlander,19600,44000,Clean,1,2021
 Silver,Good,6,4Wd,Gas,Toyota,4Runner,67000,32000,Clean,1,2017
 White,Good,6,Rwd,Gas,Ford,Transit,175075,23999,Clean,1,2018
-White,Good,8,Rwd,Gas,Chevrolet,Express,120000,9500,Clean,1,1983
 Black,Good,4,4Wd,Gas,Audi,A4,171160,4695,Clean,1,2006
 Brown,Fair,8,4Wd,Gas,Gmc,Yukon,268361,3000,Clean,1,2003
 Blue,Excellent,4,Fwd,Gas,Toyota,Matrix,147000,7000,Clean,1,2006
@@ -23860,7 +23966,6 @@ Black,Good,8,Fwd,Gas,Cadillac,Deville,174000,2500,Clean,1,2004
 Black,Excellent,4,Fwd,Gas,Toyota,Camry,44000,25000,Clean,1,2020
 Black,Good,6,Fwd,Gas,Lexus,Es,135000,4650,Clean,1,1997
 Black,Like New,8,4Wd,Gas,Gmc,Yukon,140000,10900,Clean,1,2011
-White,Good,8,Rwd,Gas,Ford,F350,51612,7950,Clean,0,1982
 Black,Good,8,4Wd,Gas,Ford,F150,97000,15200,Rebuilt,1,2014
 Custom,Good,6,4Wd,Gas,Jeep,Cherokee,208000,9500,Clean,0,1998
 Silver,Good,6,Fwd,Gas,Toyota,Highlander,174500,6500,Clean,1,2007
@@ -24145,9 +24250,9 @@ Silver,Good,6,4Wd,Gas,Chevrolet,Avalanche,212000,4200,Clean,1,2002
 Black,Good,6,4Wd,Gas,Nissan,Frontier,213000,5200,Clean,1,2005
 White,Fair,6,Rwd,Diesel,Dodge,Ram,270000,11500,Clean,0,2002
 Blue,Excellent,8,Rwd,Gas,Toyota,Tundra,92800,14995,Clean,1,2005
-Red,Excellent,4,4Wd,Gas,Dodge,Ram,70000,10500,Clean,0,1982
 White,Good,8,4Wd,Diesel,Ford,F250,199000,18500,Clean,1,2001
 Grey,Good,4,Fwd,Gas,Honda,Accord,207000,6000,Clean,0,2010
+Silver,Excellent,4,4Wd,Gas,Chevrolet,Trax,55000,10700,Salvage,1,2018
 Black,Good,8,4Wd,Gas,Chevrolet,Suburban,232000,6500,Clean,1,2008
 Black,Excellent,8,4Wd,Gas,Dodge,Ram,262000,6000,Clean,1,2003
 Silver,Like New,4,4Wd,Gas,Mercedes,C300,98000,16900,Clean,1,2015
@@ -24226,7 +24331,6 @@ White,Good,6,4Wd,Gas,Ford,F150,40000,29500,Rebuilt,1,2020
 Grey,Like New,4,Fwd,Gas,Toyota,Camry,13000,18300,Rebuilt,1,2018
 Grey,Excellent,4,Fwd,Gas,Dodge,Dart,56000,8900,Rebuilt,1,2016
 Silver,Excellent,4,Fwd,Gas,Ford,Focus,165550,9800,Clean,0,2013
-Blue,Good,6,Rwd,Gas,Chevrolet,Camaro,129,4000,Clean,1,1982
 Grey,Good,4,Fwd,Diesel,Volkswagen,Passat,67397,9500,Rebuilt,1,2012
 Grey,Good,4,Fwd,Gas,Nissan,Altima,93000,6000,Salvage,1,2013
 Silver,Like New,4,Fwd,Gas,Toyota,Corolla,140000,12000,Clean,1,2016
@@ -24276,7 +24380,6 @@ Brown,Excellent,4,Fwd,Gas,Fiat,500,60000,10250,Clean,0,2015
 Brown,Good,6,Rwd,Gas,Ford,E150,300,2500,Rebuilt,1,2003
 Black,Like New,4,4Wd,Gas,Subaru,Outback,60500,22500,Clean,1,2019
 White,Excellent,6,Rwd,Gas,Lexus,Is,71000,19500,Rebuilt,1,2015
-White,Good,4,Rwd,Gas,Volkswagen,Vanagon,290650,19500,Clean,0,1983
 Brown,Good,4,Rwd,Gas,Volkswagen,Vanagon,184800,18900,Clean,0,1984
 Grey,Fair,6,Fwd,Gas,Ford,F250,136000,1000,Clean,0,1985
 Red,Good,6,4Wd,Gas,Jeep,Wrangler,204698,8500,Clean,0,2000
@@ -24382,6 +24485,7 @@ Black,Good,4,Fwd,Hybrid,Honda,Civic,346000,3900,Clean,1,2009
 White,Excellent,6,4Wd,Gas,Toyota,Highlander,116000,17900,Clean,1,2013
 Grey,Good,4,Fwd,Gas,Ford,Escape,205000,2895,Clean,1,2005
 White,Good,4,Rwd,Gas,Dodge,Ram,132000,3800,Clean,1,1998
+Silver,New,4,Fwd,Gas,Toyota,Corolla,1291,38000,Lien,1,2023
 White,Excellent,4,Fwd,Gas,Chrysler,Pt,89175,5500,Clean,0,2007
 Blue,Excellent,8,Rwd,Gas,Ford,F150,230000,13500,Clean,1,2014
 White,Excellent,6,4Wd,Gas,Nissan,Murano,145000,6999,Clean,1,2014
@@ -24545,6 +24649,7 @@ White,Excellent,8,Rwd,Gas,Ford,F250,129755,8450,Clean,1,2005
 Grey,Excellent,4,Fwd,Gas,Honda,Civic,194560,5500,Clean,1,2012
 Green,Good,4,4Wd,Gas,Jeep,Wrangler,127500,13000,Clean,0,2005
 Blue,Good,8,4Wd,Gas,Ford,F150,187908,4500,Clean,1,1999
+Red,Good,8,Rwd,Gas,Jaguar,Xk8,152000,5875,Clean,1,1998
 Silver,Excellent,4,Fwd,Gas,Hyundai,Sonata,154000,6990,Clean,1,2016
 Silver,Excellent,6,Fwd,Gas,Chevrolet,Impala,67664,9995,Clean,1,2014
 Blue,Excellent,6,Fwd,Gas,Ford,Edge,167000,5500,Clean,1,2008
@@ -24570,6 +24675,7 @@ White,Excellent,4,4Wd,Gas,Nissan,Rogue,146000,6200,Clean,1,2012
 Blue,Excellent,8,4Wd,Diesel,Gmc,Sierra,101000,24850,Clean,1,2005
 Grey,Excellent,8,Rwd,Gas,Toyota,Tundra,151000,17500,Clean,1,2011
 Black,Excellent,8,Rwd,Gas,Bmw,650I,137600,11500,Clean,1,2008
+Black,Like New,4,Fwd,Gas,Toyota,Camry,1200,42000,Clean,1,2023
 Brown,Excellent,4,Fwd,Gas,Fiat,500,90000,5900,Clean,1,2015
 Brown,Good,6,Fwd,Gas,Chevrolet,Equinox,188000,3200,Clean,1,2010
 Black,Good,4,Fwd,Gas,Nissan,Altima,167959,4795,Clean,1,2012
@@ -24649,6 +24755,7 @@ Grey,Good,4,Fwd,Gas,Nissan,Pathfinder,172000,2500,Clean,1,2015
 White,Good,6,Fwd,Gas,Ford,Transit,186109,15900,Clean,1,2016
 Black,Excellent,4,4Wd,Gas,Audi,A4,157000,5500,Clean,1,2010
 White,Excellent,4,Rwd,Gas,Nissan,Nv200,51000,23000,Clean,1,2019
+Blue,Excellent,6,Rwd,Gas,Maserati,Quattroporte,84000,23818,Clean,1,2015
 White,Like New,4,Rwd,Gas,Toyota,Tacoma,2050,28750,Clean,1,2022
 Silver,Fair,4,Fwd,Other,Chevrolet,Malibu,169500,1800,Clean,1,2010
 White,Good,8,4Wd,Gas,Dodge,Durango,189000,2200,Clean,1,2003
@@ -24666,6 +24773,7 @@ Black,Excellent,4,Fwd,Gas,Kia,Forte,160000,4500,Clean,1,2013
 Brown,Excellent,4,Fwd,Gas,Hyundai,Tucson,40700,16900,Clean,1,2016
 Red,Excellent,4,Fwd,Gas,Hyundai,Elantra,157000,6500,Clean,1,2014
 Black,Excellent,6,Rwd,Gas,Mercedes,E350,116000,7500,Clean,1,2012
+Blue,Like New,8,Rwd,Gas,Jaguar,Xk8,8400,30000,Clean,1,2004
 Red,Excellent,8,Rwd,Gas,Chevrolet,Corvette,29750,26900,Clean,1,2004
 White,Excellent,4,Fwd,Gas,Ford,Transit,207000,11200,Clean,1,2014
 White,Excellent,4,Fwd,Gas,Nissan,Altima,61000,12900,Clean,1,2017
@@ -24864,7 +24972,6 @@ Blue,Excellent,6,Fwd,Gas,Kia,Sedona,53500,27000,Clean,1,2018
 White,Like New,0,Fwd,Electric,Nissan,Leaf,20200,25000,Rebuilt,1,2022
 White,Excellent,6,Rwd,Gas,Ford,Mustang,190000,4500,Clean,1,2001
 Black,Like New,8,4Wd,Gas,Hummer,H2,91327,47900,Clean,1,2008
-Green,Excellent,4,Fwd,Gas,Ford,Focus,77814,8000,Clean,1,1981
 White,Good,10,Rwd,Gas,Ford,E350,200000,9000,Clean,1,2000
 Grey,Like New,6,Fwd,Gas,Dodge,Grand,38000,14500,Salvage,1,2014
 Silver,Fair,6,Fwd,Gas,Nissan,Altima,164888,4200,Clean,1,2010
@@ -25012,6 +25119,7 @@ White,Good,6,4Wd,Gas,Toyota,Tacoma,220000,11000,Clean,1,2010
 Red,Excellent,4,Fwd,Gas,Nissan,Rogue,144000,6900,Clean,1,2013
 White,Excellent,4,Fwd,Gas,Toyota,Camry,136000,3500,Clean,1,2001
 White,Good,8,4Wd,Diesel,Ford,F350,260000,17500,Clean,1,2001
+Silver,Good,8,Rwd,Gas,Dodge,Magnum,186604,2500,Clean,1,2005
 Blue,Good,6,Rwd,Gas,Mercedes,Slk,122000,5500,Clean,1,2001
 White,Fair,8,Rwd,Gas,Ford,Expedition,216700,3500,Clean,1,2005
 White,Good,6,4Wd,Gas,Hyundai,Santa,200000,2800,Clean,1,2005
@@ -25062,6 +25170,7 @@ Grey,Excellent,6,Rwd,Gas,Dodge,Ram,189000,7000,Clean,1,2003
 White,Good,8,Rwd,Gas,Ford,Crown,138500,6795,Clean,1,2009
 Purple,Good,6,Rwd,Gas,Ford,Mustang,200000,6000,Clean,1,2004
 Silver,Excellent,4,Fwd,Gas,Hyundai,Elantra,117000,9000,Clean,1,2017
+Blue,Like New,8,Rwd,Gas,Jaguar,Xk8,8200,30000,Clean,1,2004
 White,Good,6,Fwd,Gas,Volkswagen,Eurovan,227000,12500,Clean,1,2001
 Green,Good,6,4Wd,Gas,Toyota,Tacoma,300000,8000,Clean,0,1998
 Black,Good,6,4Wd,Gas,Gmc,Sierra,223050,13000,Clean,1,1999
@@ -25076,6 +25185,7 @@ Blue,Good,4,Fwd,Gas,Hyundai,Sonata,159943,3491,Clean,0,2010
 Black,Fair,4,Fwd,Gas,Volkswagen,Jetta,142000,5000,Clean,1,2009
 Blue,Good,8,Rwd,Gas,Dodge,Ram,121000,7000,Clean,1,2006
 Red,Excellent,6,Rwd,Gas,Dodge,Dakota,177000,5950,Clean,1,2007
+Silver,Good,8,Rwd,Gas,Jaguar,Xk8,70000,12500,Clean,1,2005
 Blue,Excellent,8,4Wd,Gas,Dodge,Durango,165000,3500,Clean,1,2002
 Red,Excellent,0,Fwd,Electric,Kia,Soul,109252,10900,Clean,1,2016
 White,Good,4,Fwd,Gas,Chevrolet,Volt,140000,6100,Clean,1,2014
@@ -25397,7 +25507,6 @@ Black,Good,4,4Wd,Gas,Honda,Element,200300,5000,Clean,1,2004
 White,Like New,6,Fwd,Gas,Pontiac,G6,4200,1200,Clean,1,2005
 Red,Excellent,4,Fwd,Gas,Chevrolet,Cruze,38000,18500,Clean,1,2017
 White,Excellent,4,Fwd,Gas,Chevrolet,Malibu,78000,9999,Rebuilt,1,2017
-White,Good,8,Rwd,Gas,Gmc,Sierra,286000,7495,Clean,0,1983
 Silver,Good,4,Fwd,Gas,Ford,Escape,111321,6900,Clean,1,2012
 Blue,Good,4,Fwd,Gas,Ford,Fusion,136000,2650,Clean,1,2011
 Blue,Good,8,4Wd,Gas,Chevrolet,Avalanche,207000,3950,Clean,1,2007
@@ -25449,6 +25558,7 @@ White,Excellent,4,Fwd,Gas,Toyota,Camry,222000,5500,Clean,1,2010
 Blue,Good,4,4Wd,Gas,Subaru,Wrx,64212,36000,Clean,0,2015
 Silver,Excellent,4,Fwd,Gas,Ford,Fusion,59500,19500,Clean,1,2019
 Purple,Excellent,3,4Wd,Gas,Buick,Encore,15650,18995,Salvage,1,2021
+Red,Excellent,8,Rwd,Gas,Jaguar,Xk8,118950,10500,Clean,1,2003
 Blue,Good,8,Rwd,Gas,Chrysler,300,104000,10000,Rebuilt,1,2006
 Silver,Excellent,6,4Wd,Gas,Bmw,3,119000,5500,Clean,1,2007
 White,Good,4,Fwd,Gas,Nissan,Nv200,68000,15400,Clean,1,2017
@@ -25483,6 +25593,7 @@ White,Good,4,Rwd,Gas,Mazda,Miata,48000,14400,Salvage,0,2013
 Black,Excellent,8,4Wd,Gas,Bmw,750Li,150025,14501,Clean,1,2011
 White,Fair,10,Rwd,Gas,Ford,E350,250000,2000,Clean,1,2001
 Red,Fair,6,Rwd,Gas,Gmc,Sierra,229730,5500,Clean,1,2001
+White,Like New,4,Fwd,Gas,Kia,Sportage,11800,27900,Clean,1,2023
 Blue,Good,6,4Wd,Gas,Nissan,Pathfinder,163000,4800,Clean,1,2006
 White,Excellent,6,Rwd,Gas,Chevrolet,Express,172811,8700,Clean,1,2011
 Silver,Excellent,4,Fwd,Gas,Mitsubishi,Eclipse,109500,5000,Clean,1,2001
@@ -25663,6 +25774,7 @@ White,Fair,10,Rwd,Gas,Ford,E350,250000,3000,Clean,1,2001
 White,Excellent,6,Fwd,Gas,Chevrolet,Traverse,121100,5900,Clean,1,2009
 Blue,Like New,4,Fwd,Gas,Chevrolet,Equinox,150000,4800,Clean,1,2015
 White,Excellent,4,4Wd,Gas,Honda,Crv,8900,32799,Clean,1,2022
+White,Like New,4,Fwd,Gas,Chevrolet,Trax,27500,10900,Rebuilt,1,2020
 Red,Excellent,6,4Wd,Gas,Ford,Fusion,93079,7550,Clean,1,2010
 Blue,Like New,4,Fwd,Gas,Ford,Escape,20606,15595,Clean,1,2017
 Black,Excellent,6,4Wd,Gas,Jeep,Liberty,141772,6595,Clean,1,2011
@@ -25691,7 +25803,6 @@ Black,Excellent,8,4Wd,Gas,Chevrolet,Silverado,140000,13000,Clean,1,2007
 Brown,Good,8,Rwd,Gas,Chevrolet,Avalanche,224125,2999,Clean,1,2003
 White,Excellent,8,Fwd,Gas,Cadillac,Eldorado,43302,8500,Clean,1,1993
 Grey,Like New,6,Fwd,Gas,Nissan,Altima,21000,9800,Salvage,1,2015
-Red,Excellent,8,Rwd,Gas,Chevrolet,Corvette,11700,24000,Clean,1,1981
 Silver,Excellent,4,Fwd,Gas,Chevrolet,Cruze,185124,3999,Clean,1,2012
 Grey,Excellent,4,Fwd,Gas,Jeep,Patriot,122451,2999,Clean,1,2009
 Blue,Good,4,Fwd,Gas,Ford,Fiesta,152412,1999,Clean,1,2012
@@ -25708,11 +25819,11 @@ Black,Excellent,4,4Wd,Gas,Gmc,Terrain,64000,13999,Salvage,1,2015
 White,Good,6,4Wd,Gas,Dodge,Charger,51000,10900,Salvage,1,2014
 Black,Good,8,Rwd,Gas,Chrysler,300,180123,4000,Salvage,1,2014
 Black,Good,6,Fwd,Gas,Bmw,325I,260000,2495,Clean,1,2005
-Silver,Excellent,4,Rwd,Gas,Ford,Ranger,47932,6800,Clean,0,1983
 Purple,Good,8,4Wd,Gas,Ford,Explorer,155643,4500,Rebuilt,1,2006
 White,Good,8,4Wd,Diesel,Ford,F350,163000,18000,Clean,1,2002
 Green,Good,8,Rwd,Gas,Dodge,Ram,111000,8500,Clean,1,1996
 Silver,Like New,8,Rwd,Gas,Ford,Mustang,22170,28900,Clean,1,2011
+Silver,Excellent,8,Rwd,Gas,Jaguar,Xk8,55500,17500,Clean,1,2005
 White,Excellent,4,Fwd,Gas,Chevrolet,Spark,29000,9995,Rebuilt,1,2021
 Silver,Fair,6,Fwd,Gas,Honda,Odyssey,208000,3300,Clean,1,2006
 Black,Excellent,4,4Wd,Gas,Jeep,Cherokee,151530,7500,Clean,1,2001
@@ -25765,6 +25876,7 @@ White,Good,6,4Wd,Gas,Ford,F150,162000,12000,Clean,1,2012
 Silver,Like New,6,4Wd,Gas,Chevrolet,Blazer,36000,36900,Clean,1,2020
 Blue,Salvage,4,4Wd,Gas,Audi,A4,228000,1200,Clean,1,2007
 Silver,Like New,8,Rwd,Gas,Chevrolet,Express,40506,52500,Clean,1,2018
+Red,Like New,4,Rwd,Gas,Chevrolet,Trax,111000,7900,Clean,1,2016
 Black,Excellent,6,4Wd,Gas,Mercedes,C300,113000,12000,Clean,1,2013
 Blue,Good,6,Rwd,Gas,Chevrolet,Camaro,99000,11500,Clean,1,2011
 Grey,Excellent,6,Fwd,Gas,Acura,Tl,147455,10995,Clean,1,2009
@@ -25779,6 +25891,7 @@ Black,Excellent,6,Rwd,Gas,Ford,Mustang,103000,11500,Clean,1,2014
 Black,Excellent,4,4Wd,Gas,Audi,A4,128000,8000,Clean,0,2003
 Grey,Good,6,Fwd,Gas,Chrysler,Town,216000,6500,Clean,1,2014
 Black,Like New,6,4Wd,Gas,Lexus,Rx,74000,32000,Clean,1,2016
+Blue,Like New,6,Rwd,Gas,Ford,Mustang,2100,23000,Clean,1,2023
 Black,Excellent,6,4Wd,Gas,Bmw,328Xi,128000,9799,Clean,1,2010
 Black,Excellent,4,Fwd,Gas,Ford,Fusion,27200,19800,Clean,1,2020
 Yellow,Like New,4,Fwd,Gas,Jeep,Renegade,91700,10599,Rebuilt,1,2017
@@ -25812,6 +25925,7 @@ Silver,Excellent,6,Fwd,Gas,Lexus,Es,100000,7599,Clean,1,2002
 Silver,Excellent,8,4Wd,Gas,Gmc,Sierra,55971,20000,Clean,1,2013
 Silver,Excellent,8,4Wd,Gas,Dodge,Ram,139000,19000,Clean,1,2015
 Grey,Like New,6,4Wd,Gas,Chevrolet,Traverse,97000,11500,Clean,1,2014
+White,Like New,4,Fwd,Gas,Kia,Sportage,11000,27900,Clean,1,2023
 White,Good,8,4Wd,Gas,Dodge,Sprinter,312000,9500,Clean,1,2008
 Red,Good,4,Fwd,Gas,Jeep,Compass,115000,9250,Clean,1,2016
 Black,Good,8,4Wd,Gas,Chevrolet,Suburban,300000,2800,Clean,1,2003
@@ -25890,6 +26004,7 @@ White,Good,4,Fwd,Hybrid,Toyota,Prius,294,6990,Clean,1,2013
 Silver,Excellent,6,Fwd,Gas,Ford,Taurus,162000,4900,Clean,1,2013
 Silver,Good,8,4Wd,Gas,Ford,F250,81500,24500,Clean,1,2012
 Grey,Salvage,4,4Wd,Gas,Subaru,Impreza,115000,4800,Salvage,1,2014
+Grey,New,4,4Wd,Gas,Ford,Maverick,10,38000,Clean,1,2023
 Black,Good,4,Rwd,Gas,Bmw,528I,155000,9000,Rebuilt,1,2012
 Blue,Good,4,Fwd,Gas,Honda,Crv,202000,6500,Salvage,1,2006
 Black,Excellent,6,4Wd,Gas,Cadillac,Escalade,99450,19500,Clean,0,2010
@@ -26033,6 +26148,7 @@ Green,Excellent,4,4Wd,Gas,Ford,Escape,144000,7700,Clean,1,2014
 Black,Good,8,Rwd,Gas,Nissan,Titan,160000,10700,Clean,1,2008
 Grey,Good,4,Fwd,Gas,Ford,Escape,139000,8400,Clean,1,2014
 Brown,Excellent,6,Fwd,Gas,Lexus,Es,135000,3300,Salvage,1,2003
+Black,Excellent,8,Rwd,Gas,Jaguar,Xk8,99701,5000,Clean,1,2003
 White,Good,8,Rwd,Diesel,Chevrolet,Silverado,165000,45000,Clean,1,2016
 Black,Excellent,6,Rwd,Gas,Bmw,535I,61500,25000,Clean,1,2016
 White,Excellent,4,4Wd,Gas,Ford,Escape,169877,5400,Clean,1,2012
@@ -26111,6 +26227,7 @@ Silver,Like New,6,Fwd,Gas,Buick,Regal,44189,5800,Clean,1,2003
 Grey,Good,6,Fwd,Gas,Toyota,Sienna,223000,5100,Clean,1,2004
 Blue,Excellent,4,4Wd,Gas,Subaru,Outback,123489,12900,Clean,1,2013
 Silver,Excellent,4,4Wd,Gas,Subaru,Outback,121954,12900,Clean,1,2012
+Grey,Good,8,4Wd,Gas,Dodge,Magnum,180000,5500,Clean,1,2006
 Blue,Excellent,4,4Wd,Gas,Subaru,Outback,109340,13900,Clean,1,2012
 Silver,Excellent,4,4Wd,Gas,Subaru,Forester,91085,19900,Clean,1,2019
 Silver,Excellent,8,Rwd,Gas,Mercury,Grand,48000,9800,Clean,1,1993
@@ -26141,6 +26258,7 @@ White,Like New,8,Rwd,Gas,Chevrolet,Express,25465,41000,Clean,1,2021
 Blue,Like New,6,4Wd,Gas,Ford,Explorer,112000,13000,Clean,1,2016
 Silver,Excellent,4,Rwd,Gas,Honda,S2000,68000,25500,Clean,0,2003
 White,Fair,4,4Wd,Gas,Ford,Escape,270000,1500,Clean,1,2007
+White,New,4,Fwd,Gas,Mazda,3,4000,26000,Clean,1,2023
 Grey,Good,6,4Wd,Diesel,Ford,F250,289678,19000,Clean,1,2008
 Yellow,Excellent,4,Fwd,Gas,Honda,Fit,68000,13500,Salvage,1,2016
 Black,Good,4,Fwd,Gas,Volvo,S60,134314,8000,Clean,1,2015
@@ -26373,7 +26491,6 @@ Blue,Good,4,Rwd,Gas,Ford,Ranger,157367,2999,Clean,0,1996
 Silver,Excellent,6,Rwd,Gas,Lexus,Is,69520,9700,Salvage,1,2007
 Black,Good,4,Rwd,Gas,Bmw,528I,76361,20500,Clean,1,2016
 White,Good,4,Fwd,Other,Honda,Civic,29000,5000,Clean,1,2002
-Silver,Excellent,4,Fwd,Gas,Honda,Accord,67838,10000,Clean,0,1981
 Silver,Good,4,Rwd,Gas,Mazda,Miata,122000,6900,Salvage,1,2007
 Silver,Good,6,4Wd,Gas,Audi,A6,142071,7900,Clean,1,2012
 White,Excellent,4,Fwd,Gas,Mazda,3,114596,6900,Rebuilt,1,2012
@@ -26501,7 +26618,6 @@ Black,Like New,4,Fwd,Gas,Volkswagen,Jetta,33000,25000,Clean,0,2019
 White,Like New,4,4Wd,Gas,Ford,Escape,122000,12500,Clean,1,2018
 Red,Excellent,8,Rwd,Gas,Chevrolet,Corvette,19000,21000,Clean,0,2000
 White,Like New,4,Fwd,Gas,Toyota,Corolla,22000,23000,Clean,1,2020
-Grey,Good,8,Rwd,Gas,Ford,Mustang,35000,10000,Clean,0,1980
 Blue,Good,6,4Wd,Gas,Subaru,Outback,186000,8000,Clean,1,2012
 White,Good,0,Fwd,Electric,Nissan,Leaf,64000,4000,Clean,1,2011
 Blue,Good,6,Fwd,Gas,Toyota,Avalon,112500,7000,Salvage,1,2012
@@ -26653,6 +26769,7 @@ White,Good,4,Fwd,Gas,Toyota,Camry,112345,7500,Salvage,1,2011
 Custom,Excellent,8,Rwd,Gas,Toyota,Tundra,158350,20999,Clean,1,2008
 White,Good,6,Fwd,Gas,Kia,Optima,100000,6500,Clean,1,2011
 Silver,Excellent,8,4Wd,Gas,Toyota,Sequoia,53000,29500,Salvage,1,2015
+Silver,New,4,4Wd,Gas,Toyota,Rav4,2345,43500,Clean,1,2023
 Grey,Excellent,8,4Wd,Gas,Toyota,Tundra,198888,16000,Clean,1,2012
 Grey,Like New,4,Fwd,Gas,Hyundai,Sonata,8000,33000,Clean,1,2022
 Blue,Good,4,4Wd,Gas,Subaru,Outback,172400,7300,Clean,0,2012
@@ -26700,6 +26817,7 @@ White,Good,4,Fwd,Gas,Gmc,Terrain,166500,8000,Clean,1,2011
 White,Good,5,4Wd,Gas,Volvo,Xc90,150000,7500,Clean,1,2008
 White,Good,6,Fwd,Gas,Chrysler,Town,213000,2100,Clean,1,2001
 White,Excellent,4,Fwd,Gas,Nissan,Rogue,62800,11900,Salvage,1,2015
+White,Like New,4,Rwd,Gas,Toyota,Tacoma,16000,47000,Clean,1,2023
 Grey,Good,4,4Wd,Gas,Honda,Element,171000,4700,Clean,1,2004
 Silver,Good,8,4Wd,Gas,Mercedes,Gl450,187000,5000,Clean,1,2010
 Grey,Excellent,8,4Wd,Diesel,Ford,F250,172000,29500,Clean,1,2013
@@ -27059,6 +27177,7 @@ Silver,Excellent,4,Fwd,Gas,Subaru,Impreza,182250,12000,Clean,0,2005
 Black,Excellent,8,Rwd,Gas,Bmw,M3,150000,15300,Salvage,1,2009
 Blue,Salvage,6,4Wd,Gas,Bmw,X5,119000,6900,Salvage,1,2012
 Red,Good,8,Rwd,Gas,Dodge,Ram,290652,2300,Clean,1,1999
+Blue,Like New,6,4Wd,Gas,Toyota,Highlander,8753,51000,Clean,1,2023
 Silver,Good,4,Fwd,Hybrid,Toyota,Camry,204981,5500,Salvage,1,2009
 Grey,Like New,6,Fwd,Gas,Jeep,Cherokee,122600,13000,Clean,1,2016
 Grey,Excellent,6,4Wd,Diesel,Dodge,Ram,62200,45000,Lien,1,2016
@@ -27121,6 +27240,7 @@ Black,Good,4,Fwd,Gas,Pontiac,G6,177281,3500,Clean,1,2007
 Green,Excellent,6,Rwd,Gas,Bmw,Z3,60169,10200,Clean,0,2000
 Silver,Good,4,4Wd,Gas,Nissan,Versa,110000,7550,Clean,1,2015
 Black,Excellent,8,Rwd,Gas,Chevrolet,Camaro,76700,9000,Clean,1,1997
+White,Like New,6,4Wd,Gas,Toyota,Tacoma,4875,44500,Clean,1,2023
 Grey,Excellent,6,Rwd,Gas,Lexus,Is250,108000,17500,Clean,1,2013
 Silver,Good,4,Fwd,Gas,Toyota,Prius,123000,11999,Salvage,1,2014
 Green,Good,8,Fwd,Gas,Gmc,Sierra,115000,16000,Clean,1,2005
@@ -27145,7 +27265,6 @@ Grey,Good,6,4Wd,Gas,Lexus,Rx,135000,18000,Salvage,1,2013
 Grey,Excellent,8,Rwd,Gas,Dodge,Ram,159950,5750,Clean,1,2002
 Green,Good,6,Fwd,Hybrid,Toyota,Highlander,212900,8500,Clean,1,2008
 Grey,Good,4,4Wd,Gas,Subaru,Forester,90000,5450,Salvage,1,2009
-White,Good,4,Fwd,Gas,Honda,Accord,168000,6500,Salvage,1,1983
 White,Like New,4,Rwd,Gas,Chevrolet,Spark,29000,9500,Clean,1,2013
 Silver,Excellent,6,Fwd,Gas,Toyota,Avalon,80000,12000,Salvage,1,2013
 Silver,Excellent,6,Rwd,Gas,Bmw,335I,42000,15500,Salvage,1,2012
@@ -27313,6 +27432,7 @@ Green,Excellent,6,4Wd,Gas,Jeep,Wrangler,98038,22800,Clean,0,1996
 Blue,Excellent,6,Rwd,Gas,Nissan,Pathfinder,140000,7000,Clean,1,2008
 Black,Good,6,Rwd,Gas,Lexus,Gs,180000,5900,Clean,1,2006
 Silver,Good,4,4Wd,Gas,Audi,A4,85000,5700,Clean,1,2003
+Black,Like New,8,Rwd,Gas,Bmw,M5,46700,42444,Rebuilt,0,2001
 White,Like New,4,Fwd,Gas,Volkswagen,Tiguan,38988,12999,Salvage,1,2018
 White,Excellent,6,Fwd,Diesel,Dodge,Ram,106989,23995,Clean,1,2002
 Green,Excellent,6,4Wd,Gas,Jeep,Wrangler,22000,48000,Clean,1,2018
@@ -27484,6 +27604,7 @@ Black,Like New,6,4Wd,Diesel,Mercedes,Ml350,105000,12500,Clean,1,2010
 Grey,Fair,6,Fwd,Gas,Hyundai,Sonata,180030,3000,Clean,1,2009
 Black,Good,4,Rwd,Gas,Hyundai,Genesis,144300,6500,Clean,1,2010
 Blue,Like New,4,Fwd,Gas,Kia,Rio,7200,13000,Rebuilt,1,2021
+Black,Good,6,Rwd,Gas,Dodge,Magnum,88217,6500,Clean,1,2005
 Silver,Good,6,Fwd,Gas,Audi,Q7,169644,5600,Lien,1,2011
 White,Good,6,Rwd,Diesel,Ford,F250,311441,8500,Clean,1,2004
 Brown,Excellent,8,4Wd,Gas,Chevrolet,Tahoe,240000,4200,Clean,1,1996
@@ -27677,6 +27798,7 @@ Black,Like New,6,Rwd,Gas,Chrysler,300,111842,9999,Clean,1,2006
 Grey,Good,4,Fwd,Gas,Toyota,Prius,136700,7975,Clean,1,2008
 Blue,Like New,4,Fwd,Other,Chevrolet,Volt,71000,10000,Clean,1,2013
 Silver,Excellent,4,Fwd,Gas,Kia,Soul,19488,12000,Rebuilt,1,2019
+White,New,4,Fwd,Gas,Honda,Accord,14000,30000,Clean,1,2023
 White,Good,8,Rwd,Gas,Chevrolet,Silverado,101000,11000,Clean,1,2004
 White,Good,8,Rwd,Gas,Ford,F350,104965,7000,Clean,1,1991
 White,Excellent,8,4Wd,Gas,Ford,F150,16000,41500,Clean,1,2021
@@ -27893,6 +28015,7 @@ Black,Excellent,6,Fwd,Gas,Hyundai,Santa,166112,6590,Clean,1,2009
 Grey,Excellent,4,Fwd,Gas,Hyundai,Elantra,154112,4599,Clean,1,2010
 White,Good,8,Rwd,Gas,Lincoln,Town,84068,15000,Clean,0,2007
 Brown,Like New,6,Fwd,Gas,Saturn,Vue,86682,6995,Clean,1,2008
+Grey,New,4,Fwd,Gas,Toyota,Highlander,7000,32000,Clean,1,2023
 Black,Excellent,6,Rwd,Gas,Mercedes,C300,141321,7000,Clean,1,2011
 Black,Excellent,8,4Wd,Gas,Cadillac,Escalade,187578,13450,Clean,1,2008
 White,Excellent,8,Rwd,Gas,Chevrolet,Express,128000,7800,Clean,1,2005
@@ -27945,6 +28068,7 @@ Silver,Excellent,4,Fwd,Gas,Toyota,Camry,187000,7500,Clean,1,2013
 Grey,Good,6,Rwd,Gas,Ford,Mustang,87900,10500,Clean,1,2008
 White,Excellent,6,Fwd,Gas,Toyota,Camry,196000,5800,Clean,1,2012
 Grey,Good,6,Rwd,Gas,Bmw,535I,149200,12000,Clean,1,2013
+Red,Good,8,Rwd,Gas,Jaguar,Xk8,81000,12000,Clean,1,2006
 Silver,Good,4,Fwd,Gas,Honda,Civic,238000,4600,Clean,1,2007
 Black,Good,8,Rwd,Gas,Chevrolet,Suburban,207060,9650,Clean,1,2008
 White,Excellent,4,Fwd,Gas,Hyundai,Sonata,119342,7900,Clean,1,2012
@@ -27980,6 +28104,7 @@ White,Excellent,4,4Wd,Gas,Dodge,Ram,147000,21000,Clean,1,2017
 Black,Excellent,6,4Wd,Gas,Chevrolet,Equinox,112000,9800,Clean,1,2013
 Red,Excellent,4,Fwd,Gas,Nissan,Altima,180000,5900,Clean,1,2014
 Orange,Good,4,4Wd,Gas,Honda,Element,192000,5300,Clean,1,2003
+Grey,Like New,4,Fwd,Hybrid,Ford,Maverick,996,37960,Clean,1,2023
 Red,Excellent,8,Rwd,Gas,Chevrolet,Corvette,61000,33000,Rebuilt,0,2008
 Blue,Excellent,8,4Wd,Gas,Bmw,X5,117520,19500,Clean,1,2016
 Black,Like New,4,Fwd,Gas,Chevrolet,Cruze,90000,8900,Clean,1,2016
@@ -28187,7 +28312,6 @@ Grey,New,4,Fwd,Gas,Toyota,Camry,25040,24500,Clean,1,2019
 White,Excellent,6,Rwd,Gas,Chevrolet,Silverado,139000,16500,Clean,1,2014
 Silver,Good,4,4Wd,Gas,Honda,Element,153399,6900,Clean,1,2006
 Blue,Good,8,Rwd,Gas,Mercury,Grand,220000,2800,Clean,1,2000
-Red,Excellent,8,Rwd,Gas,Chevrolet,Malibu,100,17900,Clean,1,1981
 Grey,Excellent,8,Rwd,Gas,Ford,Mustang,104000,17500,Clean,0,2003
 White,Excellent,6,Rwd,Gas,Jeep,Grand,161242,8200,Clean,1,2011
 Custom,Good,4,4Wd,Gas,Subaru,Outback,220692,5000,Clean,1,2009
@@ -28272,7 +28396,6 @@ Red,Like New,4,Fwd,Gas,Mini Cooper,S,23000,27000,Clean,1,2020
 Black,Excellent,6,Rwd,Gas,Infiniti,G35,200000,5900,Clean,1,2007
 White,Good,8,4Wd,Diesel,Ford,F350,269000,7500,Clean,1,2005
 Silver,Fair,6,Fwd,Gas,Nissan,Quest,186297,1000,Clean,1,2007
-Blue,Good,8,Rwd,Gas,Ford,F150,97366,1900,Clean,1,1980
 Black,Excellent,8,Rwd,Gas,Mercedes,S550,114879,23900,Clean,1,2014
 Black,Like New,8,Rwd,Diesel,Ford,F450,209040,38500,Clean,1,2012
 White,Good,4,Fwd,Gas,Ford,Transit,131000,13900,Clean,1,2016
@@ -28523,11 +28646,13 @@ Grey,Excellent,4,Fwd,Gas,Ford,Focus,129000,5900,Clean,1,2013
 Silver,Good,6,Rwd,Gas,Toyota,4Runner,270000,6350,Clean,1,2005
 Black,Excellent,8,Rwd,Gas,Land Rover,Range,163254,8999,Clean,1,2011
 Purple,Excellent,6,Rwd,Gas,Jeep,Liberty,225866,4200,Clean,1,2008
+Blue,Like New,8,Rwd,Gas,Jaguar,Xk8,102918,9100,Clean,1,2003
 Grey,Good,4,Fwd,Gas,Nissan,Altima,138183,5500,Clean,1,2009
 White,Good,4,Fwd,Gas,Honda,Civic,212000,3500,Clean,0,1998
 Black,Good,8,Rwd,Gas,Chevrolet,Suburban,201834,15000,Clean,1,2018
 Black,Like New,8,Rwd,Gas,Chevrolet,Corvette,6000,50500,Clean,1,2014
 Green,Excellent,6,4Wd,Gas,Subaru,Outback,85781,19989,Clean,1,2016
+White,Good,8,Rwd,Gas,Jaguar,Xk8,130000,6900,Clean,1,2001
 Grey,Excellent,4,Fwd,Gas,Chevrolet,Malibu,165000,4850,Clean,1,2008
 Black,Excellent,6,Rwd,Gas,Kia,Sedona,228600,2990,Clean,1,2011
 Grey,Good,6,Fwd,Gas,Ford,Taurus,169000,2600,Clean,1,2002
@@ -28846,7 +28971,6 @@ White,Like New,4,Rwd,Gas,Ford,Ranger,70750,7850,Clean,1,2011
 White,Good,6,Rwd,Gas,Gmc,Envoy,229275,1000,Clean,1,2003
 Black,Fair,5,Fwd,Gas,Volkswagen,Jetta,144000,7000,Clean,1,2012
 White,Good,8,4Wd,Gas,Land Rover,Range,134410,17500,Clean,1,2011
-Blue,Excellent,8,Rwd,Gas,Chevrolet,Silverado,63280,14000,Clean,1,1983
 Silver,Excellent,6,4Wd,Gas,Bmw,328Xi,105000,9500,Clean,1,2008
 Silver,Good,4,Rwd,Gas,Mercedes,Slk,210000,3950,Clean,1,2002
 Black,Like New,6,Rwd,Diesel,Dodge,Ram,12700,48000,Clean,1,2020
@@ -28888,6 +29012,7 @@ White,Good,6,4Wd,Gas,Ford,Ranger,200000,3995,Clean,0,2001
 Silver,Good,4,Fwd,Gas,Toyota,Camry,210000,4200,Clean,1,2007
 Black,Good,6,Fwd,Gas,Ford,Escape,171351,3850,Clean,1,2010
 Silver,Good,4,Fwd,Gas,Mazda,5,249000,2500,Clean,1,2007
+Blue,Like New,4,Fwd,Hybrid,Ford,Maverick,2800,34990,Clean,1,2022
 Silver,Excellent,6,Fwd,Gas,Chevrolet,Impala,115000,1500,Clean,1,2013
 Black,Excellent,4,Fwd,Gas,Honda,Civic,62000,13900,Rebuilt,1,2015
 Grey,Excellent,6,4Wd,Gas,Audi,S5,67499,21999,Clean,1,2013
@@ -28926,6 +29051,7 @@ Green,Good,6,Fwd,Gas,Toyota,Sienna,250000,2900,Clean,1,2001
 Blue,Excellent,4,Fwd,Gas,Nissan,Altima,100000,12000,Clean,1,2016
 White,Good,4,Fwd,Gas,Honda,Civic,275000,6000,Clean,0,1993
 Grey,Excellent,6,4Wd,Gas,Ford,F150,82400,57000,Clean,1,2019
+Red,Excellent,8,Rwd,Gas,Jaguar,Xk8,79151,6000,Clean,1,1999
 Red,Excellent,4,Fwd,Gas,Nissan,Altima,54000,18250,Clean,1,2017
 Grey,Excellent,4,Fwd,Gas,Nissan,Sentra,130000,6300,Clean,1,2013
 Grey,Excellent,6,4Wd,Gas,Audi,Q7,101820,24900,Clean,1,2017
@@ -29137,7 +29263,6 @@ Black,Good,8,4Wd,Gas,Chevrolet,Silverado,136000,16000,Clean,1,2004
 White,Excellent,8,Fwd,Diesel,Ford,F250,100287,20000,Clean,1,2001
 Red,Excellent,6,Fwd,Gas,Dodge,Grand,95780,6199,Clean,1,2010
 Grey,Excellent,6,Rwd,Gas,Dodge,Challenger,96000,17000,Salvage,1,2018
-Brown,Excellent,8,4Wd,Gas,Ford,F350,167000,24000,Clean,1,1980
 Black,Excellent,6,4Wd,Gas,Volkswagen,Touareg,152000,8995,Clean,1,2013
 Grey,Excellent,6,Rwd,Gas,Infiniti,Fx35,135000,12995,Clean,1,2012
 Black,Excellent,6,Fwd,Gas,Chrysler,200,130000,7995,Clean,1,2015
@@ -29423,7 +29548,6 @@ Black,Excellent,6,4Wd,Gas,Audi,Q7,134000,12995,Clean,1,2014
 Grey,Good,4,Fwd,Gas,Hyundai,Elantra,182400,4700,Clean,1,2013
 Grey,Good,4,Fwd,Gas,Scion,Tc,165300,5800,Clean,1,2013
 Grey,Excellent,4,Fwd,Gas,Ford,Focus,73000,10995,Clean,1,2014
-Brown,Good,8,4Wd,Gas,Ford,Bronco,1,22500,Clean,1,1981
 Black,Good,6,Rwd,Gas,Porsche,Boxster,90000,8500,Clean,0,2001
 Black,Excellent,4,Fwd,Gas,Chevrolet,Cruze,90000,10900,Clean,1,2018
 Red,Excellent,8,4Wd,Diesel,Ford,F250,77000,52000,Clean,1,2017
@@ -30112,6 +30236,7 @@ Silver,Excellent,6,4Wd,Gas,Toyota,Tacoma,122300,11500,Clean,0,2001
 Brown,Excellent,4,Fwd,Gas,Kia,Optima,142500,7499,Clean,1,2014
 Grey,Excellent,4,Fwd,Gas,Ford,Fiesta,53953,15000,Salvage,0,2018
 White,Good,4,Fwd,Gas,Nissan,Maxima,150877,3000,Clean,1,2000
+Silver,Like New,4,Fwd,Gas,Chevrolet,Trax,34862,13500,Salvage,1,2019
 White,Excellent,4,Fwd,Gas,Kia,Rio,84655,7500,Salvage,1,2016
 Silver,Excellent,4,Fwd,Gas,Nissan,Altima,104000,5300,Clean,1,2009
 White,Fair,8,4Wd,Diesel,Ford,F250,280000,7500,Clean,1,2000
@@ -30256,6 +30381,7 @@ Blue,Excellent,4,Fwd,Gas,Honda,Civic,35698,1499,Clean,1,2019
 Grey,Excellent,4,Fwd,Gas,Nissan,Rogue,54800,16500,Rebuilt,1,2019
 Grey,Excellent,4,Fwd,Gas,Jeep,Patriot,29005,15500,Rebuilt,1,2015
 Red,Excellent,6,Fwd,Gas,Chrysler,Town,68000,19900,Rebuilt,1,2011
+Custom,Good,4,4Wd,Gas,Hyundai,Santa,20655,21000,Clean,1,2023
 Blue,Excellent,4,Fwd,Gas,Toyota,Corolla,56212,15500,Rebuilt,1,2015
 White,Good,8,Rwd,Gas,Ford,F150,93000,9900,Clean,1,2011
 Red,Good,4,Fwd,Gas,Chevrolet,Malibu,155704,4495,Clean,1,2009
@@ -30467,6 +30593,7 @@ Blue,Fair,4,Fwd,Gas,Toyota,Corolla,189000,1900,Clean,1,1991
 White,Good,6,4Wd,Gas,Mercedes,C300,174000,5800,Clean,1,2011
 Grey,Like New,8,Rwd,Gas,Chevrolet,Tahoe,70000,21100,Rebuilt,1,2015
 Grey,Good,4,Fwd,Gas,Toyota,Camry,40000,16499,Salvage,1,2020
+Black,Excellent,8,Rwd,Gas,Jaguar,Xk8,116000,6900,Clean,1,1997
 Red,Like New,8,Rwd,Gas,Ford,Mustang,14500,55000,Clean,0,2013
 Grey,Excellent,6,4Wd,Gas,Subaru,Outback,131035,9599,Clean,1,2012
 Black,Excellent,4,Fwd,Gas,Chevrolet,Malibu,32000,16999,Rebuilt,1,2020
@@ -30603,6 +30730,7 @@ Black,Fair,6,4Wd,Gas,Audi,A6,120000,5800,Clean,1,2012
 White,Like New,4,4Wd,Gas,Jeep,Cherokee,63000,17500,Clean,1,2016
 Silver,Excellent,8,4Wd,Gas,Hummer,H2,170600,10500,Clean,1,2003
 White,Good,8,4Wd,Gas,Chevrolet,Silverado,176000,14000,Clean,1,2008
+Green,New,4,4Wd,Gas,Ford,Bronco,77,45000,Clean,0,2023
 Black,Excellent,4,4Wd,Gas,Subaru,Forester,72000,16500,Clean,1,2015
 Green,Good,6,4Wd,Gas,Nissan,Xterra,214000,4800,Clean,1,2001
 Grey,Fair,4,Fwd,Gas,Mazda,3,184000,3500,Clean,1,2004
@@ -30799,7 +30927,6 @@ Grey,Excellent,4,Fwd,Gas,Volkswagen,Gti,90000,13500,Clean,0,2012
 Silver,Excellent,6,4Wd,Gas,Mercedes,C300,145000,6000,Clean,1,2010
 White,Excellent,4,Fwd,Gas,Mazda,3,110515,10000,Clean,1,2012
 Black,Excellent,8,4Wd,Diesel,Ford,F250,252000,16000,Clean,1,2000
-White,Good,6,4Wd,Gas,Chevrolet,Blazer,201000,1800,Clean,1,1982
 Black,Good,8,4Wd,Gas,Ford,F150,115500,16000,Clean,1,2010
 Black,Good,6,Rwd,Gas,Mercedes,E350,66335,20500,Clean,1,2016
 Brown,Fair,6,Fwd,Gas,Ford,Taurus,76283,1800,Clean,1,2003
@@ -30963,6 +31090,7 @@ White,Good,8,4Wd,Gas,Ford,F150,125000,14000,Clean,1,1991
 White,Excellent,8,4Wd,Gas,Ford,F350,186000,15000,Clean,1,1995
 Silver,Excellent,4,4Wd,Gas,Subaru,Legacy,161000,8250,Clean,1,2010
 Grey,Good,8,4Wd,Gas,Toyota,4Runner,187000,9550,Clean,1,2003
+White,Good,8,Rwd,Gas,Bmw,M5,88961,27500,Clean,1,2013
 White,Excellent,6,Fwd,Gas,Chevrolet,Traverse,90000,16000,Clean,1,2015
 Black,Fair,8,4Wd,Gas,Ford,F150,24232,1850,Clean,1,1996
 White,Good,6,Fwd,Gas,Chevrolet,Impala,139243,9995,Clean,1,2016
@@ -31046,6 +31174,7 @@ White,Like New,4,4Wd,Gas,Audi,Tt,123000,16500,Clean,1,2009
 White,Good,8,4Wd,Diesel,Gmc,Sierra,133200,23500,Clean,1,2005
 Red,Good,4,Rwd,Gas,Ford,Explorer,65038,24900,Clean,1,2016
 Silver,Excellent,6,4Wd,Gas,Bmw,328I,67000,8000,Clean,1,2011
+Silver,Excellent,8,Rwd,Gas,Jaguar,Xk8,50792,21500,Clean,1,2009
 Black,Like New,4,Fwd,Gas,Volkswagen,Gti,2487,33900,Clean,0,2022
 Red,Excellent,4,4Wd,Gas,Honda,Crv,176000,8500,Clean,1,2011
 White,Excellent,8,Rwd,Diesel,Ford,F350,168837,7500,Clean,1,2005
@@ -31253,7 +31382,6 @@ White,Excellent,6,4Wd,Gas,Toyota,4Runner,298300,6800,Clean,1,2002
 Silver,Excellent,8,Rwd,Gas,Ford,E350,177000,8000,Clean,1,2006
 White,Excellent,10,4Wd,Gas,Ford,F250,203000,7000,Clean,1,2001
 White,Excellent,6,4Wd,Gas,Toyota,Tacoma,181000,16000,Clean,0,2000
-White,Good,4,Rwd,Gas,Volkswagen,Vanagon,131000,16000,Clean,0,1983
 Blue,Fair,6,Fwd,Gas,Honda,Crv,181217,9000,Clean,1,2013
 Red,Excellent,6,4Wd,Gas,Jeep,Wrangler,60600,49000,Clean,1,2016
 Black,Excellent,6,4Wd,Gas,Dodge,Durango,121000,24000,Clean,1,2018
@@ -31740,12 +31868,14 @@ Black,Excellent,0,Fwd,Electric,Chevrolet,Volt,56000,13900,Clean,1,2013
 Brown,Like New,4,4Wd,Other,Toyota,Rav4,197800,9000,Clean,1,2011
 Blue,Excellent,4,4Wd,Gas,Subaru,Wrx,29000,29900,Clean,1,2018
 Black,Good,4,Fwd,Gas,Chrysler,Pt,75000,2900,Clean,1,2003
+Grey,New,4,4Wd,Gas,Ford,Maverick,45,31990,Clean,1,2023
 Brown,Good,8,4Wd,Gas,Ford,F150,220000,5600,Clean,1,2008
 Silver,Excellent,4,4Wd,Gas,Subaru,Forester,140000,5500,Salvage,1,2003
 Red,Good,6,4Wd,Gas,Jeep,Wrangler,165000,10500,Clean,0,1995
 White,Excellent,6,Fwd,Gas,Chevrolet,Impala,24643,15500,Clean,1,2016
 Black,Good,4,4Wd,Gas,Audi,A4,122000,7500,Clean,0,2011
 Green,Fair,4,Fwd,Gas,Volkswagen,Golf,202000,3500,Clean,0,1999
+Custom,Excellent,6,4Wd,Gas,Dodge,Dakota,131000,8000,Clean,1,2023
 White,Excellent,6,4Wd,Gas,Ford,F250,220000,22000,Clean,1,2015
 Blue,Fair,4,4Wd,Gas,Subaru,Outback,202000,3500,Clean,1,1999
 Blue,Excellent,8,4Wd,Gas,Lexus,Gx,146026,18000,Clean,1,2005
@@ -31796,6 +31926,7 @@ Silver,Excellent,8,4Wd,Gas,Dodge,Durango,127000,8500,Clean,1,2008
 Silver,Excellent,6,4Wd,Gas,Chevrolet,Trailblazer,155000,4800,Clean,1,2005
 Yellow,Good,8,4Wd,Gas,Ford,F150,132000,10999,Clean,1,2010
 Black,Good,6,4Wd,Gas,Nissan,Frontier,231326,11250,Clean,1,2011
+Silver,Excellent,8,Rwd,Gas,Jaguar,Xk8,97000,9800,Clean,1,2003
 Black,Good,4,Fwd,Gas,Honda,Civic,27000,12900,Rebuilt,1,2020
 Grey,Excellent,8,4Wd,Gas,Toyota,Tundra,194971,26000,Clean,1,2016
 Blue,Good,4,Fwd,Hybrid,Toyota,Prius,130000,1600,Clean,1,2002
